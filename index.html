@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>English Notes</title>
+  <meta name="theme-color" content="#2f5d50">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>English Notes</h1>
+    <input id="search" type="search" placeholder="검색 (영어/뜻)" autocomplete="off">
+    <div class="filters" role="tablist">
+      <button data-type="all" class="active">전체</button>
+      <button data-type="word">단어</button>
+      <button data-type="idiom">숙어</button>
+    </div>
+  </header>
+  <main id="list"></main>
+  <script src="app.js"></script>
+</body>
+</html>

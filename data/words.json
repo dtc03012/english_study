@@ -1,0 +1,26 @@
+[
+  {
+    "type": "idiom",
+    "term": "break the ice",
+    "meaning": "어색한 분위기를 깨다, 말문을 트다",
+    "note": "처음 만난 사람들 사이의 긴장을 풀 때 자주 씀. icebreaker(분위기 푸는 활동)도 많이 쓰임.",
+    "examples": [
+      { "en": "He told a joke to break the ice.", "ko": "그는 어색한 분위기를 깨려고 농담을 했다." },
+      { "en": "Let's play a quick game to break the ice.", "ko": "분위기 좀 풀게 간단한 게임 하나 하자." },
+      { "en": "It took a while to break the ice with my new coworkers.", "ko": "새 동료들과 말문을 트는 데 시간이 좀 걸렸다." }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "awkward",
+    "meaning": "(형) 어색한, 곤란한, 다루기 힘든",
+    "note": "원어민이 아주 자주 쓰는 단어. 상황·분위기·사람 모두에 쓸 수 있음.",
+    "examples": [
+      { "en": "There was an awkward silence after he said that.", "ko": "그가 그 말을 한 뒤 어색한 침묵이 흘렀다." },
+      { "en": "Sorry, this is a bit awkward to ask.", "ko": "미안, 이거 묻기 좀 곤란하긴 한데." },
+      { "en": "I felt so awkward at the party because I didn't know anyone.", "ko": "아는 사람이 없어서 파티에서 너무 어색했다." }
+    ],
+    "added": "2026-11-13"
+  }
+]

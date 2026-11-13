@@ -1,0 +1,91 @@
+:root {
+  --bg: #f6f5f1;
+  --card: #ffffff;
+  --text: #1f2421;
+  --muted: #6b716d;
+  --accent: #2f5d50;
+  --accent-soft: #e3ece8;
+  --border: #e2e0da;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141716;
+    --card: #1e2220;
+    --text: #e8ebe9;
+    --muted: #9aa29d;
+    --accent: #7fc0a8;
+    --accent-soft: #24332d;
+    --border: #2c312e;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Noto Sans KR", sans-serif;
+  line-height: 1.5;
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--bg);
+  padding: calc(12px + env(safe-area-inset-top)) 16px 10px;
+  border-bottom: 1px solid var(--border);
+}
+h1 { margin: 0 0 10px; font-size: 1.25rem; color: var(--accent); }
+#search {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--text);
+}
+.filters { display: flex; gap: 8px; margin-top: 10px; }
+.filters button {
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--text);
+  font-size: 0.9rem;
+}
+.filters button.active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+main { padding: 8px 16px 40px; max-width: 720px; margin: 0 auto; }
+.date { margin: 20px 0 8px; font-size: 0.85rem; color: var(--muted); font-weight: 600; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+}
+.head { display: flex; align-items: center; gap: 8px; }
+.term { font-size: 1.2rem; font-weight: 700; margin: 0; flex: 1; }
+.tag {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.speak {
+  border: none;
+  background: none;
+  color: var(--accent);
+  font-size: 1.2rem;
+  padding: 4px;
+  cursor: pointer;
+}
+.meaning { margin: 4px 0 0; font-weight: 600; }
+.note { margin: 6px 0 0; color: var(--muted); font-size: 0.9rem; }
+.examples { list-style: none; padding: 0; margin: 10px 0 0; border-top: 1px dashed var(--border); }
+.examples li { padding: 8px 0 0; }
+.en { display: flex; gap: 6px; align-items: flex-start; }
+.en span { flex: 1; }
+.examples .speak { font-size: 0.95rem; padding: 0 2px; }
+.ko { color: var(--muted); font-size: 0.9rem; }
+.empty { text-align: center; color: var(--muted); margin-top: 60px; }
