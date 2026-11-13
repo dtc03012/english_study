@@ -741,5 +741,131 @@
       }
     ],
     "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "stifling",
+    "meaning": "(형) 숨 막히는, 답답한; (분위기·규제가) 억누르는",
+    "note": "날씨가 덥고 답답할 때(stifling heat/humidity), 분위기나 규제가 자유를 억누를 때(a stifling atmosphere, stifling regulations) 모두 씀. 동사 stifle은 '억누르다, (하품·웃음을) 참다'(stifle a yawn, stifle innovation).",
+    "examples": [
+      {
+        "en": "The heat in the subway was stifling.",
+        "ko": "지하철 안 더위가 숨 막힐 정도였다."
+      },
+      {
+        "en": "She left the company because of its stifling culture.",
+        "ko": "그녀는 답답한 회사 문화 때문에 회사를 떠났다."
+      },
+      {
+        "en": "Critics say the new rules are stifling innovation.",
+        "ko": "비평가들은 새 규정이 혁신을 억누르고 있다고 말한다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "hefty",
+    "meaning": "(형) (금액·양이) 상당한, 큰; 묵직한, 덩치 큰",
+    "note": "뉴스에서 큰 금액을 강조할 때 자주 씀: a hefty fine(거액의 벌금), a hefty price tag(비싼 가격표), hefty fees. 일상에선 '묵직한 물건/덩치 큰 사람'. 금액에 쓰면 '부담스러울 만큼 큰' 뉘앙스.",
+    "examples": [
+      {
+        "en": "The company was hit with a hefty fine for violating privacy laws.",
+        "ko": "그 회사는 개인정보 보호법 위반으로 거액의 벌금을 맞았다."
+      },
+      {
+        "en": "That new phone comes with a hefty price tag.",
+        "ko": "그 새 휴대폰은 가격이 꽤 비싸다."
+      },
+      {
+        "en": "He picked up a hefty box of books.",
+        "ko": "그는 묵직한 책 상자를 들어 올렸다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "outage",
+    "meaning": "(명) (전기·서비스의) 정전, 중단, 장애",
+    "note": "전기·인터넷·서버 등이 끊기는 것. power outage(정전), internet/service outage(서비스 장애), a widespread outage(광범위한 장애). IT·뉴스에서 매우 자주 씀. blackout은 주로 대규모 정전.",
+    "examples": [
+      {
+        "en": "A power outage left thousands of homes without electricity.",
+        "ko": "정전으로 수천 가구에 전기가 끊겼다."
+      },
+      {
+        "en": "The app was down for hours due to a server outage.",
+        "ko": "서버 장애로 앱이 몇 시간 동안 멈췄다."
+      },
+      {
+        "en": "Sorry I didn't reply. We had an internet outage at the office.",
+        "ko": "답장 못 해서 미안. 사무실 인터넷이 끊겼었어."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "scrambling",
+    "meaning": "(동, scramble의 -ing) (급하게) 서두르다, 허둥지둥 ~하려 애쓰다; 쟁탈전을 벌이다",
+    "note": "원형은 scramble. 뉴스에서 be scrambling to + 동사(~하려고 허둥지둥하다) 형태가 매우 흔함: governments are scrambling to respond. scramble for ~ = ~을 차지하려고 다투다. 요리에선 scrambled eggs(스크램블드에그).",
+    "examples": [
+      {
+        "en": "Airlines are scrambling to rebook passengers after the outage.",
+        "ko": "항공사들이 장애 이후 승객들의 예약을 다시 잡느라 분주하다."
+      },
+      {
+        "en": "I was scrambling to finish the report before the deadline.",
+        "ko": "마감 전에 보고서를 끝내려고 허둥지둥했다."
+      },
+      {
+        "en": "Investors are scrambling for safe assets.",
+        "ko": "투자자들이 안전자산을 차지하려고 몰려들고 있다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "sustained",
+    "meaning": "(형) 지속적인, 꾸준한, 계속된",
+    "note": "일정 기간 끊김 없이 이어지는 것. sustained growth(지속적 성장), sustained pressure(계속된 압박), sustained effort. 동사 sustain은 '유지하다, (부상·피해를) 입다'(sustain injuries/damage)로 뉴스에 자주 나옴.",
+    "examples": [
+      {
+        "en": "The economy needs sustained growth to create more jobs.",
+        "ko": "경제가 더 많은 일자리를 만들려면 지속적인 성장이 필요하다."
+      },
+      {
+        "en": "Learning a language takes sustained effort.",
+        "ko": "언어를 배우려면 꾸준한 노력이 필요하다."
+      },
+      {
+        "en": "The city came under sustained attack overnight.",
+        "ko": "그 도시는 밤새 계속된 공격을 받았다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "imbalance",
+    "meaning": "(명) 불균형",
+    "note": "두 쪽의 양·힘이 맞지 않는 상태. trade imbalance(무역 불균형), supply and demand imbalance(수급 불균형), power imbalance(힘의 불균형), chemical/hormonal imbalance. 형용사는 imbalanced/unbalanced.",
+    "examples": [
+      {
+        "en": "The trade imbalance between the two countries keeps growing.",
+        "ko": "두 나라 사이 무역 불균형이 계속 커지고 있다."
+      },
+      {
+        "en": "Prices rose because of an imbalance between supply and demand.",
+        "ko": "수요와 공급의 불균형 때문에 가격이 올랐다."
+      },
+      {
+        "en": "There's a big power imbalance in that relationship.",
+        "ko": "그 관계에는 힘의 불균형이 크다."
+      }
+    ],
+    "added": "2026-11-13"
   }
 ]
