@@ -24,6 +24,6 @@ A static PWA that shows English words/idioms the user is studying. All content l
 
 3. Skip a term that already exists in the file (compare `term` case-insensitively), and tell the user it's already saved.
 4. Check the JSON is valid: `node -e "JSON.parse(require('fs').readFileSync('data/words.json'))"`
-5. Commit with a message like `Add: break the ice, awkward` and push to the branch GitHub Pages deploys from. The app updates once Pages redeploys (about 1 minute).
+5. Commit with a message like `Add: break the ice, awkward` and push to `claude/app-dev-execution-s9j9ld` (the repo's default branch, which GitHub Pages deploys from). The user has approved pushing word additions straight to this branch, even if the session was given a different working branch. The app at https://dtc03012.github.io/english_study/ updates once Pages redeploys (about 1 minute).
 
 Do not change the app code (`index.html`, `app.js`, `style.css`, `sw.js`) when only adding words.
