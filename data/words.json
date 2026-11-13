@@ -380,5 +380,26 @@
       }
     ],
     "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "way more",
+    "meaning": "훨씬 더 (많은/~한)",
+    "note": "way는 구어에서 much/far를 대신하는 강조어. way more + 명사(훨씬 더 많은 ~), way more + 형용사(훨씬 더 ~한), 동사 뒤(I like this way more). 비교급 앞에도 붙음: way better, way bigger, way too(너무 지나치게). 캐주얼한 말투라 격식 있는 글에서는 much/far more를 쓰는 게 좋음.",
+    "examples": [
+      {
+        "en": "This place is way more expensive than I expected.",
+        "ko": "여기 생각보다 훨씬 더 비싸네."
+      },
+      {
+        "en": "There were way more people at the concert than last year.",
+        "ko": "콘서트에 작년보다 훨씬 더 많은 사람이 왔어."
+      },
+      {
+        "en": "Honestly, I like the new version way more.",
+        "ko": "솔직히 새 버전이 훨씬 더 좋아."
+      }
+    ],
+    "added": "2026-11-13"
   }
 ]
