@@ -67,7 +67,113 @@ searchEl.addEventListener('input', render);
 filterBtns.forEach((btn) => btn.addEventListener('click', () => {
   filterBtns.forEach((b) => b.classList.toggle('active', b === btn));
   typeFilter = btn.dataset.type;
-  render();
+  if (view === 'quiz') startQuiz(); else render();
+}));
+
+// ---- Quiz: 4-choice questions, term -> meaning or meaning -> term ----
+const quizEl = document.getElementById('quiz');
+const tabBtns = document.querySelectorAll('.tabs button');
+const QUIZ_LEN = 10;
+let view = 'list';
+let quiz = null; // { questions, index, wrong: [] }
+
+const shuffle = (arr) => {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};
+
+function startQuiz() {
+  const pool = entries.filter((e) => typeFilter === 'all' || e.type === typeFilter);
+  if (pool.length < 4) {
+    quizEl.innerHTML = '<p class="empty">퀴즈를 하려면 표현이 4개 이상 필요합니다.</p>';
+    return;
+  }
+  const questions = shuffle(pool).slice(0, QUIZ_LEN).map((answer) => {
+    // Prefer distractors of the same type so choices look alike.
+    const same = pool.filter((e) => e !== answer && e.type === answer.type);
+    const others = pool.filter((e) => e !== answer && e.type !== answer.type);
+    const distractors = [...shuffle(same), ...shuffle(others)].slice(0, 3);
+    return { answer, choices: shuffle([answer, ...distractors]), reverse: Math.random() < 0.5 };
+  });
+  quiz = { questions, index: 0, wrong: [] };
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const { questions, index } = quiz;
+  const q = questions[index];
+  const prompt = q.reverse ? q.answer.meaning : q.answer.term;
+  quizEl.innerHTML = `
+    <div class="q-progress">${index + 1} / ${questions.length}</div>
+    <article class="card">
+      <div class="head">
+        <h2 class="q-prompt">${esc(prompt)}</h2>
+        ${q.reverse ? '' : `<button class="speak" data-say="${esc(prompt)}" aria-label="발음 듣기">🔊</button>`}
+      </div>
+      <p class="q-hint">${q.reverse ? '알맞은 영어 표현은?' : '알맞은 뜻은?'}</p>
+      <div class="choices">
+        ${q.choices.map((c, i) => `<button class="choice" data-i="${i}">${esc(q.reverse ? c.term : c.meaning)}</button>`).join('')}
+      </div>
+      <div class="explain"></div>
+    </article>`;
+}
+
+function answer(i) {
+  const q = quiz.questions[quiz.index];
+  const buttons = quizEl.querySelectorAll('.choice');
+  if (buttons[0].disabled) return;
+  buttons.forEach((b, j) => {
+    b.disabled = true;
+    if (q.choices[j] === q.answer) b.classList.add('right');
+  });
+  if (q.choices[i] !== q.answer) {
+    buttons[i].classList.add('wrong');
+    quiz.wrong.push(q.answer);
+  }
+  const ex = q.answer.examples[0];
+  const last = quiz.index === quiz.questions.length - 1;
+  quizEl.querySelector('.explain').innerHTML = `
+    <p class="meaning">${esc(q.answer.term)} — ${esc(q.answer.meaning)}</p>
+    ${ex ? `<div class="en"><span>${esc(ex.en)}</span><button class="speak" data-say="${esc(ex.en)}" aria-label="예문 듣기">🔊</button></div><div class="ko">${esc(ex.ko)}</div>` : ''}
+    <button class="primary" data-next>${last ? '결과 보기' : '다음'}</button>`;
+}
+
+function renderResult() {
+  const total = quiz.questions.length;
+  const right = total - quiz.wrong.length;
+  quizEl.innerHTML = `
+    <div class="score">${right} / ${total}</div>
+    <p class="empty" style="margin-top:0">${right === total ? '전부 맞혔어요! 🎉' : '틀린 표현을 다시 확인해 보세요.'}</p>
+    ${quiz.wrong.map((e) => `
+      <article class="card">
+        <div class="head"><h2 class="term">${esc(e.term)}</h2><button class="speak" data-say="${esc(e.term)}" aria-label="발음 듣기">🔊</button></div>
+        <p class="meaning">${esc(e.meaning)}</p>
+      </article>`).join('')}
+    <button class="primary" data-restart>다시 하기</button>`;
+}
+
+quizEl.addEventListener('click', (ev) => {
+  const t = ev.target;
+  if (t.closest('.speak')) return speak(t.closest('.speak').dataset.say);
+  if (t.closest('.choice')) return answer(Number(t.closest('.choice').dataset.i));
+  if (t.closest('[data-next]')) {
+    quiz.index++;
+    return quiz.index < quiz.questions.length ? renderQuestion() : renderResult();
+  }
+  if (t.closest('[data-restart]')) startQuiz();
+});
+
+tabBtns.forEach((btn) => btn.addEventListener('click', () => {
+  view = btn.dataset.view;
+  tabBtns.forEach((b) => b.classList.toggle('active', b === btn));
+  listEl.hidden = view !== 'list';
+  searchEl.hidden = view !== 'list';
+  quizEl.hidden = view !== 'quiz';
+  if (view === 'quiz') startQuiz();
 }));
 
 fetch('data/words.json', { cache: 'no-store' })

@@ -12,7 +12,13 @@
 </head>
 <body>
   <header>
-    <h1>English Notes</h1>
+    <div class="top">
+      <h1>English Notes</h1>
+      <div class="tabs">
+        <button data-view="list" class="active">목록</button>
+        <button data-view="quiz">퀴즈</button>
+      </div>
+    </div>
     <input id="search" type="search" placeholder="검색 (영어/뜻)" autocomplete="off">
     <div class="filters" role="tablist">
       <button data-type="all" class="active">전체</button>
@@ -21,6 +27,7 @@
     </div>
   </header>
   <main id="list"></main>
+  <main id="quiz" hidden></main>
   <script src="app.js"></script>
 </body>
 </html>
