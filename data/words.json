@@ -993,5 +993,515 @@
       }
     ],
     "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "piece of cake",
+    "meaning": "식은 죽 먹기, 아주 쉬운 일",
+    "note": "아주 쉬운 일을 말할 때. It's a piece of cake. 형태로 캐주얼하게 씀. 비슷한 a breeze, easy peasy(아이 말투). 격식 있는 글에선 straightforward, simple.",
+    "examples": [
+      {
+        "en": "Don't worry, the test was a piece of cake.",
+        "ko": "걱정 마, 시험 식은 죽 먹기였어."
+      },
+      {
+        "en": "Setting up the app is a piece of cake.",
+        "ko": "그 앱 설치는 아주 쉬워."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "hit the road",
+    "meaning": "출발하다, 길을 나서다",
+    "note": "여행·귀가 등 어디론가 떠날 때. We should hit the road.(이제 출발하자) 형태가 흔함. 캐주얼. 비슷한 head out. hit the sack(자러 가다)과 헷갈리지 않게.",
+    "examples": [
+      {
+        "en": "It's getting late. We should hit the road.",
+        "ko": "늦었다. 이제 출발해야겠어."
+      },
+      {
+        "en": "We'll hit the road at 7 to avoid traffic.",
+        "ko": "차 막히는 거 피하려고 7시에 출발할 거야."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "in hot water",
+    "meaning": "곤경에 처한, 난처한 입장인",
+    "note": "잘못을 해서 혼나거나 문제가 생긴 상태. get into hot water(곤경에 빠지다). 일상·뉴스 모두 쓰는 중립 표현. in trouble과 비슷하지만 조금 더 생생한 느낌.",
+    "examples": [
+      {
+        "en": "He's in hot water with his boss for missing the deadline.",
+        "ko": "그는 마감을 놓쳐서 상사에게 찍혔다."
+      },
+      {
+        "en": "The company got into hot water over its data practices.",
+        "ko": "그 회사는 데이터 처리 방식 때문에 곤경에 빠졌다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "spill the beans",
+    "meaning": "(비밀을) 누설하다, 털어놓다",
+    "note": "숨기던 비밀을 말해버릴 때. 실수로 말한 경우와 일부러 털어놓는 경우 모두. 캐주얼. Come on, spill the beans!(얼른 털어놔!) 비슷한 let the cat out of the bag(무심코 비밀을 흘리다).",
+    "examples": [
+      {
+        "en": "Who spilled the beans about the surprise party?",
+        "ko": "누가 깜짝 파티 얘기를 흘린 거야?"
+      },
+      {
+        "en": "Come on, spill the beans. What happened on your date?",
+        "ko": "얼른 털어놔. 데이트 어땠어?"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "call the shots",
+    "meaning": "결정권을 쥐다, 좌지우지하다",
+    "note": "누가 결정을 내리는지 말할 때. Who's calling the shots here?(여기 결정권자가 누구야?) 직장·정치 대화에서 자주 씀. 중립~캐주얼. 비슷한 be in charge, run the show.",
+    "examples": [
+      {
+        "en": "She calls the shots in this department.",
+        "ko": "이 부서는 그녀가 결정을 내린다."
+      },
+      {
+        "en": "I'm not the one calling the shots, so I'll ask my manager.",
+        "ko": "제가 결정권자는 아니라서 매니저에게 물어볼게요."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "once in a blue moon",
+    "meaning": "아주 가끔, 어쩌다 한 번",
+    "note": "거의 일어나지 않는 드문 일. 캐주얼. rarely보다 생생하고 약간 유머러스함. 비슷한 every now and then은 '가끔'으로 빈도가 더 높음.",
+    "examples": [
+      {
+        "en": "I only eat fast food once in a blue moon.",
+        "ko": "패스트푸드는 아주 가끔만 먹어."
+      },
+      {
+        "en": "My brother calls me once in a blue moon.",
+        "ko": "형은 어쩌다 한 번 전화해."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "get cold feet",
+    "meaning": "(막상 하려니) 겁이 나다, 망설이다",
+    "note": "결혼·발표·큰 결정 직전에 갑자기 불안해서 주저할 때. 캐주얼~중립. 결혼식 직전 긴장에 특히 자주 씀. chicken out은 '겁먹고 그만두다'로 더 부정적.",
+    "examples": [
+      {
+        "en": "He got cold feet the night before the wedding.",
+        "ko": "그는 결혼식 전날 밤 겁이 나서 망설였다."
+      },
+      {
+        "en": "I was going to quit my job, but I got cold feet.",
+        "ko": "회사를 그만두려 했는데 막상 하려니 겁이 났어."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "the last straw",
+    "meaning": "(참아온 끝에) 마지막 결정타, 더는 못 참는 일",
+    "note": "계속 쌓여온 불만이 마침내 터지게 만든 일. That was the last straw.(그게 결정타였어) 형태. 중립. the straw that broke the camel's back(낙타 등을 부러뜨린 마지막 지푸라기)을 줄인 말.",
+    "examples": [
+      {
+        "en": "When he was late again, that was the last straw.",
+        "ko": "그가 또 늦었을 때 더는 못 참겠더라."
+      },
+      {
+        "en": "The rent increase was the last straw, so we moved out.",
+        "ko": "월세 인상이 결정타여서 우리는 이사 나갔다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "pull someone's leg",
+    "meaning": "놀리다, 농담으로 속이다",
+    "note": "진지한 척 거짓말로 장난칠 때. Are you pulling my leg?(농담하는 거지?) 형태가 흔함. 캐주얼하고 악의 없는 장난. kid와 비슷(Are you kidding me?).",
+    "examples": [
+      {
+        "en": "Relax, I'm just pulling your leg.",
+        "ko": "진정해, 그냥 장난친 거야."
+      },
+      {
+        "en": "You won the lottery? Are you pulling my leg?",
+        "ko": "복권 당첨됐다고? 농담하는 거지?"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "keep an eye on",
+    "meaning": "~을 지켜보다, 계속 주시하다",
+    "note": "사람·물건·상황을 계속 살필 때. Can you keep an eye on my bag?(가방 좀 봐줄래?) 일상·업무·뉴스(시장 동향 주시) 모두 쓰는 중립 표현. watch보다 '신경 써서 계속 살핀다'는 느낌.",
+    "examples": [
+      {
+        "en": "Can you keep an eye on my bag while I go to the restroom?",
+        "ko": "화장실 다녀오는 동안 가방 좀 봐줄래?"
+      },
+      {
+        "en": "Investors are keeping a close eye on interest rates.",
+        "ko": "투자자들은 금리를 예의주시하고 있다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "yield",
+    "meaning": "(명) (채권) 수익률, 금리 / (동) (결과를) 내다, 양보하다",
+    "note": "경제 뉴스에선 채권 수익률: Treasury yields(미 국채 금리), the 10-year yield rose(10년물 금리가 올랐다). 동사로는 yield results(결과를 내다), yield to pressure(압력에 굴복하다). 도로 표지판 YIELD는 '양보'.",
+    "examples": [
+      {
+        "en": "The 10-year Treasury yield rose above 5.1%.",
+        "ko": "미국 10년물 국채 금리가 5.1%를 넘었다."
+      },
+      {
+        "en": "Bond yields climb as investors brace for more rate hikes",
+        "ko": "추가 금리 인상 대비하며 채권 금리 상승 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "tightening",
+    "meaning": "(명) (통화) 긴축",
+    "note": "중앙은행이 금리를 올리거나 돈줄을 죌 때. monetary tightening(통화 긴축), further tightening(추가 긴축). 반대는 easing(완화). 동사 tighten: tighten rules(규정을 강화하다).",
+    "examples": [
+      {
+        "en": "Markets are pricing in further Fed tightening.",
+        "ko": "시장은 연준의 추가 긴축을 가격에 반영하고 있다."
+      },
+      {
+        "en": "Central bank signals end of tightening cycle",
+        "ko": "중앙은행, 긴축 사이클 종료 시사 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "volatility",
+    "meaning": "(명) 변동성, 급변",
+    "note": "가격이 크게 오르내리는 정도. market volatility(시장 변동성), renewed volatility(다시 커진 변동성). 형용사 volatile(변동이 심한, 불안정한): a volatile situation.",
+    "examples": [
+      {
+        "en": "Global markets faced renewed volatility on Thursday.",
+        "ko": "세계 금융시장은 목요일 다시 변동성에 휩싸였다."
+      },
+      {
+        "en": "Oil price volatility rattles airlines",
+        "ko": "유가 변동성에 항공사들 흔들 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "stubborn",
+    "meaning": "(형) 완고한; (문제가) 좀처럼 해결되지 않는",
+    "note": "사람에겐 '고집 센', 경제 뉴스에선 '잘 안 떨어지는': stubborn inflation(끈질긴 인플레이션), stubbornly high(고질적으로 높은). 비슷한 persistent, sticky.",
+    "examples": [
+      {
+        "en": "Stubborn inflation is keeping interest rates high.",
+        "ko": "끈질긴 물가 상승이 금리를 높게 유지시키고 있다."
+      },
+      {
+        "en": "Unemployment remains stubbornly high in the region.",
+        "ko": "그 지역의 실업률은 좀처럼 떨어지지 않고 있다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "slide",
+    "meaning": "(동/명) (가격이 서서히) 하락(하다)",
+    "note": "주가·통화·지지율이 미끄러지듯 떨어질 때. shares slide, a slide in prices. plummet(급락)보다 완만한 느낌. 헤드라인에선 Nvidia slides처럼 짧게.",
+    "examples": [
+      {
+        "en": "Nvidia shares slid about 4% after the report.",
+        "ko": "보도 이후 엔비디아 주가가 약 4% 하락했다."
+      },
+      {
+        "en": "Dollar slides as rate cut hopes grow",
+        "ko": "금리 인하 기대 커지며 달러 하락 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "benchmark",
+    "meaning": "(명/형) 기준(의), 지표(가 되는)",
+    "note": "비교 기준이 되는 수치. benchmark rate(기준금리), benchmark index(대표 지수), Brent crude benchmark(브렌트유 기준가). 일상에선 '기준점, 벤치마크'(set a benchmark).",
+    "examples": [
+      {
+        "en": "The Bank of England raised its benchmark rate by 25 basis points.",
+        "ko": "영란은행이 기준금리를 0.25%포인트 올렸다."
+      },
+      {
+        "en": "The benchmark S&P 500 closed at a record high.",
+        "ko": "대표 지수인 S&P 500이 사상 최고치로 마감했다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "rattle",
+    "meaning": "(동) (사람·시장을) 불안하게 하다, 뒤흔들다",
+    "note": "충격적 소식이 사람이나 시장을 동요시킬 때. rattle markets/investors. 수동 be rattled(당황하다, 겁먹다). 원래 뜻은 '덜컹거리다'. 비슷한 unsettle, shake.",
+    "examples": [
+      {
+        "en": "Rising tensions with Iran rattled oil markets.",
+        "ko": "이란과의 긴장 고조가 석유 시장을 뒤흔들었다."
+      },
+      {
+        "en": "Investors were rattled by the sudden CEO exit.",
+        "ko": "투자자들은 갑작스러운 CEO 퇴진에 동요했다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "rally",
+    "meaning": "(동/명) (주가 등의) 반등(하다), 상승; 집회",
+    "note": "시장 뉴스에선 하락 뒤 크게 오르는 것: stocks rally, a strong rally. 정치 뉴스에선 '집회'(a campaign rally), rally support(지지를 결집하다). 반대는 sell-off(매도세).",
+    "examples": [
+      {
+        "en": "Tech stocks rallied after strong earnings reports.",
+        "ko": "실적 호조 이후 기술주가 반등했다."
+      },
+      {
+        "en": "Thousands attended the rally in the capital.",
+        "ko": "수천 명이 수도에서 열린 집회에 참석했다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "jitters",
+    "meaning": "(명, 복수) 불안감, 초조함",
+    "note": "시장이나 사람이 불안해하는 상태. market jitters(시장 불안), pre-election jitters. 형용사 jittery(초조한): jittery investors. 일상에선 have the jitters(긴장해서 떨리다).",
+    "examples": [
+      {
+        "en": "Rate jitters sent gold prices lower.",
+        "ko": "금리 불안에 금값이 하락했다."
+      },
+      {
+        "en": "Jittery investors pull money from tech funds",
+        "ko": "불안한 투자자들, 기술 펀드서 자금 회수 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "annualized",
+    "meaning": "(형) 연율로 환산한",
+    "note": "분기·월 수치를 1년 기준으로 환산한 것. GDP 뉴스 단골: grew at an annualized rate of 3.4%(연율 3.4% 성장). 실제 1년 성장률(year-over-year)과 다르니 주의.",
+    "examples": [
+      {
+        "en": "US GDP grew at an annualized rate of 3.4% in the third quarter.",
+        "ko": "미국 GDP는 3분기에 연율 3.4% 성장했다."
+      },
+      {
+        "en": "The annualized return on the fund was about 7%.",
+        "ko": "그 펀드의 연환산 수익률은 약 7%였다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "be expected to",
+    "meaning": "~할 것으로 예상되다",
+    "note": "뉴스·업무에서 가장 흔한 예측 표현. be expected to + 동사. 비슷한 틀: be likely to(~할 가능성이 높다), be set to(~할 예정이다), be due to(~하기로 되어 있다). '기대되다'로만 해석하면 어색할 때가 많음.",
+    "examples": [
+      {
+        "en": "The central bank is expected to raise rates again next month.",
+        "ko": "중앙은행은 다음 달 금리를 또 올릴 것으로 예상된다."
+      },
+      {
+        "en": "The meeting is expected to last about an hour.",
+        "ko": "회의는 한 시간 정도 걸릴 것 같아요."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "in the wake of",
+    "meaning": "~의 여파로, ~직후에",
+    "note": "큰 사건(주로 나쁜 일) 뒤에 이어지는 결과를 말할 때. 뉴스·격식체. 비슷한 following, after, as a result of. wake는 배가 지나간 뒤 생기는 물결.",
+    "examples": [
+      {
+        "en": "In the wake of the scandal, several executives resigned.",
+        "ko": "스캔들 여파로 임원 몇 명이 사임했다."
+      },
+      {
+        "en": "Prices rose in the wake of the storm.",
+        "ko": "폭풍 직후 물가가 올랐다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "as of",
+    "meaning": "~기준으로, ~부터",
+    "note": "시점을 정확히 밝힐 때. as of now/today(지금 기준으로), as of Monday(월요일부터). 업무 이메일·뉴스에서 매우 흔함. 과거 시점이면 '~기준', 미래 시점이면 '~부터'로 해석.",
+    "examples": [
+      {
+        "en": "As of today, we have 120 registered users.",
+        "ko": "오늘 기준으로 등록 사용자는 120명이에요."
+      },
+      {
+        "en": "The new policy takes effect as of January 1.",
+        "ko": "새 정책은 1월 1일부터 시행된다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "on track to",
+    "meaning": "~할 순조로운 궤도에 있는",
+    "note": "목표를 향해 계획대로 가고 있을 때. on track to + 동사 / on track for + 명사. 업무 보고에 자주 씀. 반대는 behind schedule, off track.",
+    "examples": [
+      {
+        "en": "We're on track to finish the project by Friday.",
+        "ko": "금요일까지 프로젝트를 끝낼 수 있게 순조롭게 진행 중이에요."
+      },
+      {
+        "en": "The economy is on track for its best year since 2021.",
+        "ko": "경제가 2021년 이후 최고의 한 해를 보낼 궤도에 올라 있다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "at the expense of",
+    "meaning": "~을 희생하면서, ~을 대가로",
+    "note": "무언가를 얻으면서 다른 것을 잃을 때. at the expense of quality/health(품질/건강을 희생하며). 비슷한 at the cost of. 일상에서 at my expense는 '나를 놀림감 삼아'(a joke at my expense)라는 뜻도 있음.",
+    "examples": [
+      {
+        "en": "They cut costs at the expense of safety.",
+        "ko": "그들은 안전을 희생하면서 비용을 줄였다."
+      },
+      {
+        "en": "Don't work so much at the expense of your health.",
+        "ko": "건강을 해쳐가면서까지 그렇게 일하지 마."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "it turns out (that)",
+    "meaning": "알고 보니 ~이다",
+    "note": "예상과 다른 사실을 나중에 알게 됐을 때. 대화에서 아주 자연스러움. 과거면 It turned out (that) ~. 비슷한 as it turns out(알고 보니). turn out to be ~ (결국 ~로 판명되다) 형태로도 씀.",
+    "examples": [
+      {
+        "en": "It turns out the restaurant was closed on Mondays.",
+        "ko": "알고 보니 그 식당은 월요일에 문을 닫더라."
+      },
+      {
+        "en": "The rumor turned out to be false.",
+        "ko": "그 소문은 결국 거짓으로 밝혀졌다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "end up ~ing",
+    "meaning": "결국 ~하게 되다",
+    "note": "계획하지 않았는데 결과적으로 그렇게 됐을 때. end up + 동사ing / end up + 장소(end up in Paris). 일상 대화 필수 표현. finally(마침내)는 '기다리던 끝에'라 뉘앙스가 다름.",
+    "examples": [
+      {
+        "en": "We ended up staying home because of the rain.",
+        "ko": "비 때문에 결국 집에 있었어."
+      },
+      {
+        "en": "I ended up spending way more than I planned.",
+        "ko": "계획보다 훨씬 더 많이 써버렸어."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "be likely to",
+    "meaning": "~할 가능성이 높다, ~할 것 같다",
+    "note": "확률을 말하는 중립적 표현. be likely to + 동사, It's likely that ~. 반대는 be unlikely to. probably보다 문장 구조로 쓰기 좋아서 뉴스·보고서에 많음.",
+    "examples": [
+      {
+        "en": "Prices are likely to rise further this winter.",
+        "ko": "이번 겨울 물가는 더 오를 가능성이 높다."
+      },
+      {
+        "en": "He's unlikely to agree to the deal.",
+        "ko": "그가 그 거래에 동의할 것 같지는 않아."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "in terms of",
+    "meaning": "~의 면에서, ~에 관해서는",
+    "note": "어떤 기준이나 측면을 정해서 말할 때. 업무·발표에서 자주 씀: in terms of cost/quality/time. 비슷한 when it comes to(~에 관해서라면, 더 구어적).",
+    "examples": [
+      {
+        "en": "In terms of price, this option is the best.",
+        "ko": "가격 면에서는 이 옵션이 가장 좋아요."
+      },
+      {
+        "en": "The two phones are similar in terms of battery life.",
+        "ko": "두 휴대폰은 배터리 수명 면에서 비슷하다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "the more ~, the more ~",
+    "meaning": "~할수록 더 ~하다",
+    "note": "비교급 + 비교급 구조. the + 비교급 + 주어 + 동사, the + 비교급 + 주어 + 동사. 짧게 The sooner, the better.(빠를수록 좋다)처럼도 씀. more 대신 다른 비교급도 가능(the harder, the better).",
+    "examples": [
+      {
+        "en": "The more you practice, the more confident you'll get.",
+        "ko": "연습할수록 더 자신감이 생길 거야."
+      },
+      {
+        "en": "The sooner we start, the better.",
+        "ko": "빨리 시작할수록 좋아."
+      }
+    ],
+    "added": "2026-11-13"
   }
 ]
