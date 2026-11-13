@@ -1503,5 +1503,515 @@
       }
     ],
     "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "hit the nail on the head",
+    "meaning": "정곡을 찌르다, 딱 맞는 말을 하다",
+    "note": "문제의 핵심을 정확히 짚었을 때. You hit the nail on the head.(바로 그거야) 형태로 상대 말에 맞장구칠 때 자주 씀. 중립~캐주얼, 회의에서도 무난. 비슷한 spot on(정확한).",
+    "examples": [
+      {
+        "en": "You hit the nail on the head. That's exactly the problem.",
+        "ko": "정곡을 찔렀네. 바로 그게 문제야."
+      },
+      {
+        "en": "Her comment really hit the nail on the head.",
+        "ko": "그녀의 말은 정말 핵심을 찔렀다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "get out of hand",
+    "meaning": "걷잡을 수 없게 되다, 통제가 안 되다",
+    "note": "상황·파티·비용·논쟁 등이 감당 못 할 만큼 커질 때. things got out of hand 형태가 흔함. 중립. 비슷한 spiral out of control(통제 불능으로 치닫다, 더 강함).",
+    "examples": [
+      {
+        "en": "The party got out of hand and the neighbors called the police.",
+        "ko": "파티가 걷잡을 수 없어져서 이웃이 경찰을 불렀다."
+      },
+      {
+        "en": "Let's fix this before it gets out of hand.",
+        "ko": "더 커지기 전에 이거 해결하자."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "sleep on it",
+    "meaning": "하룻밤 자며 생각해 보다, 결정을 미루고 더 생각하다",
+    "note": "중요한 결정을 바로 내리지 않고 시간을 두고 고민하겠다고 할 때. Let me sleep on it. 형태가 대표적. 정중하게 즉답을 피하는 표현이라 업무에서도 자주 씀. 비슷한 think it over.",
+    "examples": [
+      {
+        "en": "It's a great offer, but let me sleep on it.",
+        "ko": "좋은 제안이지만 하룻밤 생각해 볼게요."
+      },
+      {
+        "en": "Don't decide now. Sleep on it and tell me tomorrow.",
+        "ko": "지금 결정하지 말고 생각해 보고 내일 알려줘."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "a blessing in disguise",
+    "meaning": "전화위복, 처음엔 나빠 보였지만 결국 좋은 일",
+    "note": "당시엔 불운이었는데 나중에 보니 득이 된 일. 중립. It turned out to be a blessing in disguise. 형태로 자주 씀. 반대 느낌은 a mixed blessing(장단점이 섞인 일).",
+    "examples": [
+      {
+        "en": "Losing that job was a blessing in disguise.",
+        "ko": "그 일자리를 잃은 게 전화위복이었다."
+      },
+      {
+        "en": "The delay turned out to be a blessing in disguise.",
+        "ko": "그 지연은 결국 전화위복이 됐다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "kill two birds with one stone",
+    "meaning": "일석이조, 한 번에 두 가지를 해결하다",
+    "note": "한 가지 행동으로 두 목적을 이룰 때. 캐주얼~중립. 동물 표현이 거슬린다는 사람도 있어 kill 대신 feed two birds with one scone 같은 말장난도 있음.",
+    "examples": [
+      {
+        "en": "I'll visit my parents and pick up the package. Kill two birds with one stone.",
+        "ko": "부모님 댁 들르면서 택배도 찾아올게. 일석이조지."
+      },
+      {
+        "en": "Biking to work lets me kill two birds with one stone: exercise and save money.",
+        "ko": "자전거 출근은 운동도 하고 돈도 아끼는 일석이조다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "go with the flow",
+    "meaning": "흐름에 맡기다, 상황에 맞춰 따라가다",
+    "note": "계획을 고집하지 않고 자연스럽게 따라갈 때. 느긋한 성격을 묘사할 때도 씀(He just goes with the flow). 캐주얼. play it by ear(상황 봐서 정하다)와 비슷하지만 '거스르지 않고 따른다'에 초점.",
+    "examples": [
+      {
+        "en": "I don't have any plans. I'm just going to go with the flow.",
+        "ko": "특별한 계획 없어. 그냥 흐름에 맡기려고."
+      },
+      {
+        "en": "She's easygoing and always goes with the flow.",
+        "ko": "그녀는 느긋해서 늘 상황에 맞춰 따라간다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "in a nutshell",
+    "meaning": "간단히 말해서, 요컨대",
+    "note": "긴 내용을 한마디로 요약할 때. 문장 앞이나 뒤에 붙임. 중립이라 발표·회의에서도 자주 씀. 비슷한 to sum up, long story short(더 캐주얼).",
+    "examples": [
+      {
+        "en": "In a nutshell, we need more time and more money.",
+        "ko": "간단히 말해서, 시간과 돈이 더 필요해요."
+      },
+      {
+        "en": "That's the plan in a nutshell.",
+        "ko": "요컨대 그게 계획이야."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "miss the boat",
+    "meaning": "기회를 놓치다, 때를 놓치다",
+    "note": "좋은 기회가 지나가 버렸을 때. 캐주얼~중립. 투자·채용·유행 이야기에 자주 씀. 비슷한 miss out (on)(놓치다, 더 일반적).",
+    "examples": [
+      {
+        "en": "I wanted to buy tickets, but I missed the boat. They're sold out.",
+        "ko": "표 사려고 했는데 때를 놓쳤어. 매진이야."
+      },
+      {
+        "en": "Companies that ignore AI may miss the boat.",
+        "ko": "AI를 무시하는 기업들은 기회를 놓칠 수 있다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "rain or shine",
+    "meaning": "비가 오든 해가 뜨든, 무슨 일이 있어도",
+    "note": "날씨나 상황과 상관없이 반드시 한다는 뜻. 행사 공지(The event will be held rain or shine)와 일상 다짐 모두에 씀. 중립. 비슷한 no matter what.",
+    "examples": [
+      {
+        "en": "The market is open every Saturday, rain or shine.",
+        "ko": "그 시장은 비가 오든 말든 매주 토요일에 열린다."
+      },
+      {
+        "en": "He walks his dog every morning, rain or shine.",
+        "ko": "그는 무슨 일이 있어도 매일 아침 개를 산책시킨다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "speak of the devil",
+    "meaning": "호랑이도 제 말 하면 온다더니",
+    "note": "방금 얘기하던 사람이 나타났을 때. 보통 Speak of the devil! 하고 짧게 외침. 친한 사이에서 쓰는 캐주얼 표현이고 악의는 없음. 우리말 속담과 거의 같은 상황.",
+    "examples": [
+      {
+        "en": "Speak of the devil! We were just talking about you.",
+        "ko": "호랑이도 제 말 하면 온다더니! 방금 네 얘기 하고 있었어."
+      },
+      {
+        "en": "Speak of the devil, here comes Mike.",
+        "ko": "말하자마자 마이크 오네."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "interim",
+    "meaning": "(형) 임시의, 중간의 / (명) 그 사이",
+    "note": "정식 후임이 정해질 때까지 맡는 자리. interim CEO(임시 CEO), interim government(과도정부), interim report(중간 보고서). in the interim = 그 사이에. 비슷한 acting(직무대행), temporary.",
+    "examples": [
+      {
+        "en": "The CFO will serve as interim CEO while the board searches for a successor.",
+        "ko": "이사회가 후임자를 찾는 동안 CFO가 임시 CEO를 맡는다."
+      },
+      {
+        "en": "Board names interim chief after founder's exit",
+        "ko": "창업자 퇴진 후 이사회, 임시 대표 지명 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "resign",
+    "meaning": "(동) 사임하다, 물러나다",
+    "note": "공식적으로 자리에서 물러날 때. resign as CEO(CEO직에서 사임하다), resign from the board. 명사 resignation(사임, 사표): hand in one's resignation. step down과 비슷, oust(축출하다)는 강제.",
+    "examples": [
+      {
+        "en": "The CEO resigned amid growing pressure from investors.",
+        "ko": "투자자들의 압박이 커지는 가운데 CEO가 사임했다."
+      },
+      {
+        "en": "Minister resigns over spending scandal",
+        "ko": "장관, 예산 유용 스캔들로 사임 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "disrupt",
+    "meaning": "(동) (흐름·서비스를) 방해하다, 지장을 주다; (산업을) 뒤흔들다",
+    "note": "장애·파업·날씨가 정상 운영을 막을 때. disrupt service/travel/supply chains. 명사 disruption(차질, 혼란). 비즈니스에선 '기존 판을 뒤엎다'(disrupt the industry)는 긍정적 뉘앙스도.",
+    "examples": [
+      {
+        "en": "A Microsoft 365 outage disrupted Outlook and Teams for millions of users.",
+        "ko": "마이크로소프트 365 장애로 수백만 사용자의 아웃룩과 팀즈가 마비됐다."
+      },
+      {
+        "en": "Storm disrupts flights across the East Coast",
+        "ko": "폭풍으로 동부 해안 항공편 차질 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "smuggle",
+    "meaning": "(동) 밀수하다, 몰래 들여오다/빼내다",
+    "note": "불법으로 물건·사람을 국경 너머로 옮길 때. smuggle gold/drugs into ~, smuggled goods(밀수품). 명사 smuggling(밀수), smuggler(밀수업자). 일상에선 '몰래 반입하다'(smuggle snacks into the cinema)로도 씀.",
+    "examples": [
+      {
+        "en": "Gold smuggled from conflict zones still ends up in major markets.",
+        "ko": "분쟁 지역에서 밀수된 금이 여전히 주요 시장으로 흘러든다."
+      },
+      {
+        "en": "Police arrest three over drug smuggling ring",
+        "ko": "경찰, 마약 밀수 조직 3명 체포 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "drastic",
+    "meaning": "(형) 과감한, 급격한, 극단적인",
+    "note": "변화나 조치의 폭이 매우 클 때. drastic cuts(대폭 삭감), drastic measures/action(극단적 조치), a drastic change. 부사 drastically(급격히). 다소 부정적·긴박한 뉘앙스가 있음.",
+    "examples": [
+      {
+        "en": "The UN chief called for immediate and drastic cuts to emissions.",
+        "ko": "유엔 사무총장은 즉각적이고 과감한 배출량 감축을 촉구했다."
+      },
+      {
+        "en": "The company took drastic measures to cut costs.",
+        "ko": "그 회사는 비용 절감을 위해 극단적인 조치를 취했다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "reform",
+    "meaning": "(명/동) 개혁(하다), 개선(하다)",
+    "note": "제도·법·시장을 크게 고칠 때. market reform, tax reform, pension reform, push for reform(개혁을 추진하다). 동사로 reform the system. 형용사 reformist(개혁 성향의).",
+    "examples": [
+      {
+        "en": "The president stressed the government's commitment to market reform.",
+        "ko": "대통령은 시장 개혁에 대한 정부의 의지를 강조했다."
+      },
+      {
+        "en": "Lawmakers push for sweeping tax reform",
+        "ko": "의원들, 전면적 세제 개혁 추진 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "emissions",
+    "meaning": "(명, 주로 복수) 배출(량), 배출 가스",
+    "note": "환경 뉴스 핵심어. carbon emissions(탄소 배출), greenhouse gas emissions, cut/reduce emissions, net-zero emissions(탄소중립). 동사 emit(내뿜다).",
+    "examples": [
+      {
+        "en": "The country pledged to cut carbon emissions by half by 2035.",
+        "ko": "그 나라는 2035년까지 탄소 배출을 절반으로 줄이겠다고 약속했다."
+      },
+      {
+        "en": "Global emissions hit another record high",
+        "ko": "전 세계 배출량 또 사상 최고 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "target",
+    "meaning": "(동) 겨냥하다, 공격하다; 대상으로 삼다 / (명) 목표, 표적",
+    "note": "군사 뉴스에선 '공격하다'(targeted a radar system), 정책·마케팅에선 '대상으로 삼다'(target young voters). 명사로 hit a target(목표를 달성하다), inflation target(물가 목표).",
+    "examples": [
+      {
+        "en": "Iran's Revolutionary Guards said they targeted a US radar system in Bahrain.",
+        "ko": "이란 혁명수비대는 바레인의 미국 레이더 시설을 겨냥했다고 밝혔다."
+      },
+      {
+        "en": "New ads target first-time home buyers.",
+        "ko": "새 광고는 생애 첫 주택 구매자를 겨냥한다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "mount",
+    "meaning": "(동) (도전·공세를) 시작하다, 벌이다; (압박이) 커지다",
+    "note": "정치 뉴스에서 mount a challenge(도전에 나서다), mount a campaign. 자동사로 pressure mounts(압박이 커지다), mounting losses/concerns(불어나는 손실/우려). 일상 뜻 '오르다, 설치하다'(mount a TV)와 구별.",
+    "examples": [
+      {
+        "en": "Van Hollen is mounting a challenge to Schumer for majority leader.",
+        "ko": "밴 홀런이 원내대표 자리를 놓고 슈머에게 도전장을 내밀고 있다."
+      },
+      {
+        "en": "Pressure mounts on regulators after data breach",
+        "ko": "정보 유출 이후 규제 당국에 압박 가중 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "word",
+    "term": "broker",
+    "meaning": "(동) (협상·합의를) 중재하다, 성사시키다 / (명) 중개인",
+    "note": "제3자가 나서서 합의를 이끌어낼 때. broker a deal/ceasefire/peace talks. US-brokered talks(미국이 중재한 회담). 명사로는 '중개인'(a real estate broker).",
+    "examples": [
+      {
+        "en": "The UAE helped broker the first peace talks in nine months.",
+        "ko": "아랍에미리트가 9개월 만의 첫 평화 회담을 중재하는 데 도움을 줬다."
+      },
+      {
+        "en": "Qatar brokers ceasefire deal",
+        "ko": "카타르, 휴전 합의 중재 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "as far as I know",
+    "meaning": "내가 알기로는",
+    "note": "확실하진 않지만 아는 범위에서 말할 때. 단정을 피하는 완곡한 표현이라 업무 대화에 유용. 문자에선 AFAIK. 비슷한 to my knowledge(더 격식), as far as I can tell(내가 보기엔).",
+    "examples": [
+      {
+        "en": "As far as I know, the meeting is still on for Friday.",
+        "ko": "내가 알기로는 회의는 여전히 금요일이야."
+      },
+      {
+        "en": "He's not coming, as far as I know.",
+        "ko": "내가 알기로는 그 사람 안 와."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "be worth ~ing",
+    "meaning": "~할 가치가 있다",
+    "note": "be worth + 동사ing / be worth + 명사. It's worth a try.(해볼 만해), It's not worth it.(그럴 가치 없어) 짧은 형태도 아주 흔함. worthwhile(형, 가치 있는)과 구별해서 worth 뒤에는 to 동사를 쓰지 않음.",
+    "examples": [
+      {
+        "en": "This book is worth reading twice.",
+        "ko": "이 책은 두 번 읽을 가치가 있어."
+      },
+      {
+        "en": "It's not worth waiting an hour for a table.",
+        "ko": "자리 하나에 한 시간 기다릴 가치는 없어."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "have yet to",
+    "meaning": "아직 ~하지 않았다",
+    "note": "have yet to + 동사 = 아직 ~하지 못했다(앞으로 할 가능성 있음). haven't ~ yet과 같은 뜻이지만 더 격식 있고 뉴스에서 자주 씀. 부정어가 없는데 부정 뜻이라 헷갈리기 쉬움.",
+    "examples": [
+      {
+        "en": "The company has yet to comment on the report.",
+        "ko": "회사는 아직 그 보도에 대해 입장을 밝히지 않았다."
+      },
+      {
+        "en": "I have yet to meet anyone who doesn't like her.",
+        "ko": "그녀를 싫어하는 사람을 아직 한 명도 못 봤어."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "no longer",
+    "meaning": "더 이상 ~하지 않다",
+    "note": "예전엔 그랬지만 지금은 아니라는 뜻. 동사 앞에 위치(I no longer work there). not ~ anymore와 같은 뜻이며 no longer가 조금 더 격식. 문장 끝에는 anymore를 씀.",
+    "examples": [
+      {
+        "en": "I no longer work at that company.",
+        "ko": "나는 더 이상 그 회사에서 일하지 않아."
+      },
+      {
+        "en": "The app is no longer available in some countries.",
+        "ko": "그 앱은 일부 국가에서 더 이상 이용할 수 없다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "in charge of",
+    "meaning": "~을 담당하는, ~의 책임자인",
+    "note": "업무·사람·프로젝트를 맡고 있을 때. be in charge of + 명사. Who's in charge here?(여기 책임자가 누구죠?) 업무 필수 표현. 비슷한 responsible for(책임이 있는, 잘못에도 씀).",
+    "examples": [
+      {
+        "en": "She's in charge of the marketing team.",
+        "ko": "그녀가 마케팅팀을 맡고 있어."
+      },
+      {
+        "en": "Who's in charge of booking the hotel?",
+        "ko": "호텔 예약은 누가 담당해?"
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "be about to",
+    "meaning": "막 ~하려던 참이다",
+    "note": "아주 가까운 미래. be about to + 동사. I was about to call you!(막 전화하려던 참이었어!) 형태가 일상에서 정말 많음. be going to보다 훨씬 임박한 느낌.",
+    "examples": [
+      {
+        "en": "I was about to call you!",
+        "ko": "막 너한테 전화하려던 참이었어!"
+      },
+      {
+        "en": "The movie is about to start. Turn off your phone.",
+        "ko": "영화 곧 시작해. 폰 꺼."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "in response to",
+    "meaning": "~에 대응하여, ~에 대한 답으로",
+    "note": "어떤 일에 반응해 조치할 때. 뉴스·업무 이메일에서 매우 흔함: in response to criticism/your email/the attack. 비슷한 in reaction to, following.",
+    "examples": [
+      {
+        "en": "The government raised rates in response to rising inflation.",
+        "ko": "정부는 물가 상승에 대응해 금리를 올렸다."
+      },
+      {
+        "en": "I'm writing in response to your email from Monday.",
+        "ko": "월요일에 보내주신 이메일에 답장드립니다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "it's up to",
+    "meaning": "~에게 달려 있다, ~가 결정할 일이다",
+    "note": "결정권이 누구에게 있는지 말할 때. It's up to you.(너 하고 싶은 대로 해 / 네가 정해) 형태가 대표적. It's up to + 사람 + to 동사 = ~할 책임은 ~에게 있다.",
+    "examples": [
+      {
+        "en": "Pizza or pasta? It's up to you.",
+        "ko": "피자 아니면 파스타? 네가 정해."
+      },
+      {
+        "en": "It's up to the board to choose the next CEO.",
+        "ko": "다음 CEO를 고르는 건 이사회의 몫이다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "make sure (that)",
+    "meaning": "반드시 ~하도록 하다, ~인지 확인하다",
+    "note": "확인하거나 꼭 챙기라고 할 때. make sure + 문장 / make sure to + 동사. Make sure you lock the door.(문 꼭 잠가) 일상·업무 필수. 비슷한 ensure(더 격식), double-check(재확인하다).",
+    "examples": [
+      {
+        "en": "Make sure you lock the door when you leave.",
+        "ko": "나갈 때 문 꼭 잠가."
+      },
+      {
+        "en": "Please make sure to back up your files before the update.",
+        "ko": "업데이트 전에 꼭 파일을 백업하세요."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "regardless of",
+    "meaning": "~와 상관없이, ~에 관계없이",
+    "note": "조건과 관계없이 결과가 같을 때. regardless of age/cost/the outcome. 뉴스·공지에서 자주 씀. 비슷한 no matter + 의문사(no matter how much it costs), irrespective of(더 격식). irregardless는 비표준이라 피하기.",
+    "examples": [
+      {
+        "en": "Everyone is welcome, regardless of age.",
+        "ko": "나이에 상관없이 누구나 환영합니다."
+      },
+      {
+        "en": "Congress will continue its investigation regardless of the resignation.",
+        "ko": "의회는 사임과 관계없이 조사를 계속할 것이다."
+      }
+    ],
+    "added": "2026-11-14"
   }
 ]
