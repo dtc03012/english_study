@@ -71,6 +71,26 @@ filterBtns.forEach((btn) => btn.addEventListener('click', () => {
   if (view === 'quiz') startQuiz(); else render();
 }));
 
+// Swipe left/right on the list to move between the filter tabs.
+let touchStart = null;
+listEl.addEventListener('touchstart', (ev) => {
+  const t = ev.touches[0];
+  touchStart = ev.touches.length === 1 ? { x: t.clientX, y: t.clientY } : null;
+}, { passive: true });
+listEl.addEventListener('touchend', (ev) => {
+  if (!touchStart) return;
+  const t = ev.changedTouches[0];
+  const dx = t.clientX - touchStart.x;
+  const dy = t.clientY - touchStart.y;
+  touchStart = null;
+  if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+  const btns = [...filterBtns];
+  const next = btns.findIndex((b) => b.dataset.type === typeFilter) + (dx < 0 ? 1 : -1);
+  if (next < 0 || next >= btns.length) return;
+  btns[next].click();
+  window.scrollTo(0, 0);
+});
+
 // ---- Quiz: 4-choice questions, term -> meaning or meaning -> term ----
 const quizEl = document.getElementById('quiz');
 const tabBtns = document.querySelectorAll('.tabs button');
