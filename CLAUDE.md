@@ -9,7 +9,7 @@ A static PWA that shows English words/idioms the user is studying. All content l
 
 ```json
 {
-  "type": "idiom",            // "word" or "idiom" (phrasal verbs and expressions count as "idiom")
+  "type": "idiom",            // "word", "idiom" (idioms and phrasal verbs), or "phrase" (useful collocations/sentence patterns that are not idioms, e.g. "remain functional", "become public")
   "term": "break the ice",
   "meaning": "어색한 분위기를 깨다",   // Korean meaning; for words, start with the part of speech, e.g. "(형)"
   "note": "...",              // optional: nuance, usage tip, or a similar expression (Korean)

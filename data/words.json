@@ -951,5 +951,47 @@
       }
     ],
     "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "remain functional",
+    "meaning": "(고장·피해 속에서도) 정상적으로 작동하다, 기능을 유지하다",
+    "note": "remain + 형용사 = '계속 ~한 상태로 있다'. 뉴스·기술 문서에서 시스템·시설·장비가 문제 상황에서도 돌아갈 때 자주 씀. 같은 틀: remain open(계속 문을 열다), remain operational(가동을 유지하다), remain stable(안정을 유지하다), remain unclear(여전히 불분명하다). 일상 대화에선 still work가 더 자연스러움.",
+    "examples": [
+      {
+        "en": "Despite the power outage, the hospital's emergency systems remained functional.",
+        "ko": "정전에도 병원의 비상 시스템은 정상 작동했다."
+      },
+      {
+        "en": "The app should remain functional even without an internet connection.",
+        "ko": "그 앱은 인터넷 연결 없이도 작동해야 한다."
+      },
+      {
+        "en": "Only two of the five bridges remain functional after the flood.",
+        "ko": "홍수 이후 다리 다섯 개 중 두 개만 제 기능을 하고 있다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "phrase",
+    "term": "become public",
+    "meaning": "(정보·사실이) 공개되다, 알려지다",
+    "note": "비밀이던 정보가 세상에 알려질 때. 뉴스에서 아주 흔함: after the news became public(소식이 알려진 뒤). 비슷한 표현 come to light(드러나다), go public(공개하다; 회사가 상장하다)은 주어가 주로 사람·회사라 구별. make ~ public = ~을 공개하다(능동).",
+    "examples": [
+      {
+        "en": "The CEO resigned after the allegations became public.",
+        "ko": "의혹이 공개된 뒤 CEO가 사임했다."
+      },
+      {
+        "en": "The results will become public next week.",
+        "ko": "결과는 다음 주에 공개될 것이다."
+      },
+      {
+        "en": "The company decided to make the report public.",
+        "ko": "그 회사는 보고서를 공개하기로 했다."
+      }
+    ],
+    "added": "2026-11-13"
   }
 ]

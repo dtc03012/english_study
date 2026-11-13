@@ -4,6 +4,7 @@ const filterBtns = document.querySelectorAll('.filters button');
 
 let entries = [];
 let typeFilter = 'all';
+const TYPE_LABEL = { word: '단어', idiom: '숙어', phrase: '표현' };
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
@@ -40,7 +41,7 @@ function render() {
       <article class="card">
         <div class="head">
           <h2 class="term">${esc(e.term)}</h2>
-          <span class="tag">${e.type === 'idiom' ? '숙어' : '단어'}</span>
+          <span class="tag">${TYPE_LABEL[e.type] || '단어'}</span>
           <button class="speak" data-say="${esc(e.term)}" aria-label="발음 듣기">🔊</button>
         </div>
         <p class="meaning">${esc(e.meaning)}</p>
