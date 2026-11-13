@@ -867,5 +867,89 @@
       }
     ],
     "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "too ~ to",
+    "meaning": "너무 ~해서 …할 수 없다",
+    "note": "too + 형용사/부사 + to 동사. to 앞의 '너무'에 이미 부정의 뜻이 들어 있어서 not을 따로 쓰지 않음. 의미상 주어는 for 사람: too hard for me to understand. so ~ that … can't로 바꿔 쓸 수 있음(It's so hot that I can't sleep). 반대 개념은 enough to(충분히 ~해서 …할 수 있다).",
+    "examples": [
+      {
+        "en": "It's too hot to sleep tonight.",
+        "ko": "오늘 밤은 너무 더워서 잠을 못 자겠어."
+      },
+      {
+        "en": "This book is too difficult for me to understand.",
+        "ko": "이 책은 내가 이해하기엔 너무 어려워."
+      },
+      {
+        "en": "He spoke too fast for anyone to follow.",
+        "ko": "그는 너무 빨리 말해서 아무도 따라갈 수 없었다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "enough to",
+    "meaning": "(…할 만큼) 충분히 ~하다",
+    "note": "어순이 핵심: 형용사/부사 + enough to 동사(old enough to drive), 명사는 enough + 명사 + to 동사(enough money to buy). 의미상 주어는 for 사람. 부정형 not ~ enough to는 too ~ to와 비슷한 뜻: not old enough to drive ≈ too young to drive.",
+    "examples": [
+      {
+        "en": "She's old enough to drive.",
+        "ko": "그녀는 운전할 수 있는 나이야."
+      },
+      {
+        "en": "I don't have enough money to buy a new laptop.",
+        "ko": "새 노트북 살 만큼 돈이 충분하지 않아."
+      },
+      {
+        "en": "The room was big enough for all of us to sit comfortably.",
+        "ko": "방이 우리 모두 편하게 앉을 만큼 충분히 넓었다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "sparse",
+    "meaning": "(형) 드문드문한, 희박한, 빈약한",
+    "note": "양이 적고 흩어져 있는 상태. sparse population(희박한 인구), sparse hair(숱이 적은 머리), sparse information/details(정보가 빈약한), sparse furniture(가구가 거의 없는). 부사 sparsely: sparsely populated(인구가 희박한). 반대는 dense(빽빽한).",
+    "examples": [
+      {
+        "en": "Details about the accident are still sparse.",
+        "ko": "사고에 대한 세부 정보는 아직 거의 없다."
+      },
+      {
+        "en": "The room was clean but sparse, with just a bed and a desk.",
+        "ko": "방은 깨끗했지만 침대와 책상뿐이라 휑했다."
+      },
+      {
+        "en": "This part of the country is sparsely populated.",
+        "ko": "이 지역은 인구가 희박하다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "come up with",
+    "meaning": "(생각·계획·해결책을) 떠올리다, 생각해 내다; (돈을) 마련하다",
+    "note": "아이디어·답·핑계·계획을 만들어 낼 때 매우 자주 쓰는 구동사. come up with an idea/a plan/a solution/an excuse. think of와 비슷하지만 '궁리해서 내놓다'는 느낌이 강함. 돈을 마련할 때도 씀(come up with the money). come up(화제에 오르다, 생기다)과 구별.",
+    "examples": [
+      {
+        "en": "We need to come up with a better plan.",
+        "ko": "더 나은 계획을 생각해 내야 해."
+      },
+      {
+        "en": "She always comes up with creative ideas.",
+        "ko": "그녀는 항상 창의적인 아이디어를 떠올린다."
+      },
+      {
+        "en": "He couldn't come up with the money for rent.",
+        "ko": "그는 월세 낼 돈을 마련하지 못했다."
+      }
+    ],
+    "added": "2026-11-13"
   }
 ]
