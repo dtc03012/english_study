@@ -5,9 +5,18 @@
     "meaning": "어색한 분위기를 깨다, 말문을 트다",
     "note": "처음 만난 사람들 사이의 긴장을 풀 때 자주 씀. icebreaker(분위기 푸는 활동)도 많이 쓰임.",
     "examples": [
-      { "en": "He told a joke to break the ice.", "ko": "그는 어색한 분위기를 깨려고 농담을 했다." },
-      { "en": "Let's play a quick game to break the ice.", "ko": "분위기 좀 풀게 간단한 게임 하나 하자." },
-      { "en": "It took a while to break the ice with my new coworkers.", "ko": "새 동료들과 말문을 트는 데 시간이 좀 걸렸다." }
+      {
+        "en": "He told a joke to break the ice.",
+        "ko": "그는 어색한 분위기를 깨려고 농담을 했다."
+      },
+      {
+        "en": "Let's play a quick game to break the ice.",
+        "ko": "분위기 좀 풀게 간단한 게임 하나 하자."
+      },
+      {
+        "en": "It took a while to break the ice with my new coworkers.",
+        "ko": "새 동료들과 말문을 트는 데 시간이 좀 걸렸다."
+      }
     ],
     "added": "2026-11-13"
   },
@@ -17,9 +26,358 @@
     "meaning": "(형) 어색한, 곤란한, 다루기 힘든",
     "note": "원어민이 아주 자주 쓰는 단어. 상황·분위기·사람 모두에 쓸 수 있음.",
     "examples": [
-      { "en": "There was an awkward silence after he said that.", "ko": "그가 그 말을 한 뒤 어색한 침묵이 흘렀다." },
-      { "en": "Sorry, this is a bit awkward to ask.", "ko": "미안, 이거 묻기 좀 곤란하긴 한데." },
-      { "en": "I felt so awkward at the party because I didn't know anyone.", "ko": "아는 사람이 없어서 파티에서 너무 어색했다." }
+      {
+        "en": "There was an awkward silence after he said that.",
+        "ko": "그가 그 말을 한 뒤 어색한 침묵이 흘렀다."
+      },
+      {
+        "en": "Sorry, this is a bit awkward to ask.",
+        "ko": "미안, 이거 묻기 좀 곤란하긴 한데."
+      },
+      {
+        "en": "I felt so awkward at the party because I didn't know anyone.",
+        "ko": "아는 사람이 없어서 파티에서 너무 어색했다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "call it a day",
+    "meaning": "(그날 일을) 그만하다, 오늘은 여기까지 하다",
+    "note": "하던 일을 끝내자고 제안할 때. 직장·공부·운동 등 어디서나 쓰는 편한 구어(중립~캐주얼). 밤이면 call it a night도 씀. call it quits는 '아예 그만두다(포기·관계 끝)'까지 뜻할 수 있어 구별.",
+    "examples": [
+      {
+        "en": "We've been at this for eight hours. Let's call it a day.",
+        "ko": "8시간째 이러고 있잖아. 오늘은 여기까지 하자."
+      },
+      {
+        "en": "I'm exhausted, so I'm going to call it a day.",
+        "ko": "너무 피곤해서 오늘은 그만할게."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "take a rain check",
+    "meaning": "(제안을) 다음으로 미루다, 다음에 하자",
+    "note": "초대를 거절하되 '다음엔 꼭'이라는 뉘앙스로 부드럽게 미룰 때. 친구·동료 사이 캐주얼. Can I take a rain check? 형태로 아주 자주 씀. 단순 거절(I can't make it)보다 다시 잡을 의향이 느껴짐.",
+    "examples": [
+      {
+        "en": "Can I take a rain check on dinner? I have to work late.",
+        "ko": "저녁은 다음으로 미뤄도 될까? 야근해야 해서."
+      },
+      {
+        "en": "Sorry, I'll have to take a rain check this time.",
+        "ko": "미안, 이번엔 다음 기회로 미뤄야겠어."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "on the fence",
+    "meaning": "(결정을 못 하고) 망설이는, 어느 쪽인지 정하지 못한",
+    "note": "두 선택지 사이에서 아직 결정 못 한 상태. be on the fence about ~ 형태. 일상·뉴스(부동층 유권자) 모두 쓰는 중립적 표현. sit on the fence는 '일부러 입장을 안 정하고 눈치 본다'는 약간 부정적 뉘앙스.",
+    "examples": [
+      {
+        "en": "I'm still on the fence about taking the job offer.",
+        "ko": "그 일자리 제안을 받을지 아직 고민 중이야."
+      },
+      {
+        "en": "A lot of voters are on the fence this year.",
+        "ko": "올해는 마음을 못 정한 유권자가 많다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "play it by ear",
+    "meaning": "그때 상황 봐서 하다, 즉흥적으로 정하다",
+    "note": "미리 계획을 세우지 않고 상황에 맞춰 결정하자는 말. 원래 '악보 없이 듣고 연주하다'에서 유래. 캐주얼. Let's play it by ear. 형태가 가장 흔함. wing it은 '준비 없이 대충 해내다'라 뉘앙스가 다름.",
+    "examples": [
+      {
+        "en": "I don't know when I'll be done. Let's just play it by ear.",
+        "ko": "언제 끝날지 모르겠어. 그냥 상황 봐서 하자."
+      },
+      {
+        "en": "We didn't book anything. We're going to play it by ear.",
+        "ko": "아무것도 예약 안 했어. 가서 그때그때 정하려고."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "cut corners",
+    "meaning": "(돈·시간 아끼려고) 대충 하다, 절차를 생략하다",
+    "note": "품질이나 안전을 희생하면서 일을 날림으로 하는 것. 부정적 뉘앙스. 직장·뉴스(안전 사고 원인)에서 자주 등장. 중립~약간 격식 있는 자리에서도 사용 가능.",
+    "examples": [
+      {
+        "en": "The company cut corners on safety to save money.",
+        "ko": "그 회사는 돈을 아끼려고 안전 절차를 생략했다."
+      },
+      {
+        "en": "Don't cut corners on this report. It's important.",
+        "ko": "이 보고서는 대충 하지 마. 중요한 거야."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "the ball is in your court",
+    "meaning": "이제 네가 결정할 차례야, 공은 너에게 넘어갔어",
+    "note": "내 할 일은 끝났고 다음 행동·결정은 상대에게 달렸다는 뜻. 테니스에서 유래. 협상·연애·업무 모두 쓰며 격식도 무난. 주어를 바꿔 The ball is in their court.처럼도 씀.",
+    "examples": [
+      {
+        "en": "I sent them my offer, so the ball is in their court now.",
+        "ko": "제안은 보냈으니 이제 결정은 그쪽 몫이야."
+      },
+      {
+        "en": "I've apologized. The ball is in your court.",
+        "ko": "난 사과했어. 이제 네가 정할 차례야."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "get the hang of",
+    "meaning": "~의 요령을 터득하다, ~에 익숙해지다",
+    "note": "처음엔 어렵던 일을 하다 보니 감을 잡는 것. get the hang of it 형태로 매우 자주 씀. 캐주얼. get used to(익숙해지다)는 '적응'에 가깝고, get the hang of는 '방법·요령을 익힘'에 초점.",
+    "examples": [
+      {
+        "en": "Driving stick is hard at first, but you'll get the hang of it.",
+        "ko": "수동 운전은 처음엔 어렵지만 곧 요령이 생길 거야."
+      },
+      {
+        "en": "I'm finally getting the hang of this new software.",
+        "ko": "드디어 이 새 프로그램 쓰는 감을 잡아가고 있어."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "touch base",
+    "meaning": "(잠깐) 연락하다, 상황을 공유하다",
+    "note": "진행 상황을 짧게 확인하거나 이야기 나눌 때 쓰는 직장 구어. 이메일·회의에서 아주 흔함(약간 비즈니스 느낌). touch base with ~ 형태. follow up은 '후속 조치/재연락'에 더 초점.",
+    "examples": [
+      {
+        "en": "Let's touch base next week about the project.",
+        "ko": "다음 주에 프로젝트 관련해서 잠깐 이야기 나눠요."
+      },
+      {
+        "en": "I just wanted to touch base and see how you're doing.",
+        "ko": "어떻게 지내는지 잠깐 연락해 보고 싶었어."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "bite the bullet",
+    "meaning": "(싫지만) 꾹 참고 하다, 각오하고 감수하다",
+    "note": "피하고 싶던 불쾌하거나 힘든 일을 결국 결심하고 하는 것. 중립적이라 일상·뉴스 모두 사용. bite the bullet and + 동사 형태가 흔함. face the music은 '자기 잘못의 대가를 받다'라 다름.",
+    "examples": [
+      {
+        "en": "I finally bit the bullet and went to the dentist.",
+        "ko": "결국 각오하고 치과에 갔다."
+      },
+      {
+        "en": "We'll have to bite the bullet and raise prices.",
+        "ko": "어쩔 수 없이 가격을 올려야겠습니다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "idiom",
+    "term": "hang in there",
+    "meaning": "조금만 더 버텨, 힘내",
+    "note": "힘든 상황에 있는 사람을 격려하는 말. 친근하고 캐주얼(윗사람에게도 따뜻하게 쓸 수 있음). Keep it up은 '잘하고 있으니 계속해'로, 어려움보다는 칭찬 뉘앙스.",
+    "examples": [
+      {
+        "en": "I know this week is tough, but hang in there.",
+        "ko": "이번 주 힘든 거 알아. 그래도 조금만 버텨."
+      },
+      {
+        "en": "Hang in there. It'll get better soon.",
+        "ko": "힘내. 곧 나아질 거야."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "testify",
+    "meaning": "(동) (법정·의회에서) 증언하다",
+    "note": "뉴스에서 청문회·재판 기사에 단골. testify before Congress(의회에서 증언하다), testify against ~(~에게 불리한 증언을 하다), testify in court. 명사는 testimony(증언).",
+    "examples": [
+      {
+        "en": "The former CEO agreed to testify before Congress next month.",
+        "ko": "전 CEO가 다음 달 의회에서 증언하기로 동의했다."
+      },
+      {
+        "en": "A key witness testified against the suspect on Tuesday.",
+        "ko": "핵심 증인이 화요일 용의자에게 불리한 증언을 했다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "probe",
+    "meaning": "(명/동) 조사(하다), 수사(하다)",
+    "note": "investigation의 헤드라인용 짧은 말. launch a probe into ~(~에 대한 조사에 착수하다), Congress probes ~ 형태로 자주 씀. 동사로도 'probe ~' = ~를 조사하다.",
+    "examples": [
+      {
+        "en": "Lawmakers launched a probe into the company's ties to China.",
+        "ko": "의원들이 그 회사의 중국과의 관계에 대한 조사에 착수했다."
+      },
+      {
+        "en": "Police probe deadly building collapse in New York",
+        "ko": "경찰, 뉴욕 건물 붕괴 참사 수사 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "hike",
+    "meaning": "(명/동) (가격·세금·금리의 큰) 인상(하다)",
+    "note": "increase보다 짧고 강한 뉴스 단어. price hike, rate hike(금리 인상), tax hike, fare hike(요금 인상). 동사로 hike prices. 원래 뜻 '하이킹'과 구별.",
+    "examples": [
+      {
+        "en": "The government absorbed most of the planned diesel price hike.",
+        "ko": "정부가 계획된 경유 가격 인상분 대부분을 떠안았다."
+      },
+      {
+        "en": "Central bank signals another rate hike",
+        "ko": "중앙은행, 추가 금리 인상 시사 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "absorb",
+    "meaning": "(동) (비용·충격을) 떠안다, 흡수하다",
+    "note": "경제 뉴스에서 '비용 인상분을 소비자에게 넘기지 않고 대신 부담하다'는 뜻으로 자주 씀. absorb the cost(s), absorb the impact/shock(충격을 흡수하다). 반대는 pass on to consumers.",
+    "examples": [
+      {
+        "en": "Many retailers can no longer absorb rising costs.",
+        "ko": "많은 소매업체가 더 이상 오르는 비용을 떠안을 수 없다."
+      },
+      {
+        "en": "The economy has so far absorbed the shock of higher oil prices.",
+        "ko": "경제는 지금까지 유가 상승의 충격을 흡수해 왔다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "surge",
+    "meaning": "(동/명) 급등(하다), 급증(하다)",
+    "note": "가격·수치가 갑자기 크게 오를 때. oil prices surge, a surge in demand/cases. 비슷한 jump, soar(치솟다), spike(순간 급등). 반대는 plunge, tumble.",
+    "examples": [
+      {
+        "en": "Oil prices surged after tankers were attacked in the strait.",
+        "ko": "해협에서 유조선들이 공격받은 뒤 유가가 급등했다."
+      },
+      {
+        "en": "Hospitals report a surge in flu cases",
+        "ko": "병원들, 독감 환자 급증 보고 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "curb",
+    "meaning": "(동/명) 억제(하다), 제한(하다)",
+    "note": "limit/control의 헤드라인용 단어. curb inflation(물가를 잡다), curb emissions, export curbs(수출 규제, 명사 복수). 일상에서 '연석'의 뜻도 있으니 문맥 확인.",
+    "examples": [
+      {
+        "en": "The central bank raised rates to curb inflation.",
+        "ko": "중앙은행이 물가를 잡기 위해 금리를 올렸다."
+      },
+      {
+        "en": "New export curbs hit chipmakers",
+        "ko": "새 수출 규제, 반도체 업체 타격 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "vow",
+    "meaning": "(동/명) 맹세하다, 다짐하다, 공언하다",
+    "note": "promise의 헤드라인용 강한 표현. 정치인·정부가 강하게 약속할 때. vow to + 동사, vow revenge(보복을 다짐하다). 헤드라인에선 주로 현재형(PM vows ~)으로 과거 사실을 전함.",
+    "examples": [
+      {
+        "en": "The prime minister vowed to keep fuel prices under control.",
+        "ko": "총리는 연료 가격을 안정시키겠다고 다짐했다."
+      },
+      {
+        "en": "Leaders vow to protect shipping in Hormuz",
+        "ko": "정상들, 호르무즈 해상 운송 보호 다짐 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "slash",
+    "meaning": "(동) (가격·예산·인원을) 대폭 삭감하다",
+    "note": "cut sharply의 뜻으로 cut보다 훨씬 큰 폭을 강조. slash prices/jobs/budget/rates. 헤드라인 단골이며 일상에서는 세일 광고(prices slashed!)에도 등장.",
+    "examples": [
+      {
+        "en": "The airline plans to slash 2,000 jobs next year.",
+        "ko": "그 항공사는 내년에 일자리 2,000개를 대폭 줄일 계획이다."
+      },
+      {
+        "en": "Retailers slash prices ahead of holiday season",
+        "ko": "소매업체들, 연말 시즌 앞두고 가격 대폭 인하 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "toll",
+    "meaning": "(명) (사망·피해) 희생자 수, 피해",
+    "note": "사고·재난 뉴스의 death toll(사망자 수)이 대표적. the death toll rises to ~(사망자 수가 ~로 늘다). take a toll on ~(~에 큰 피해/부담을 주다)은 일상에서도 자주 씀. 도로 '통행료'의 뜻도 있음.",
+    "examples": [
+      {
+        "en": "The death toll from the building collapse rose to eight.",
+        "ko": "건물 붕괴 사고 사망자 수가 8명으로 늘었다."
+      },
+      {
+        "en": "Long hours are taking a toll on nurses' health.",
+        "ko": "장시간 근무가 간호사들의 건강에 큰 부담을 주고 있다."
+      }
+    ],
+    "added": "2026-11-13"
+  },
+  {
+    "type": "word",
+    "term": "escalate",
+    "meaning": "(동) (갈등·분쟁이) 확대되다, 고조되다",
+    "note": "충돌이 점점 심해질 때. tensions escalate, escalate into a war(전쟁으로 번지다). 명사 escalation, 반대는 de-escalate(긴장을 완화하다).",
+    "examples": [
+      {
+        "en": "Tensions escalated after three tankers were attacked in two days.",
+        "ko": "이틀 동안 유조선 세 척이 공격받으면서 긴장이 고조됐다."
+      },
+      {
+        "en": "World leaders urged both sides not to escalate the conflict.",
+        "ko": "세계 정상들이 양측에 분쟁을 확대하지 말라고 촉구했다."
+      }
     ],
     "added": "2026-11-13"
   }
