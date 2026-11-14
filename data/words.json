@@ -2139,5 +2139,515 @@
       }
     ],
     "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "break a leg",
+    "meaning": "행운을 빌어!, 잘해!",
+    "note": "공연·발표·면접 직전 사람에게 하는 응원. 원래 무대 배우들이 good luck이 불운을 부른다고 믿어 반대로 말한 데서 유래. 캐주얼하고 친근함. 진지한 자리(수술 등)에는 Good luck이 적절.",
+    "examples": [
+      {
+        "en": "Your presentation is today? Break a leg!",
+        "ko": "오늘 발표야? 잘해!"
+      },
+      {
+        "en": "Break a leg at your audition tonight.",
+        "ko": "오늘 밤 오디션 잘 보고 와."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "call it quits",
+    "meaning": "그만두다, 끝내다, 손을 떼다",
+    "note": "하던 일·관계·경쟁을 완전히 그만둘 때. call it a day(오늘은 여기까지)보다 '아예 끝낸다'는 뜻이 강함. 연인 사이 이별에도 씀(They called it quits). 캐주얼~중립.",
+    "examples": [
+      {
+        "en": "After ten years in banking, she decided to call it quits.",
+        "ko": "은행에서 10년 일한 뒤 그녀는 그만두기로 했다."
+      },
+      {
+        "en": "The couple called it quits last year.",
+        "ko": "그 커플은 작년에 헤어졌다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "cross that bridge when we come to it",
+    "meaning": "그 문제는 닥치면 그때 생각하자",
+    "note": "아직 일어나지 않은 문제를 미리 걱정하지 말자는 말. We'll cross that bridge when we come to it. 형태가 대표적. 중립. 비슷한 Let's not get ahead of ourselves(너무 앞서가지 말자).",
+    "examples": [
+      {
+        "en": "What if it rains? — We'll cross that bridge when we come to it.",
+        "ko": "비 오면 어떡해? — 그건 그때 가서 생각하자."
+      },
+      {
+        "en": "I don't know how we'll pay for college yet, but we'll cross that bridge when we come to it.",
+        "ko": "대학 학비를 어떻게 낼지 아직 모르지만 닥치면 생각하자."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "get the ball rolling",
+    "meaning": "일을 시작하다, 물꼬를 트다",
+    "note": "회의·프로젝트·대화를 먼저 시작할 때. 회의 시작 멘트로 자주 씀(Let's get the ball rolling). 중립·업무에 무난. 비슷한 kick off(시작하다).",
+    "examples": [
+      {
+        "en": "Let's get the ball rolling with a quick update from each team.",
+        "ko": "각 팀의 짧은 업데이트로 시작해 봅시다."
+      },
+      {
+        "en": "I'll send the first email to get the ball rolling.",
+        "ko": "물꼬를 트기 위해 내가 첫 이메일을 보낼게."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "head over heels",
+    "meaning": "(사랑에) 홀딱 빠진",
+    "note": "누군가에게 완전히 반했을 때. be head over heels (in love) with ~ 형태. 캐주얼하고 낭만적인 느낌. 비슷한 crazy about ~, smitten(반한).",
+    "examples": [
+      {
+        "en": "He's head over heels in love with her.",
+        "ko": "그는 그녀에게 홀딱 빠졌다."
+      },
+      {
+        "en": "They fell head over heels for each other in college.",
+        "ko": "그들은 대학 때 서로에게 푹 빠졌다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "let off steam",
+    "meaning": "스트레스를 풀다, 울분을 발산하다",
+    "note": "쌓인 화나 에너지를 운동·수다·소리 지르기 등으로 해소할 때. blow off steam도 같은 뜻. 캐주얼. 증기기관이 압력을 빼는 데서 유래.",
+    "examples": [
+      {
+        "en": "I go for a run after work to let off steam.",
+        "ko": "퇴근 후 스트레스 풀려고 달리기를 해."
+      },
+      {
+        "en": "The kids need to let off some steam at the park.",
+        "ko": "애들은 공원에서 에너지 좀 발산해야 해."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "on thin ice",
+    "meaning": "위태로운 처지에 있는, 살얼음판을 걷는",
+    "note": "한 번만 더 잘못하면 큰일 날 상황. be on thin ice with ~(~와의 관계에서 위태로운). 경고할 때 You're on thin ice.(너 지금 위험해). 중립~캐주얼.",
+    "examples": [
+      {
+        "en": "After being late three times, he's on thin ice with his manager.",
+        "ko": "세 번 지각한 뒤 그는 매니저에게 찍혀 위태로운 상태다."
+      },
+      {
+        "en": "You're on thin ice. One more mistake and you're out.",
+        "ko": "너 지금 살얼음판이야. 한 번만 더 실수하면 끝이야."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "take it with a grain of salt",
+    "meaning": "(말을) 걸러 듣다, 곧이곧대로 믿지 않다",
+    "note": "출처가 불확실하거나 과장된 말을 적당히 의심하며 들으라는 뜻. 소문·리뷰·뉴스에 자주 씀. 영국식은 a pinch of salt. 중립.",
+    "examples": [
+      {
+        "en": "He exaggerates a lot, so take what he says with a grain of salt.",
+        "ko": "그는 과장이 심하니까 그 사람 말은 걸러 들어."
+      },
+      {
+        "en": "Online reviews should be taken with a grain of salt.",
+        "ko": "온라인 리뷰는 곧이곧대로 믿으면 안 된다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "the elephant in the room",
+    "meaning": "모두 알지만 아무도 꺼내지 않는 문제",
+    "note": "불편해서 다들 모른 척하는 큰 문제. address the elephant in the room(그 껄끄러운 문제를 꺼내다) 형태로 회의에서 자주 씀. 중립~업무.",
+    "examples": [
+      {
+        "en": "Let's address the elephant in the room: we're over budget.",
+        "ko": "다들 아는 문제를 꺼내죠. 우리 예산 초과예요."
+      },
+      {
+        "en": "Nobody mentioned the layoffs, but it was the elephant in the room.",
+        "ko": "아무도 정리해고 얘기를 안 했지만 다들 알고 있는 문제였다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "up in the air",
+    "meaning": "아직 정해지지 않은, 미정인",
+    "note": "계획·결정이 확정되지 않은 상태. Our plans are still up in the air. 형태가 흔함. 중립. 비슷한 undecided, TBD(to be determined).",
+    "examples": [
+      {
+        "en": "Our trip is still up in the air because of the weather.",
+        "ko": "날씨 때문에 여행은 아직 미정이야."
+      },
+      {
+        "en": "The date of the meeting is up in the air.",
+        "ko": "회의 날짜는 아직 정해지지 않았다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "intercept",
+    "meaning": "(동) (도중에) 가로막다, 요격하다",
+    "note": "미사일·드론을 공중에서 막아낼 때(intercept a missile/drone), 메시지·통화를 가로챌 때(intercept messages). 명사 interception(요격, 가로채기). 스포츠에선 패스를 가로채다.",
+    "examples": [
+      {
+        "en": "US forces intercepted two Iranian drones headed for Bahrain.",
+        "ko": "미군이 바레인으로 향하던 이란 드론 두 대를 요격했다."
+      },
+      {
+        "en": "Police intercepted a shipment of illegal weapons",
+        "ko": "경찰, 불법 무기 화물 가로채 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "deny",
+    "meaning": "(동) 부인하다, 부정하다; 거부하다",
+    "note": "사실이나 주장을 아니라고 할 때. deny the claims/allegations, deny that ~, deny ~ing(~한 것을 부인하다). '허락하지 않다'(deny entry/a request) 뜻도. 명사 denial.",
+    "examples": [
+      {
+        "en": "The military denied claims that its radar had been hit.",
+        "ko": "군은 레이더가 공격받았다는 주장을 부인했다."
+      },
+      {
+        "en": "He denied leaking the documents.",
+        "ko": "그는 문서를 유출한 것을 부인했다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "claim",
+    "meaning": "(명/동) 주장(하다); (생명을) 앗아가다; 청구(하다)",
+    "note": "뉴스에선 '검증 안 된 주장'(the claim that ~, IRGC claims). claim responsibility(책임을 자처하다), the fire claimed three lives(화재로 3명 사망), insurance claim(보험 청구). 영어 claim은 '불평'(complain)이 아님.",
+    "examples": [
+      {
+        "en": "The group claimed responsibility for the attack.",
+        "ko": "그 단체는 공격의 배후를 자처했다."
+      },
+      {
+        "en": "The crash claimed the lives of four people.",
+        "ko": "그 사고로 네 명이 목숨을 잃었다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "airstrike",
+    "meaning": "(명) 공습",
+    "note": "항공기·드론으로 지상 목표를 공격하는 것. carry out/launch an airstrike, be killed in an airstrike. 비슷한 bombing, strike(공격, 단독으로도 씀).",
+    "examples": [
+      {
+        "en": "Several people were killed in an airstrike in southern Gaza.",
+        "ko": "가자 남부 공습으로 여러 명이 숨졌다."
+      },
+      {
+        "en": "Military launches airstrikes on militant positions",
+        "ko": "군, 무장세력 거점에 공습 개시 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "collide",
+    "meaning": "(동) 충돌하다, 부딪치다",
+    "note": "차량·배·비행기가 서로 부딪칠 때. collide with ~. 명사 collision(충돌): a head-on collision(정면충돌). 비유적으로 의견·이해관계가 충돌할 때도(interests collide).",
+    "examples": [
+      {
+        "en": "A river cruise ship collided with a tanker on the Mississippi.",
+        "ko": "미시시피강에서 유람선이 유조선과 충돌했다."
+      },
+      {
+        "en": "Two trains collide near station, dozens injured",
+        "ko": "역 인근 열차 2대 충돌, 수십 명 부상 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "ground",
+    "meaning": "(동) (항공기를) 이륙 금지시키다, 운항을 중단시키다",
+    "note": "flights are grounded(항공편 운항 중단), ground a fleet. ground stop(전면 이륙 중지). 부모가 아이를 '외출 금지시키다'(You're grounded!)도 같은 동사. 명사 '땅'과 구별.",
+    "examples": [
+      {
+        "en": "All flights were grounded after the system failure.",
+        "ko": "시스템 장애 후 모든 항공편이 이륙 금지됐다."
+      },
+      {
+        "en": "Airline grounds jets for safety checks",
+        "ko": "항공사, 안전 점검 위해 여객기 운항 중단 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "conviction",
+    "meaning": "(명) 유죄 판결; 확신, 신념",
+    "note": "법 뉴스에선 '유죄 판결'(appeal a conviction, overturn a conviction). 일상에선 '확신'(speak with conviction). 동사 convict(유죄를 선고하다), 명사 convict(기결수). 반대는 acquittal(무죄 판결).",
+    "examples": [
+      {
+        "en": "The actor will withdraw his appeal of the conviction.",
+        "ko": "그 배우는 유죄 판결에 대한 항소를 취하할 예정이다."
+      },
+      {
+        "en": "She spoke with real conviction.",
+        "ko": "그녀는 진심 어린 확신을 갖고 말했다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "appeal",
+    "meaning": "(명/동) 항소(하다); 호소(하다); 매력",
+    "note": "법: appeal a ruling/conviction(판결에 항소하다), lose an appeal. 일반: appeal for calm/help(진정·도움을 호소하다). 일상: have appeal, appealing(매력적인). 문맥으로 구별.",
+    "examples": [
+      {
+        "en": "His lawyers plan to appeal the ruling.",
+        "ko": "그의 변호인단은 판결에 항소할 계획이다."
+      },
+      {
+        "en": "Police appeal for witnesses after hit-and-run",
+        "ko": "경찰, 뺑소니 사고 목격자 찾아 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "withdraw",
+    "meaning": "(동) 철회하다, 취하하다; 철수하다; (돈을) 인출하다",
+    "note": "withdraw an appeal/offer/bid(항소/제안/입찰을 철회하다), withdraw troops(병력을 철수하다), withdraw from a race(경선에서 물러나다), withdraw cash(현금을 인출하다). 명사 withdrawal.",
+    "examples": [
+      {
+        "en": "He is set to withdraw his appeal.",
+        "ko": "그는 항소를 취하할 예정이다."
+      },
+      {
+        "en": "The candidate withdrew from the race last week.",
+        "ko": "그 후보는 지난주 경선에서 물러났다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "word",
+    "term": "stranded",
+    "meaning": "(형) 발이 묶인, 오도 가도 못하는",
+    "note": "교통 마비·재난으로 이동하지 못하는 상태. passengers stranded at airports, leave someone stranded. 동사 strand. 비슷한 stuck(구어).",
+    "examples": [
+      {
+        "en": "Thousands of passengers were stranded after the nationwide ground stop.",
+        "ko": "전국적인 이륙 중지 이후 수천 명의 승객이 발이 묶였다."
+      },
+      {
+        "en": "Snowstorm leaves drivers stranded on highway",
+        "ko": "눈폭풍에 고속도로 운전자들 고립 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "as long as",
+    "meaning": "~하기만 하면, ~하는 한",
+    "note": "조건을 걸 때. as long as + 문장. You can borrow it as long as you return it.(돌려주기만 하면 빌려가도 돼) 비슷한 provided (that)(더 격식), so long as. 시간 '~만큼 오래'라는 뜻도 있음.",
+    "examples": [
+      {
+        "en": "You can use my car as long as you fill up the tank.",
+        "ko": "기름만 채워 놓으면 내 차 써도 돼."
+      },
+      {
+        "en": "I don't mind waiting as long as we get good seats.",
+        "ko": "좋은 자리만 잡을 수 있으면 기다려도 괜찮아."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "be supposed to",
+    "meaning": "~하기로 되어 있다, ~해야 한다",
+    "note": "규칙·약속·예정·기대를 말할 때. I'm supposed to meet him at 3.(3시에 만나기로 했어) 과거형 was supposed to는 '원래 ~하기로 했는데 안 됨'이라는 아쉬움. should보다 '정해진 것' 뉘앙스.",
+    "examples": [
+      {
+        "en": "We're supposed to check out by 11.",
+        "ko": "11시까지 체크아웃하기로 되어 있어."
+      },
+      {
+        "en": "It was supposed to rain today, but it's sunny.",
+        "ko": "오늘 비 온다더니 화창하네."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "when it comes to",
+    "meaning": "~에 관해서라면, ~에 있어서는",
+    "note": "특정 주제를 꺼내며 말할 때. when it comes to + 명사/동사ing. 일상·업무 모두 매우 흔함. 비슷한 in terms of(더 딱딱함), as for(~로 말하자면).",
+    "examples": [
+      {
+        "en": "When it comes to cooking, my dad is the best.",
+        "ko": "요리에 관해서라면 우리 아빠가 최고야."
+      },
+      {
+        "en": "When it comes to saving money, I'm terrible.",
+        "ko": "돈 모으는 거라면 난 정말 꽝이야."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "be used to ~ing",
+    "meaning": "~하는 데 익숙하다",
+    "note": "be used to + 명사/동사ing = 익숙하다. get used to = 익숙해지다. 헷갈리는 used to + 동사원형(예전에 ~했다)과 구별: I used to live here(예전에 살았다) vs I'm used to living here(사는 데 익숙하다).",
+    "examples": [
+      {
+        "en": "I'm used to waking up early.",
+        "ko": "나는 일찍 일어나는 데 익숙해."
+      },
+      {
+        "en": "She's not used to driving on the left yet.",
+        "ko": "그녀는 아직 좌측 운전에 익숙하지 않다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "would rather",
+    "meaning": "차라리 ~하겠다, ~하는 편이 낫다",
+    "note": "선호를 말할 때. would rather + 동사원형 (than ~). 줄여서 I'd rather. I'd rather not.(안 하는 게 좋겠어)은 정중한 거절. 비슷한 prefer to(더 격식).",
+    "examples": [
+      {
+        "en": "I'd rather stay home tonight.",
+        "ko": "오늘 밤은 차라리 집에 있을래."
+      },
+      {
+        "en": "I'd rather walk than wait for the bus.",
+        "ko": "버스 기다리느니 차라리 걸을래."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "in case",
+    "meaning": "~할 경우에 대비해서",
+    "note": "혹시 모를 상황에 대비할 때. in case + 문장(현재형). Take an umbrella in case it rains. just in case(만일을 위해)로 단독 사용도 흔함. if(만약 ~하면)와 달리 '미리 대비'의 뜻.",
+    "examples": [
+      {
+        "en": "Take an umbrella in case it rains.",
+        "ko": "비 올지도 모르니 우산 챙겨."
+      },
+      {
+        "en": "I'll bring extra cash, just in case.",
+        "ko": "만일을 위해 현금 좀 더 챙길게."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "as soon as",
+    "meaning": "~하자마자",
+    "note": "어떤 일이 일어난 직후. as soon as + 문장(미래 일이라도 현재형). as soon as possible(ASAP, 가능한 한 빨리). 비슷한 the moment (that) ~, once.",
+    "examples": [
+      {
+        "en": "Call me as soon as you get home.",
+        "ko": "집에 도착하자마자 전화해."
+      },
+      {
+        "en": "As soon as I saw her, I knew something was wrong.",
+        "ko": "그녀를 보자마자 뭔가 잘못됐다는 걸 알았다."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "can't help ~ing",
+    "meaning": "~하지 않을 수 없다, 나도 모르게 ~하게 된다",
+    "note": "참으려 해도 그렇게 되는 감정·행동. can't help + 동사ing. I can't help thinking ~(자꾸 ~라는 생각이 들어). 비슷한 can't help but + 동사원형(같은 뜻). 단독 I can't help it.(나도 어쩔 수 없어)도 흔함.",
+    "examples": [
+      {
+        "en": "I can't help laughing when I see that video.",
+        "ko": "그 영상 보면 웃음을 참을 수가 없어."
+      },
+      {
+        "en": "I can't help thinking we made a mistake.",
+        "ko": "우리가 실수한 것 같다는 생각이 자꾸 들어."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "no wonder",
+    "meaning": "어쩐지, ~하는 것도 당연하다",
+    "note": "이유를 듣고 결과가 납득될 때. No wonder you're tired!(어쩐지 피곤하더라!) 문장 앞에 붙이거나 단독으로 No wonder! 사용. 비슷한 That explains it.(그래서 그랬구나) 캐주얼.",
+    "examples": [
+      {
+        "en": "You worked 12 hours? No wonder you're exhausted.",
+        "ko": "12시간 일했다고? 지칠 만하네."
+      },
+      {
+        "en": "The store's closed today. No wonder it was so quiet.",
+        "ko": "오늘 가게 휴무래. 어쩐지 조용하더라."
+      }
+    ],
+    "added": "2026-11-15"
+  },
+  {
+    "type": "phrase",
+    "term": "it depends (on)",
+    "meaning": "~에 달려 있다, 상황에 따라 다르다",
+    "note": "단정할 수 없을 때. It depends on + 명사/의문사절(It depends on the weather / on how much it costs). 단독 It depends.(경우에 따라 달라)도 매우 흔함. 비슷한 it's up to(~가 결정할 일이다)는 '결정권'에 초점.",
+    "examples": [
+      {
+        "en": "Are you coming? — It depends on the weather.",
+        "ko": "올 거야? — 날씨에 달렸어."
+      },
+      {
+        "en": "How long does it take? — It depends on traffic.",
+        "ko": "얼마나 걸려? — 교통 상황에 따라 달라."
+      }
+    ],
+    "added": "2026-11-15"
   }
 ]
