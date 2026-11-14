@@ -2013,5 +2013,131 @@
       }
     ],
     "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "I got to say",
+    "meaning": "솔직히 말해서, 이건 꼭 말해야겠는데",
+    "note": "감탄·칭찬·솔직한 의견을 꺼내기 전 쿠션처럼 붙이는 말. 구어에선 I gotta say / I've got to say / I have to say로도 들림(뜻 같음). 칭찬 앞에 붙이면 진심이 강조되고, 비판 앞에 붙이면 부드럽게 꺼내는 느낌. 캐주얼.",
+    "examples": [
+      {
+        "en": "I got to say, this is the best pizza I've ever had.",
+        "ko": "솔직히 말해서, 이거 내가 먹어본 피자 중 최고야."
+      },
+      {
+        "en": "I got to say, I'm a little disappointed.",
+        "ko": "솔직히 말하면 좀 실망했어."
+      },
+      {
+        "en": "I've got to say, you handled that really well.",
+        "ko": "이건 꼭 말해야겠다. 너 그거 정말 잘 처리했어."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "see you around",
+    "meaning": "또 보자, 오다가다 보자",
+    "note": "다음 약속을 정하지 않고 가볍게 헤어질 때. See you later(이따/나중에 봐)보다 '언젠가 또 마주치겠지'라는 느슨한 느낌. 같은 학교·동네·회사 사람에게 자연스러움. 캐주얼. 짧게 See ya around.",
+    "examples": [
+      {
+        "en": "Nice meeting you. See you around!",
+        "ko": "만나서 반가웠어. 또 보자!"
+      },
+      {
+        "en": "I'm heading out. See you around.",
+        "ko": "나 먼저 간다. 오다가다 보자."
+      },
+      {
+        "en": "Thanks for the help. See you around campus.",
+        "ko": "도와줘서 고마워. 학교에서 또 보자."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "you think that of me",
+    "meaning": "날 그렇게 생각해?, 나를 그런 사람으로 봐?",
+    "note": "think + 생각 내용 + of 사람 = 누구를 어떻게 생각하다. 보통 서운하거나 놀랐을 때 You think that of me? / How could you think that of me?(어떻게 날 그렇게 생각할 수 있어?)로 씀. 긍정적으로는 think highly of(높이 평가하다), think the world of(아주 소중히 여기다).",
+    "examples": [
+      {
+        "en": "You really think that of me? I would never lie to you.",
+        "ko": "정말 날 그렇게 생각해? 난 절대 너한테 거짓말 안 해."
+      },
+      {
+        "en": "How could you think that of me after all these years?",
+        "ko": "이렇게 오래 알았는데 어떻게 날 그렇게 생각할 수 있어?"
+      },
+      {
+        "en": "My boss thinks highly of me.",
+        "ko": "상사는 나를 높이 평가한다."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "idiom",
+    "term": "let me clue you in",
+    "meaning": "내가 알려줄게, 상황 설명해 줄게",
+    "note": "clue someone in (on ~) = (모르는 사람에게) 사정·정보를 알려주다. 대화에 늦게 들어온 사람에게 상황을 설명할 때. 캐주얼. 비슷한 fill someone in(빠진 내용을 채워주다)이 더 흔함. 반대로 be clueless(전혀 모르는).",
+    "examples": [
+      {
+        "en": "You look confused. Let me clue you in.",
+        "ko": "헷갈리는 표정이네. 내가 상황 설명해 줄게."
+      },
+      {
+        "en": "Let me clue you in on what happened at the meeting.",
+        "ko": "회의에서 무슨 일 있었는지 알려줄게."
+      },
+      {
+        "en": "Thanks for cluing me in. I had no idea.",
+        "ko": "알려줘서 고마워. 전혀 몰랐어."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "close enough",
+    "meaning": "얼추 맞아, 그 정도면 됐어",
+    "note": "정확하진 않지만 거의 맞아서 넘어가도 될 때. 상대 답이 거의 맞았을 때 Close enough!(대충 맞았어!)라고 웃으며 인정. 대략적인 숫자·발음·결과에 씀. 캐주얼. 비슷한 good enough(그 정도면 충분해)는 '품질'에 초점.",
+    "examples": [
+      {
+        "en": "Is it 5 o'clock? — It's 4:55. Close enough.",
+        "ko": "5시야? — 4시 55분. 거의 다 됐네."
+      },
+      {
+        "en": "I said 'Brazil' but it was Argentina. — Close enough!",
+        "ko": "브라질이라고 했는데 아르헨티나였어. — 얼추 맞았네!"
+      },
+      {
+        "en": "The color isn't exactly the same, but it's close enough.",
+        "ko": "색이 완전히 같진 않지만 그 정도면 됐어."
+      }
+    ],
+    "added": "2026-11-14"
+  },
+  {
+    "type": "phrase",
+    "term": "in a sense",
+    "meaning": "어떤 의미에서는, 어느 정도는",
+    "note": "말한 내용이 완전히 맞진 않지만 일정 부분 맞을 때 단정을 피하는 표현. 대화·글 모두 중립적으로 씀. 비슷한 in a way(더 구어적), in some ways(몇몇 면에서는). in the sense that ~ = ~라는 의미에서.",
+    "examples": [
+      {
+        "en": "In a sense, you're right.",
+        "ko": "어떤 의미에서는 네 말이 맞아."
+      },
+      {
+        "en": "Losing the game was, in a sense, a good lesson.",
+        "ko": "경기에 진 건 어느 정도 좋은 교훈이었다."
+      },
+      {
+        "en": "He's a leader in the sense that people trust him.",
+        "ko": "사람들이 그를 믿는다는 의미에서 그는 리더다."
+      }
+    ],
+    "added": "2026-11-14"
   }
 ]
