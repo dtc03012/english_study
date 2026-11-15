@@ -2649,5 +2649,515 @@
       }
     ],
     "added": "2026-11-15"
+  },
+  {
+    "type": "idiom",
+    "term": "no strings attached",
+    "meaning": "아무 조건 없이, 대가 없이",
+    "note": "조건이나 숨은 의무가 없다는 뜻. 제안·선물·무료 체험에 자주 붙음(a free trial with no strings attached). 중립. 연애 맥락에선 '부담 없는 관계'라는 뜻도 있으니 문맥 주의.",
+    "examples": [
+      {
+        "en": "They're offering a free month, no strings attached.",
+        "ko": "아무 조건 없이 한 달 무료로 준대."
+      },
+      {
+        "en": "He lent me the money with no strings attached.",
+        "ko": "그는 아무 대가 없이 돈을 빌려줬다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "the best of both worlds",
+    "meaning": "양쪽의 장점을 다 누리는 것, 일거양득",
+    "note": "두 가지 선택의 좋은 점을 모두 가질 때. get/have the best of both worlds 형태. 중립. 재택+출근 같은 하이브리드 상황 설명에 자주 씀.",
+    "examples": [
+      {
+        "en": "Working from home twice a week gives me the best of both worlds.",
+        "ko": "일주일에 두 번 재택하니까 양쪽 장점을 다 누려."
+      },
+      {
+        "en": "This car is fast and fuel-efficient, so you get the best of both worlds.",
+        "ko": "이 차는 빠르면서도 연비가 좋아서 둘 다 잡을 수 있어."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "on the dot",
+    "meaning": "정각에, 딱 맞춰",
+    "note": "시간을 정확히 지킬 때. at 9 on the dot(9시 정각에) 형태. 캐주얼~중립. 비슷한 sharp(at 9 sharp), on time(제시간에, 덜 강조).",
+    "examples": [
+      {
+        "en": "The meeting starts at 10 on the dot.",
+        "ko": "회의는 10시 정각에 시작해요."
+      },
+      {
+        "en": "She arrived at six on the dot.",
+        "ko": "그녀는 6시 정각에 도착했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "get on someone's nerves",
+    "meaning": "~의 신경을 거슬리게 하다, 짜증 나게 하다",
+    "note": "반복되는 행동·소리 때문에 짜증 날 때. It's getting on my nerves.(슬슬 짜증 나) 형태가 흔함. 캐주얼. 비슷한 bug, annoy, drive someone crazy(더 강함).",
+    "examples": [
+      {
+        "en": "His constant complaining really gets on my nerves.",
+        "ko": "그가 계속 불평하는 게 정말 신경 거슬려."
+      },
+      {
+        "en": "That noise is starting to get on my nerves.",
+        "ko": "저 소리 슬슬 짜증 나기 시작한다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "give someone the benefit of the doubt",
+    "meaning": "(확실하지 않을 때) 좋은 쪽으로 믿어주다",
+    "note": "의심스러운 상황에서 일단 상대를 믿어줄 때. 중립, 직장에서도 자주 씀. 법률 용어에서 유래.",
+    "examples": [
+      {
+        "en": "He's usually honest, so I'll give him the benefit of the doubt.",
+        "ko": "그는 보통 정직하니까 이번엔 믿어줄게."
+      },
+      {
+        "en": "Let's give her the benefit of the doubt. Maybe she didn't get the email.",
+        "ko": "좋게 생각하자. 그녀가 이메일을 못 받았을 수도 있잖아."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "a dime a dozen",
+    "meaning": "흔해 빠진, 널린",
+    "note": "너무 흔해서 특별한 가치가 없다는 뜻. 캐주얼. dime은 10센트 동전. 비슷한 two a penny(영국), very common.",
+    "examples": [
+      {
+        "en": "Coffee shops are a dime a dozen in this neighborhood.",
+        "ko": "이 동네엔 카페가 널렸어."
+      },
+      {
+        "en": "Good ideas are a dime a dozen. Execution is what matters.",
+        "ko": "좋은 아이디어는 흔해. 중요한 건 실행이야."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "by the book",
+    "meaning": "원칙대로, 규정대로",
+    "note": "규칙과 절차를 정확히 따를 때. do things by the book, go by the book. 중립·업무. 융통성 없다는 뉘앙스로도 쓸 수 있음. 반대 cut corners(대충 하다).",
+    "examples": [
+      {
+        "en": "Our new manager does everything by the book.",
+        "ko": "새 매니저는 모든 걸 원칙대로 해."
+      },
+      {
+        "en": "We need to handle this by the book to avoid legal problems.",
+        "ko": "법적 문제를 피하려면 규정대로 처리해야 해."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "in the long run",
+    "meaning": "길게 보면, 결국에는",
+    "note": "당장은 아니어도 장기적으로 볼 때. 중립·업무에 무난. 반대는 in the short run/term(단기적으로). 비슷한 in the long term, eventually.",
+    "examples": [
+      {
+        "en": "Buying quality shoes saves money in the long run.",
+        "ko": "좋은 신발을 사는 게 길게 보면 돈을 아끼는 거야."
+      },
+      {
+        "en": "It's hard now, but it'll pay off in the long run.",
+        "ko": "지금은 힘들지만 결국엔 보상받을 거야."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "jump to conclusions",
+    "meaning": "성급하게 결론을 내리다, 속단하다",
+    "note": "사실을 다 알기 전에 판단할 때. 주로 Don't jump to conclusions.(속단하지 마) 형태. 중립. 비슷한 assume too quickly.",
+    "examples": [
+      {
+        "en": "Don't jump to conclusions. Let's hear his side first.",
+        "ko": "속단하지 마. 그 사람 얘기부터 들어보자."
+      },
+      {
+        "en": "I jumped to conclusions and blamed the wrong person.",
+        "ko": "성급하게 판단해서 엉뚱한 사람을 탓했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "throw in the towel",
+    "meaning": "포기하다, 손을 들다",
+    "note": "더 해봐야 소용없다고 인정하고 그만둘 때. 권투에서 수건을 던져 기권하는 데서 유래. 중립. 비슷한 give up, call it quits.",
+    "examples": [
+      {
+        "en": "After three failed attempts, he finally threw in the towel.",
+        "ko": "세 번 실패한 뒤 그는 결국 포기했다."
+      },
+      {
+        "en": "Don't throw in the towel yet. We still have a chance.",
+        "ko": "아직 포기하지 마. 아직 기회 있어."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "aftermath",
+    "meaning": "(명) (사건·재난의) 여파, 후유증, 직후",
+    "note": "큰 사건이 지나간 뒤의 상황. in the aftermath of ~(~의 여파 속에서), the aftermath of the storm/war/outage. in the wake of와 비슷하지만 aftermath는 '피해·혼란이 남은 상태'에 초점.",
+    "examples": [
+      {
+        "en": "Airlines are still dealing with the aftermath of the nationwide ground stop.",
+        "ko": "항공사들은 아직 전국적 이륙 중지의 여파를 수습하고 있다."
+      },
+      {
+        "en": "In the aftermath of the storm, thousands remain without power",
+        "ko": "폭풍 여파로 수천 가구 여전히 정전 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "trilateral",
+    "meaning": "(형) 3자의, 3국 간의",
+    "note": "세 나라·세 당사자가 함께하는 것. trilateral meeting/talks/summit. 비슷한 bilateral(양자의), multilateral(다자의). 외교 뉴스 필수.",
+    "examples": [
+      {
+        "en": "The three leaders will hold a trilateral meeting in Shenzhen.",
+        "ko": "세 정상은 선전에서 3자 회담을 열 예정이다."
+      },
+      {
+        "en": "Officials prepare for trilateral summit next week",
+        "ko": "당국자들, 다음 주 3국 정상회의 준비 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "ceasefire",
+    "meaning": "(명) 휴전, 정전",
+    "note": "교전 중인 양측이 싸움을 멈추기로 한 합의. agree to/declare a ceasefire, violate a ceasefire, a fragile ceasefire(불안한 휴전). 비슷한 truce(휴전, 더 짧고 비공식적), armistice(정전 협정).",
+    "examples": [
+      {
+        "en": "The drone strike came amid continued violations of the ceasefire.",
+        "ko": "그 드론 공격은 휴전 위반이 계속되는 가운데 벌어졌다."
+      },
+      {
+        "en": "Fragile ceasefire holds for a third day",
+        "ko": "불안한 휴전 사흘째 유지 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "violation",
+    "meaning": "(명) 위반, 침해",
+    "note": "규칙·법·합의를 어기는 것. a violation of the law/ceasefire, human rights violations(인권 침해), traffic violation(교통 위반). 동사 violate. breach와 비슷하지만 violation이 법·권리 맥락에서 더 흔함.",
+    "examples": [
+      {
+        "en": "Both sides accused each other of ceasefire violations.",
+        "ko": "양측은 서로 휴전 위반이라고 비난했다."
+      },
+      {
+        "en": "The company was fined for safety violations.",
+        "ko": "그 회사는 안전 규정 위반으로 벌금을 물었다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "contested",
+    "meaning": "(형) 접전의, 치열한; 논란이 있는",
+    "note": "선거에서 closely/hotly contested race(접전/치열한 경선)로 자주 씀. '논란이 있는' 뜻으로 contested claim/territory(분쟁 지역). 동사 contest(이의를 제기하다, 경쟁하다).",
+    "examples": [
+      {
+        "en": "Alaska's closely contested Senate race is still being counted.",
+        "ko": "알래스카의 접전 상원 선거는 아직 개표 중이다."
+      },
+      {
+        "en": "The island is contested by two countries.",
+        "ko": "그 섬은 두 나라가 영유권을 다투고 있다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "widen",
+    "meaning": "(동) 넓어지다, 벌어지다; 넓히다",
+    "note": "격차·차이·범위가 커질 때. widen a lead(격차를 벌리다), the gap widens(격차가 커지다), widen an investigation(조사를 확대하다). 반대는 narrow(좁히다).",
+    "examples": [
+      {
+        "en": "Peltola widened her lead as more votes were counted.",
+        "ko": "개표가 더 진행되면서 펠톨라가 격차를 벌렸다."
+      },
+      {
+        "en": "Wealth gap widens, report finds",
+        "ko": "보고서, 빈부 격차 확대 확인 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "incumbent",
+    "meaning": "(명/형) 현직자; 현직의",
+    "note": "현재 그 자리에 있는 사람(주로 선거에서). the incumbent senator/president, defeat an incumbent. 반대는 challenger(도전자). 비즈니스에선 incumbent firms(기존 업체).",
+    "examples": [
+      {
+        "en": "The incumbent senator is trailing in the latest count.",
+        "ko": "현직 상원의원이 최근 개표에서 뒤지고 있다."
+      },
+      {
+        "en": "Challenger defeats longtime incumbent",
+        "ko": "도전자, 오랜 현직 의원 꺾어 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "unseat",
+    "meaning": "(동) (선거에서) 자리에서 밀어내다, 낙선시키다",
+    "note": "현직자를 선거로 이겨 끌어내릴 때. unseat an incumbent, be unseated. oust(축출하다)는 선거 외 강제 퇴출에도 쓰고, unseat은 주로 선거.",
+    "examples": [
+      {
+        "en": "Boebert was unseated in a close race.",
+        "ko": "보버트는 접전 끝에 의석을 잃었다."
+      },
+      {
+        "en": "Newcomer unseats veteran lawmaker",
+        "ko": "정치 신인, 다선 의원 낙선시켜 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "tally",
+    "meaning": "(명/동) (득표·점수의) 집계(하다), 총계",
+    "note": "선거·피해·점수 집계에 씀. the vote tally(득표 집계), the final tally, tally votes. 비슷한 count(개표). 일상에선 keep a tally(기록해 두다).",
+    "examples": [
+      {
+        "en": "The final tally may not be known for days.",
+        "ko": "최종 집계는 며칠 걸려야 나올 수 있다."
+      },
+      {
+        "en": "Officials are still tallying ballots in several states.",
+        "ko": "몇몇 주에서는 아직 투표지를 집계하고 있다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "blaze",
+    "meaning": "(명) (큰) 불, 화재 / (동) 활활 타다",
+    "note": "fire의 헤드라인용 짧은 단어. a huge blaze, fight/battle a blaze(진화 작업을 하다), put out a blaze. 형용사 blazing(타오르는, 매우 뜨거운).",
+    "examples": [
+      {
+        "en": "Two tankers caught fire after hitting mines, and crews battled the blaze for hours.",
+        "ko": "유조선 두 척이 기뢰에 부딪혀 불이 났고 선원들은 몇 시간 동안 불길과 싸웠다."
+      },
+      {
+        "en": "Firefighters battle blaze at downtown warehouse",
+        "ko": "소방관들, 도심 창고 화재 진화 중 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "so far",
+    "meaning": "지금까지(는), 아직까지는",
+    "note": "현재 시점까지의 상황. So far, so good.(지금까진 괜찮아) 관용 형태도 매우 흔함. 현재완료와 잘 어울림(We've sold 100 so far). 비슷한 up to now, to date(더 격식).",
+    "examples": [
+      {
+        "en": "So far, so good. No problems yet.",
+        "ko": "지금까진 괜찮아. 아직 문제없어."
+      },
+      {
+        "en": "We've received 50 applications so far.",
+        "ko": "지금까지 지원서 50개를 받았어요."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "at least",
+    "meaning": "적어도, 최소한; 그래도",
+    "note": "① 최소 수량(at least 10 people) ② 나쁜 상황 속 위안(At least nobody got hurt. 그래도 다친 사람은 없잖아). ②의 쓰임이 대화에서 아주 흔함. 반대 at most(많아야).",
+    "examples": [
+      {
+        "en": "At least 20 people were injured.",
+        "ko": "최소 20명이 다쳤다."
+      },
+      {
+        "en": "I missed the bus, but at least it's not raining.",
+        "ko": "버스는 놓쳤지만 그래도 비는 안 오네."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "it's not like ~",
+    "meaning": "~도 아닌데, ~인 것도 아니잖아",
+    "note": "상대 걱정·비난을 가볍게 반박할 때. It's not like + 문장. 약간 방어적·캐주얼한 말투. 비슷한 It's not as if ~(더 격식).",
+    "examples": [
+      {
+        "en": "Just call him. It's not like he's going to bite.",
+        "ko": "그냥 전화해. 그 사람이 물기라도 하는 것도 아니잖아."
+      },
+      {
+        "en": "It's not like I didn't try. I just ran out of time.",
+        "ko": "내가 안 한 것도 아니야. 그냥 시간이 부족했어."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "I was wondering if ~",
+    "meaning": "혹시 ~해 주실 수 있을까 해서요",
+    "note": "정중하게 부탁·제안할 때. 과거진행형이라 더 부드러움. I was wondering if you could ~ 형태가 대표적. Can you ~?보다 훨씬 공손해서 업무 이메일에 유용.",
+    "examples": [
+      {
+        "en": "I was wondering if you could send me the file again.",
+        "ko": "혹시 파일을 다시 보내주실 수 있을까 해서요."
+      },
+      {
+        "en": "I was wondering if you'd like to grab coffee sometime.",
+        "ko": "혹시 언제 커피 한잔 하실래요?"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "feel free to",
+    "meaning": "편하게 ~하세요, 얼마든지 ~해도 돼요",
+    "note": "상대에게 부담 없이 하라고 권할 때. Feel free to + 동사. Feel free to ask/contact me. 업무 이메일 마무리 단골. 비슷한 Don't hesitate to(망설이지 말고 ~하세요, 더 격식).",
+    "examples": [
+      {
+        "en": "Feel free to ask if you have any questions.",
+        "ko": "궁금한 거 있으면 편하게 물어보세요."
+      },
+      {
+        "en": "Feel free to grab a snack from the kitchen.",
+        "ko": "주방에서 간식 맘대로 가져다 먹어."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "as a matter of fact",
+    "meaning": "사실은, 실은",
+    "note": "예상과 다르거나 덧붙일 사실을 꺼낼 때. 상대 말을 정정하거나 강조할 때 문장 앞에 씀. 비슷한 actually, in fact. 약간 강조하는 느낌.",
+    "examples": [
+      {
+        "en": "As a matter of fact, I've been there twice.",
+        "ko": "사실 거기 두 번 가봤어."
+      },
+      {
+        "en": "Are you busy? — As a matter of fact, I am.",
+        "ko": "바빠? — 실은 좀 바빠."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "it's (about) time",
+    "meaning": "이제 ~할 때다, ~할 때가 됐다",
+    "note": "It's time to + 동사(~할 시간이다). It's (about/high) time + 주어 + 과거동사 = 진작 했어야 할 일을 재촉(It's about time you got a job). 늦은 행동엔 It's about time!(이제야!)",
+    "examples": [
+      {
+        "en": "It's time to go. We'll be late.",
+        "ko": "이제 가야 해. 늦겠어."
+      },
+      {
+        "en": "It's about time you cleaned your room.",
+        "ko": "이제 방 좀 치울 때 됐다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "in the meantime",
+    "meaning": "그동안, 그 사이에",
+    "note": "어떤 일을 기다리는 동안 다른 일을 할 때. 업무 이메일에 매우 흔함: In the meantime, please ~. 비슷한 meanwhile(한편, 그동안).",
+    "examples": [
+      {
+        "en": "The doctor will see you soon. In the meantime, please fill out this form.",
+        "ko": "곧 진료해 드릴게요. 그동안 이 양식을 작성해 주세요."
+      },
+      {
+        "en": "I'll fix the bug tomorrow. In the meantime, use the old version.",
+        "ko": "버그는 내일 고칠게. 그동안 예전 버전 써."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "have no choice but to",
+    "meaning": "~할 수밖에 없다",
+    "note": "다른 선택지가 없어서 어쩔 수 없이 할 때. have no choice but to + 동사원형. 중립, 뉴스·업무에서도 자주 씀. 비슷한 be forced to(~하도록 강요받다), can't help but.",
+    "examples": [
+      {
+        "en": "We had no choice but to cancel the trip.",
+        "ko": "여행을 취소할 수밖에 없었어."
+      },
+      {
+        "en": "The company had no choice but to cut jobs.",
+        "ko": "그 회사는 인력을 감축할 수밖에 없었다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "the thing is",
+    "meaning": "문제는 ~야, 그게 말이지",
+    "note": "핵심이나 곤란한 점을 꺼낼 때 앞에 붙이는 말. The thing is, ~ 형태로 대화에서 매우 흔함. 비슷한 the problem is, here's the thing(자 들어봐).",
+    "examples": [
+      {
+        "en": "I'd love to come. The thing is, I have to work.",
+        "ko": "가고 싶지. 근데 문제는 내가 일해야 돼."
+      },
+      {
+        "en": "The thing is, nobody told us about the change.",
+        "ko": "문제는 아무도 우리한테 변경 사항을 안 알려줬다는 거야."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
