@@ -12,15 +12,19 @@ const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({
 
 function speak(text) {
   if (!('speechSynthesis' in window)) return;
+  stopAll();
   speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = 'en-US';
   speechSynthesis.speak(u);
 }
 
+let shown = [];
+
 function render() {
+  stopAll();
   const q = searchEl.value.trim().toLowerCase();
-  const shown = entries.filter((e) =>
+  shown = entries.filter((e) =>
     (typeFilter === 'all' || e.type === typeFilter) &&
     (!q || [e.term, e.meaning, e.note || ''].join(' ').toLowerCase().includes(q))
   );
@@ -32,13 +36,13 @@ function render() {
 
   let html = '';
   let lastDate = '';
-  for (const e of shown) {
+  shown.forEach((e, idx) => {
     if (e.added !== lastDate) {
       html += `<div class="date">${esc(e.added)}</div>`;
       lastDate = e.added;
     }
     html += `
-      <article class="card">
+      <article class="card" data-idx="${idx}">
         <div class="head">
           <h2 class="term">${esc(e.term)}</h2>
           <span class="tag">${TYPE_LABEL[e.type] || '단어'}</span>
@@ -54,7 +58,7 @@ function render() {
             </li>`).join('')}
         </ul>
       </article>`;
-  }
+  });
   listEl.innerHTML = html;
 }
 
@@ -191,11 +195,93 @@ quizEl.addEventListener('click', (ev) => {
 tabBtns.forEach((btn) => btn.addEventListener('click', () => {
   view = btn.dataset.view;
   tabBtns.forEach((b) => b.classList.toggle('active', b === btn));
+  stopAll();
   listEl.hidden = view !== 'list';
   searchEl.hidden = view !== 'list';
+  playBtn.hidden = view !== 'list';
   quizEl.hidden = view !== 'quiz';
+  settingsEl.hidden = view !== 'settings';
+  document.querySelector('.filters').hidden = view === 'settings';
   if (view === 'quiz') startQuiz();
 }));
+
+// ---- Play all: read every shown entry aloud, with repeat counts from settings ----
+const playBtn = document.getElementById('play-all');
+const settingsEl = document.getElementById('settings');
+const setTerm = document.getElementById('set-term');
+const setExample = document.getElementById('set-example');
+const SETTINGS_KEY = 'english-notes-settings';
+let settings = { termRepeat: 1, exampleRepeat: 1 };
+try { Object.assign(settings, JSON.parse(localStorage.getItem(SETTINGS_KEY)) || {}); } catch (_) {}
+setTerm.value = settings.termRepeat;
+setExample.value = settings.exampleRepeat;
+[setTerm, setExample].forEach((el) => el.addEventListener('change', () => {
+  settings = { termRepeat: Number(setTerm.value), exampleRepeat: Number(setExample.value) };
+  try { localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings)); } catch (_) {}
+}));
+
+let playToken = 0;
+let playing = false;
+
+function say(text, lang) {
+  return new Promise((resolve) => {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang;
+    u.onend = u.onerror = resolve;
+    speechSynthesis.speak(u);
+  });
+}
+
+// "(동/명) 조사(하다)" -> "조사(하다)": drop the leading part-of-speech tag before reading.
+const spokenMeaning = (m) => m.replace(/^\([^)]*\)\s*/, '');
+
+function setPlaying(on) {
+  playing = on;
+  playBtn.textContent = on ? '■ 정지' : '▶ 전체 재생';
+  playBtn.classList.toggle('on', on);
+  listEl.querySelectorAll('.card.now').forEach((c) => c.classList.remove('now'));
+}
+
+function stopAll() {
+  if (!playing) return;
+  playToken++;
+  speechSynthesis.cancel();
+  setPlaying(false);
+}
+
+async function playAll() {
+  const token = ++playToken;
+  const items = [...shown];
+  setPlaying(true);
+  for (let i = 0; i < items.length; i++) {
+    const e = items[i];
+    listEl.querySelectorAll('.card.now').forEach((c) => c.classList.remove('now'));
+    const card = listEl.querySelector(`.card[data-idx="${i}"]`);
+    if (card) {
+      card.classList.add('now');
+      card.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    }
+    for (let r = 0; r < settings.termRepeat; r++) {
+      await say(e.term, 'en-US');
+      if (token !== playToken) return;
+      await say(spokenMeaning(e.meaning), 'ko-KR');
+      if (token !== playToken) return;
+    }
+    for (const ex of e.examples) {
+      for (let r = 0; r < settings.exampleRepeat; r++) {
+        await say(ex.en, 'en-US');
+        if (token !== playToken) return;
+      }
+    }
+  }
+  setPlaying(false);
+}
+
+playBtn.addEventListener('click', () => {
+  if (!('speechSynthesis' in window)) return;
+  if (playing) stopAll();
+  else if (shown.length) playAll();
+});
 
 fetch('data/words.json', { cache: 'no-store' })
   .then((r) => r.json())

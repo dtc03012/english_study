@@ -17,6 +17,7 @@
       <div class="tabs">
         <button data-view="list" class="active">목록</button>
         <button data-view="quiz">퀴즈</button>
+        <button data-view="settings">설정</button>
       </div>
     </div>
     <input id="search" type="search" placeholder="검색 (영어/뜻)" autocomplete="off">
@@ -26,9 +27,22 @@
       <button data-type="idiom">숙어</button>
       <button data-type="phrase">표현</button>
     </div>
+    <button id="play-all" class="play-all">▶ 전체 재생</button>
   </header>
   <main id="list"></main>
   <main id="quiz" hidden></main>
+  <main id="settings" hidden>
+    <article class="card">
+      <h2 class="term">전체 재생 설정</h2>
+      <label class="setting">단어·뜻 반복 횟수
+        <select id="set-term"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select>
+      </label>
+      <label class="setting">예문 반복 횟수 <span class="hint">(0 = 예문 안 읽기)</span>
+        <select id="set-example"><option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select>
+      </label>
+      <p class="note">목록 화면의 ▶ 전체 재생은 지금 보고 있는 탭(전체/단어/숙어/표현)과 검색 결과를 위에서부터 차례로 읽어줍니다.</p>
+    </article>
+  </main>
   <script src="app.js"></script>
 </body>
 </html>

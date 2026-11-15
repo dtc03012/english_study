@@ -121,3 +121,19 @@ main { padding: 8px 16px 40px; max-width: 720px; margin: 0 auto; }
   color: var(--bg);
 }
 .score { font-size: 2rem; font-weight: 700; color: var(--accent); margin: 24px 0 4px; text-align: center; }
+.play-all {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  background: var(--accent);
+  color: var(--bg);
+}
+.play-all.on { background: #c0392b; color: #fff; }
+.card.now { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.setting { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 14px; font-size: 1rem; }
+.setting select { font-size: 1rem; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); }
+.hint { color: var(--muted); font-size: 0.8rem; }
+[hidden] { display: none !important; }
