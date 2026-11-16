@@ -3579,5 +3579,68 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "board",
+    "meaning": "(명) 이사회; 판, 게시판, 위원회 / (동) (배·비행기에) 탑승하다",
+    "note": "회사 뉴스에서 board는 거의 항상 '이사회'(board of directors). Nvidia's board(엔비디아 이사회), board member(이사), the board voted to ~(이사회가 ~하기로 의결했다), chairman of the board(이사회 의장). 그 밖에: on board(탑승한; 동참한 — Is everyone on board?), board a plane(탑승하다), boarding pass(탑승권), bulletin board(게시판).",
+    "examples": [
+      {
+        "en": "Nvidia's board is under pressure to bring back its founder.",
+        "ko": "엔비디아 이사회는 창업자를 복귀시키라는 압박을 받고 있다."
+      },
+      {
+        "en": "The board voted to appoint an interim CEO.",
+        "ko": "이사회는 임시 CEO를 선임하기로 의결했다."
+      },
+      {
+        "en": "Passengers can now board the plane.",
+        "ko": "승객 여러분은 지금 탑승하실 수 있습니다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "reinstate",
+    "meaning": "(동) 복직시키다, (원래 자리·제도로) 되돌리다, 부활시키다",
+    "note": "re(다시) + instate(자리에 앉히다). 해임·중단됐던 사람이나 규칙을 원래대로 되돌릴 때. reinstate someone as CEO(~를 CEO로 복귀시키다), reinstate a policy/ban(정책/금지 조치를 부활시키다), be reinstated(복직되다). 명사 reinstatement. 비슷한 bring back(구어), restore(복원하다).",
+    "examples": [
+      {
+        "en": "Investors are pushing the board to reinstate Huang as CEO.",
+        "ko": "투자자들은 이사회에 황을 CEO로 복귀시키라고 압박하고 있다."
+      },
+      {
+        "en": "The fired employee was reinstated after an appeal.",
+        "ko": "해고된 직원은 이의 제기 후 복직됐다."
+      },
+      {
+        "en": "The city reinstated its mask rule for public transit.",
+        "ko": "시는 대중교통 마스크 착용 규정을 부활시켰다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "promotional",
+    "meaning": "(형) 홍보의, 판촉의",
+    "note": "promote(홍보하다; 승진시키다)의 형용사형. a promotional video(홍보 영상), promotional materials(홍보물), a promotional campaign/event(판촉 캠페인/행사), promotional price/offer(할인 판촉가). 명사 promotion은 '홍보·판촉'과 '승진' 두 뜻이 있지만, promotional은 '홍보'의 뜻으로만 씀. 줄여서 promo(구어: a promo video, promo code).",
+    "examples": [
+      {
+        "en": "The company released a promotional video featuring its founder.",
+        "ko": "그 회사는 창업자가 등장하는 홍보 영상을 공개했다."
+      },
+      {
+        "en": "We handed out promotional flyers at the event.",
+        "ko": "우리는 행사에서 홍보 전단지를 나눠줬다."
+      },
+      {
+        "en": "The promotional price ends this Sunday.",
+        "ko": "판촉 할인가는 이번 일요일에 끝나요."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
