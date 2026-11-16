@@ -3264,5 +3264,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "make the case",
+    "meaning": "(~해야 한다고) 주장하다, 논거를 들어 설득하다",
+    "note": "근거를 대며 어떤 입장을 설득력 있게 주장할 때. make the case for ~(~을 지지하는 주장을 펴다), make the case that ~(~라고 주장하다), make the case against ~(~에 반대하는 논거를 펴다). 업무 회의·뉴스·논설에서 자주 씀(중립~격식). 비슷한 argue, make a strong case(설득력 있게 주장하다). '사건을 만들다'로 직역하지 않게 주의.",
+    "examples": [
+      {
+        "en": "She made the case for hiring two more engineers.",
+        "ko": "그녀는 엔지니어를 두 명 더 뽑아야 한다고 설득력 있게 주장했다."
+      },
+      {
+        "en": "The CEO made the case that the company needs to cut back on deals.",
+        "ko": "CEO는 회사가 거래를 줄여야 한다고 주장했다."
+      },
+      {
+        "en": "If you want a raise, you need to make a strong case.",
+        "ko": "연봉을 올리고 싶으면 근거를 확실히 대야 해."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
