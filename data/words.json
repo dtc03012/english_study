@@ -3201,5 +3201,47 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "one's days are numbered",
+    "meaning": "~의 시대(날)도 얼마 남지 않았다, 곧 끝날 운명이다",
+    "note": "어떤 사람·제도·관행이 곧 끝나거나 사라질 것이라는 뜻. 뉴스 헤드라인에서 자주 씀: X's days as ~ are numbered(X가 ~이던 시절도 끝나간다). 사람에게 쓰면 '곧 잘린다/물러난다' 뉘앙스. 중립~약간 극적.",
+    "examples": [
+      {
+        "en": "Nvidia's days as an open checkbook for the AI economy are numbered.",
+        "ko": "엔비디아가 AI 경제의 '무제한 돈줄' 노릇을 하던 시절도 얼마 남지 않았다."
+      },
+      {
+        "en": "After that mistake, I think his days at the company are numbered.",
+        "ko": "그 실수 이후로 그가 회사에 있을 날도 얼마 안 남은 것 같아."
+      },
+      {
+        "en": "Gas-powered cars' days may be numbered.",
+        "ko": "휘발유차의 시대도 끝나 가는지 모른다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "open checkbook",
+    "meaning": "(한도 없이) 돈을 대주는 사람·곳, 무제한 지원",
+    "note": "수표책(checkbook)을 열어두고 원하는 만큼 써주는 모습에서 나온 비유. an open checkbook for ~(~에게 무한정 돈을 대는 곳), give someone an open checkbook(백지수표를 주다). 비슷한 a blank check(백지수표, 무제한 재량). 영국식 철자는 chequebook.",
+    "examples": [
+      {
+        "en": "For years, the company acted as an open checkbook for AI startups.",
+        "ko": "수년간 그 회사는 AI 스타트업들에게 무제한으로 돈을 대주는 곳이었다."
+      },
+      {
+        "en": "The new CFO made it clear there's no open checkbook anymore.",
+        "ko": "새 CFO는 이제 무제한 지원은 없다고 분명히 했다."
+      },
+      {
+        "en": "My parents won't give me an open checkbook for college.",
+        "ko": "부모님이 대학 비용을 무한정 대주시진 않을 거야."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
