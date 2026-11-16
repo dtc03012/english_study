@@ -3495,5 +3495,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "tend to",
+    "meaning": "~하는 경향이 있다, 자주 ~하는 편이다 / (사람·일을) 돌보다, 처리하다",
+    "note": "① tend to + 동사원형 = ~하는 경향이 있다. 단정 대신 부드럽게 일반화할 때 아주 많이 씀(I tend to ~ = 나는 ~하는 편이야). 부정은 don't tend to 또는 tend not to. 명사 tendency(경향): have a tendency to ~. ② tend to + 명사 = ~을 돌보다, 처리하다(tend to a patient/customers/the garden). 뒤에 동사원형이 오면 ①, 명사가 오면 ②.",
+    "examples": [
+      {
+        "en": "I tend to wake up early on weekends.",
+        "ko": "나는 주말에 일찍 일어나는 편이야."
+      },
+      {
+        "en": "Prices tend to rise before the holidays.",
+        "ko": "연휴 전에는 물가가 오르는 경향이 있다."
+      },
+      {
+        "en": "Sorry, I have to tend to a customer.",
+        "ko": "죄송해요, 손님 응대 좀 해야 해서요."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
