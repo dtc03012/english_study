@@ -3243,5 +3243,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "a period in which ~",
+    "meaning": "~했던 기간, ~하던 때 (기간 명사 + in which)",
+    "note": "기간을 뜻하는 명사 뒤에 in which + 문장을 붙여 '그 기간에 ~했던'이라고 설명하는 틀. in which 대신 during which, when도 같은 뜻. period 자리에 year/week/stretch/time 등을 넣어 씀: a year in which ~(~했던 해), a stretch in which ~(~했던 한동안, 기사체). 뉴스·보고서에서 흔함.",
+    "examples": [
+      {
+        "en": "Kress takes over after a stretch in which Nvidia aggressively financed startups.",
+        "ko": "크레스는 엔비디아가 스타트업에 공격적으로 돈을 대던 시기 이후에 자리를 넘겨받는다."
+      },
+      {
+        "en": "It was a year in which everything changed.",
+        "ko": "모든 게 바뀐 한 해였다."
+      },
+      {
+        "en": "We're entering a period in which interest rates may stay high.",
+        "ko": "우리는 금리가 높게 유지될 수 있는 시기로 접어들고 있다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
