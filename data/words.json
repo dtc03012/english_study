@@ -3285,5 +3285,194 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "lay the groundwork",
+    "meaning": "기반을 다지다, 사전 준비를 하다",
+    "note": "앞으로 할 일을 위해 토대를 마련할 때. lay the groundwork for ~ / to + 동사. groundwork는 '기초 공사'. 업무·뉴스에서 자주 씀(중립~격식). 비슷한 pave the way for(~의 길을 닦다), set the stage for.",
+    "examples": [
+      {
+        "en": "Huang was laying the groundwork to pull back the company's approach to backstopping the AI economy.",
+        "ko": "황은 AI 경제를 떠받치던 회사의 방식을 거둬들이기 위한 기반을 다지고 있었다."
+      },
+      {
+        "en": "This meeting will lay the groundwork for next year's budget.",
+        "ko": "이 회의가 내년 예산의 기반을 마련할 거예요."
+      },
+      {
+        "en": "She spent months laying the groundwork before launching the app.",
+        "ko": "그녀는 앱을 출시하기 전 몇 달 동안 사전 준비를 했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "pull back",
+    "meaning": "(지원·투자·병력을) 줄이다, 물러나다, 거둬들이다",
+    "note": "하던 일이나 지원을 축소할 때. pull back on spending(지출을 줄이다), pull back troops(병력을 철수하다). 명사는 붙여 쓴 pullback(축소, 후퇴): a pullback in spending, a market pullback(주가 일시 하락). 비슷한 scale back, cut back.",
+    "examples": [
+      {
+        "en": "Startups expect an even greater pullback in Nvidia's support.",
+        "ko": "스타트업들은 엔비디아의 지원이 더 크게 줄어들 것으로 예상한다."
+      },
+      {
+        "en": "Many consumers are pulling back on spending.",
+        "ko": "많은 소비자가 지출을 줄이고 있다."
+      },
+      {
+        "en": "The army pulled back from the border.",
+        "ko": "군대가 국경에서 철수했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "backstop",
+    "meaning": "(동) 뒤를 받쳐 주다, 지원하다 / (명) 안전장치, 최후의 보루",
+    "note": "원래 야구의 '백네트'. 금융·정책 뉴스에서 '문제가 생기면 대신 떠받쳐 주다'라는 뜻: backstop a loan(대출을 보증하다), act as a backstop for ~(~의 안전판 역할을 하다). 비슷한 underwrite, guarantee, support.",
+    "examples": [
+      {
+        "en": "Nvidia had been backstopping the AI economy by financing its customers.",
+        "ko": "엔비디아는 고객에게 자금을 대주며 AI 경제를 떠받쳐 왔다."
+      },
+      {
+        "en": "The central bank acted as a backstop for the banking system.",
+        "ko": "중앙은행이 은행 시스템의 최후 보루 역할을 했다."
+      },
+      {
+        "en": "The government agreed to backstop the loans.",
+        "ko": "정부는 그 대출을 보증하기로 했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "at the helm",
+    "meaning": "(조직의) 키를 잡은, 책임자로서 이끄는",
+    "note": "helm은 배의 '키(조타 장치)'. 회사·조직을 이끄는 자리에 있을 때. with ~ at the helm(~가 이끄는 가운데), take the helm(지휘봉을 잡다). 뉴스·비즈니스 기사 단골. 비슷한 in charge, in the driver's seat.",
+    "examples": [
+      {
+        "en": "Now, with a finance chief at the helm, startups expect a bigger pullback.",
+        "ko": "이제 재무 책임자가 키를 잡으면서 스타트업들은 더 큰 축소를 예상한다."
+      },
+      {
+        "en": "The company has grown fast since she took the helm.",
+        "ko": "그녀가 지휘봉을 잡은 이후 회사는 빠르게 성장했다."
+      },
+      {
+        "en": "Who's at the helm of the project now?",
+        "ko": "지금 그 프로젝트는 누가 이끌고 있어?"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "be wary of",
+    "meaning": "~을 경계하다, 조심하다, 미심쩍어하다",
+    "note": "위험하거나 믿기 어려운 것에 조심스러운 태도. be wary of + 명사/동사ing. 일상·뉴스 모두 중립. 비슷한 be cautious about, be suspicious of(의심하다, 더 강함). 형용사 wary 단독: a wary look(경계하는 눈빛).",
+    "examples": [
+      {
+        "en": "The new CEO was already wary of some deals the ousted chief forged.",
+        "ko": "새 CEO는 쫓겨난 전 대표가 맺은 일부 거래를 이미 경계하고 있었다."
+      },
+      {
+        "en": "Be wary of emails asking for your password.",
+        "ko": "비밀번호를 묻는 이메일은 조심해."
+      },
+      {
+        "en": "Investors are wary of buying tech stocks right now.",
+        "ko": "투자자들은 지금 기술주 매수를 꺼리고 있다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "forge",
+    "meaning": "(동) (관계·협정을) 맺다, 구축하다; 위조하다",
+    "note": "뉴스에서 forge a deal/partnership/alliance(거래/제휴/동맹을 맺다)로 자주 씀. 원래 '대장간에서 쇠를 벼리다'라서 '공들여 만들어 내다' 뉘앙스. 다른 뜻 '위조하다'(forge a signature)는 부정적이니 문맥 주의. 명사 forgery(위조).",
+    "examples": [
+      {
+        "en": "Investors questioned some of the deals the former CEO forged.",
+        "ko": "투자자들은 전 CEO가 맺은 일부 거래에 의문을 제기했다."
+      },
+      {
+        "en": "The two companies forged a partnership last year.",
+        "ko": "두 회사는 작년에 제휴를 맺었다."
+      },
+      {
+        "en": "He was arrested for forging his boss's signature.",
+        "ko": "그는 상사의 서명을 위조해 체포됐다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "count on",
+    "meaning": "~을 믿다, 의지하다, 기대하다",
+    "note": "사람이나 무언가가 해줄 거라고 믿고 기댈 때. You can count on me.(나만 믿어) 형태가 대표적. 비슷한 rely on, depend on. 뉴스에선 be counting on ~ to + 동사(~가 해주길 기대하고 있다).",
+    "examples": [
+      {
+        "en": "Startups that had been counting on Nvidia's support now expect cuts.",
+        "ko": "엔비디아의 지원을 믿고 있던 스타트업들은 이제 삭감을 예상한다."
+      },
+      {
+        "en": "You can always count on me.",
+        "ko": "언제든 나만 믿어."
+      },
+      {
+        "en": "We're counting on you to finish this by Friday.",
+        "ko": "금요일까지 이거 끝내줄 거라고 믿고 있어."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "emerging",
+    "meaning": "(형) 신생의, 떠오르는, 부상하는",
+    "note": "이제 막 성장하기 시작한 것. emerging companies/markets(신생 기업/신흥 시장), emerging technology(신기술), an emerging threat(새로 떠오르는 위협). 동사 emerge(나타나다, 부상하다).",
+    "examples": [
+      {
+        "en": "CEOs of emerging cloud companies gathered in Berlin.",
+        "ko": "신생 클라우드 기업 CEO들이 베를린에 모였다."
+      },
+      {
+        "en": "Emerging markets were hit hard by the strong dollar.",
+        "ko": "신흥 시장이 달러 강세로 큰 타격을 입었다."
+      },
+      {
+        "en": "AI is one of the most important emerging technologies.",
+        "ko": "AI는 가장 중요한 신기술 중 하나다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "rent out",
+    "meaning": "(돈을 받고) 빌려주다, 임대하다",
+    "note": "내 것을 남에게 빌려주고 돈을 받을 때. rent out a room/apartment/computing power. rent 단독은 '빌리다'와 '빌려주다' 둘 다 되지만, rent out은 '빌려주는 쪽'임을 분명히 함. 비슷한 lease (out), let (영국).",
+    "examples": [
+      {
+        "en": "These companies buy Nvidia chips and rent out computing power.",
+        "ko": "이 회사들은 엔비디아 칩을 사서 연산 능력을 임대한다."
+      },
+      {
+        "en": "We rent out our spare room to students.",
+        "ko": "우리는 남는 방을 학생들에게 세놓아."
+      },
+      {
+        "en": "He rents out his car on weekends.",
+        "ko": "그는 주말마다 자기 차를 빌려주고 돈을 받는다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
