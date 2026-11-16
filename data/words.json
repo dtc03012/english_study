@@ -3558,5 +3558,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "intensify",
+    "meaning": "(동) 심해지다, 격화되다; 강화하다, 강도를 높이다",
+    "note": "intense(강렬한) + -ify(~하게 하다). 자동사(저절로 심해지다)와 타동사(강화하다) 둘 다 씀. 뉴스 단골: fighting/competition/pressure intensifies(전투/경쟁/압박이 격화되다), intensify efforts/the search/attacks(노력/수색/공격을 강화하다), the storm intensified(폭풍이 강해졌다). 명사 intensification. 비슷한 escalate(충돌이 확대되다, 앱에 저장됨), heighten(높이다), step up(강화하다, 구어).",
+    "examples": [
+      {
+        "en": "Competition among AI chipmakers is intensifying.",
+        "ko": "AI 반도체 업체 간 경쟁이 격화되고 있다."
+      },
+      {
+        "en": "Police have intensified the search for the missing hiker.",
+        "ko": "경찰은 실종된 등산객 수색을 강화했다."
+      },
+      {
+        "en": "The storm is expected to intensify overnight.",
+        "ko": "폭풍은 밤사이 더 강해질 것으로 예상된다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
