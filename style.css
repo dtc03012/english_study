@@ -146,3 +146,4 @@ main { padding: 8px 16px 40px; max-width: 720px; margin: 0 auto; }
 .setting select { font-size: 1rem; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); }
 .hint { color: var(--muted); font-size: 0.8rem; }
 [hidden] { display: none !important; }
+.card.selected { outline: 2px dashed var(--accent); outline-offset: -2px; }

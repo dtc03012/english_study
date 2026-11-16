@@ -20,6 +20,7 @@ function speak(text) {
 }
 
 let shown = [];
+let startIdx = null; // index in `shown` to start play-all from, or null for the top
 const sortBtn = document.getElementById('sort');
 let oldestFirst = false;
 try { oldestFirst = localStorage.getItem('english-notes-sort') === 'oldest'; } catch (_) {}
@@ -34,6 +35,8 @@ sortBtn.addEventListener('click', () => {
 
 function render() {
   stopAll();
+  startIdx = null;
+  setPlaying(false);
   const q = searchEl.value.trim().toLowerCase();
   shown = entries.filter((e) =>
     (typeFilter === 'all' || e.type === typeFilter) &&
@@ -77,7 +80,15 @@ function render() {
 
 listEl.addEventListener('click', (ev) => {
   const btn = ev.target.closest('.speak');
-  if (btn) speak(btn.dataset.say);
+  if (btn) return speak(btn.dataset.say);
+  // Tapping a card marks it as the play-all starting point (tap again to clear).
+  const card = ev.target.closest('.card');
+  if (!card) return;
+  const idx = Number(card.dataset.idx);
+  startIdx = startIdx === idx ? null : idx;
+  listEl.querySelectorAll('.card.selected').forEach((c) => c.classList.remove('selected'));
+  if (startIdx !== null) card.classList.add('selected');
+  if (playing) { stopAll(); playAll(); } else setPlaying(false);
 });
 
 searchEl.addEventListener('input', render);
@@ -250,7 +261,7 @@ const spokenMeaning = (m) => m.replace(/^\([^)]*\)\s*/, '');
 
 function setPlaying(on) {
   playing = on;
-  playBtn.textContent = on ? '■ 정지' : '▶ 전체 재생';
+  playBtn.textContent = on ? '■ 정지' : startIdx === null ? '▶ 전체 재생' : '▶ 여기부터 재생';
   playBtn.classList.toggle('on', on);
   listEl.querySelectorAll('.card.now').forEach((c) => c.classList.remove('now'));
 }
@@ -266,7 +277,7 @@ async function playAll() {
   const token = ++playToken;
   const items = [...shown];
   setPlaying(true);
-  for (let i = 0; i < items.length; i++) {
+  for (let i = startIdx ?? 0; i < items.length; i++) {
     const e = items[i];
     listEl.querySelectorAll('.card.now').forEach((c) => c.classList.remove('now'));
     const card = listEl.querySelector(`.card[data-idx="${i}"]`);
