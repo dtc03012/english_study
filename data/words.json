@@ -4209,5 +4209,320 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "suspect someone of ~ing",
+    "meaning": "~가 ~했다고 의심하다, ~의 혐의를 두다",
+    "note": "suspect + 사람 + of + 명사/동사ing. 전치사 of가 핵심(suspect him for X). be suspected of ~(~한 혐의를 받다)는 수동형으로 뉴스에 매우 흔함. 명사 suspect [서스펙트]는 '용의자'. suspect that ~은 '~인 것 같다'(약한 추측: I suspect he's lying).",
+    "examples": [
+      {
+        "en": "U.S. officials suspect Alice Huang of passing information to Chinese intelligence.",
+        "ko": "미 당국은 앨리스 황이 중국 정보기관에 정보를 넘긴 것으로 의심하고 있다."
+      },
+      {
+        "en": "He is suspected of stealing company secrets.",
+        "ko": "그는 회사 기밀을 훔친 혐의를 받고 있다."
+      },
+      {
+        "en": "I suspect she already knows about the party.",
+        "ko": "그녀가 파티에 대해 이미 아는 것 같아."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "intelligence",
+    "meaning": "(명) 정보기관, (군사·국가) 정보; 지능",
+    "note": "뉴스에서 Chinese/U.S. intelligence = 중국/미국 정보기관. intelligence agency(정보기관), intelligence officials(정보 당국자), military intelligence(군 정보). 원래 뜻 '지능'(artificial intelligence = 인공지능). 문맥상 '국가 + intelligence'면 거의 정보기관.",
+    "examples": [
+      {
+        "en": "She is accused of passing information to Chinese intelligence.",
+        "ko": "그녀는 중국 정보기관에 정보를 넘긴 혐의를 받는다."
+      },
+      {
+        "en": "Intelligence officials warned of possible attacks.",
+        "ko": "정보 당국자들은 공격 가능성을 경고했다."
+      },
+      {
+        "en": "Artificial intelligence is changing every industry.",
+        "ko": "인공지능이 모든 산업을 바꾸고 있다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "essential to",
+    "meaning": "~에 꼭 필요한, 필수적인",
+    "note": "be essential to + 명사 / for + 명사 / to + 동사. important보다 훨씬 강한 '없으면 안 되는'. essential to success/the project(성공/프로젝트에 필수적인), It's essential to + 동사(~하는 것이 꼭 필요하다). 명사 essentials(필수품).",
+    "examples": [
+      {
+        "en": "Supporters argue that he is essential to the movement to develop open-source AI.",
+        "ko": "지지자들은 그가 오픈소스 AI 개발 운동에 꼭 필요한 인물이라고 주장한다."
+      },
+      {
+        "en": "Good communication is essential to any team.",
+        "ko": "좋은 소통은 어느 팀에나 필수적이다."
+      },
+      {
+        "en": "It's essential to back up your files regularly.",
+        "ko": "파일을 정기적으로 백업하는 건 꼭 필요해."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "espouse",
+    "meaning": "(동) (주의·정책을) 지지하다, 신봉하다, 옹호하다",
+    "note": "사상·정책·신념을 받아들여 공개적으로 지지할 때 쓰는 격식체 단어. espouse a policy/view/cause(정책/견해/대의를 지지하다), policies espoused by ~(~가 주창하는 정책). 일상에선 support, advocate, back이 자연스러움. 옛 뜻은 '결혼하다'(spouse 배우자와 같은 뿌리).",
+    "examples": [
+      {
+        "en": "They say that policies espoused by China hawks would backfire.",
+        "ko": "그들은 대중 강경파가 주장하는 정책이 역효과를 낼 거라고 말한다."
+      },
+      {
+        "en": "The candidate espouses lower taxes and less regulation.",
+        "ko": "그 후보는 감세와 규제 완화를 지지한다."
+      },
+      {
+        "en": "She has long espoused the cause of women's rights.",
+        "ko": "그녀는 오랫동안 여성 인권이라는 대의를 옹호해 왔다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "hawk",
+    "meaning": "(명) 강경파, 매파; 매",
+    "note": "정치·외교에서 강경 노선을 주장하는 사람. China hawks(대중 강경파), defense hawks, inflation hawks(물가를 잡으려 금리 인상을 주장하는 쪽, 경제 뉴스). 반대는 dove(비둘기파, 온건파). 형용사 hawkish(매파적인) / dovish(비둘기파적인)는 중앙은행 뉴스 단골.",
+    "examples": [
+      {
+        "en": "China hawks in Congress want stricter export controls.",
+        "ko": "의회의 대중 강경파는 더 엄격한 수출 통제를 원한다."
+      },
+      {
+        "en": "The central bank sounded more hawkish than expected.",
+        "ko": "중앙은행은 예상보다 더 매파적인 입장을 보였다."
+      },
+      {
+        "en": "A hawk circled high above the field.",
+        "ko": "매 한 마리가 들판 위 높이 맴돌았다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "backfire",
+    "meaning": "(동) 역효과를 내다, 역풍을 맞다",
+    "note": "의도와 반대로 나쁜 결과를 낼 때. Their plan backfired.(계획이 역효과를 냈다), backfire on someone(~에게 역풍이 되다). 원래 엔진이 '역화를 일으키다'. 비슷한 have the opposite effect, blow up in one's face(구어).",
+    "examples": [
+      {
+        "en": "Critics say the policy would backfire, helping Huawei catch up with Nvidia.",
+        "ko": "비판하는 쪽은 그 정책이 역효과를 내 화웨이가 엔비디아를 따라잡게 도울 거라고 말한다."
+      },
+      {
+        "en": "His joke backfired and everyone got upset.",
+        "ko": "그의 농담은 역효과가 나서 다들 기분이 상했다."
+      },
+      {
+        "en": "The price hike backfired on the company when sales dropped.",
+        "ko": "가격 인상은 매출이 떨어지면서 회사에 역풍이 됐다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "make up ground",
+    "meaning": "(뒤처진 격차를) 따라잡다, 만회하다",
+    "note": "경주에서 뒤처진 거리를 줄이는 데서 나온 표현. make up ground on ~(~와의 격차를 좁히다). 비슷한 catch up (with ~), close the gap, gain ground(우세해지다, 지지를 얻다). 반대 lose ground(밀리다).",
+    "examples": [
+      {
+        "en": "The policy could enable Huawei to make up ground on Nvidia.",
+        "ko": "그 정책은 화웨이가 엔비디아와의 격차를 좁히게 할 수 있다."
+      },
+      {
+        "en": "The runner made up ground in the final lap.",
+        "ko": "그 선수는 마지막 바퀴에서 격차를 따라잡았다."
+      },
+      {
+        "en": "We need to make up ground after a slow first quarter.",
+        "ko": "1분기가 부진했으니 만회해야 해."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "vibe",
+    "meaning": "(명) 분위기, 느낌 (구어)",
+    "note": "사람·장소·대화에서 느껴지는 분위기. 매우 캐주얼. the vibe in the room(그 자리 분위기), good/bad vibes(좋은/안 좋은 느낌), give off a ~ vibe(~한 느낌을 풍기다), I get the vibe that ~(~라는 느낌이 들어). 동사 vibe with ~(~와 잘 맞다, 슬랭).",
+    "examples": [
+      {
+        "en": "The vibe in the group chat was one of concern.",
+        "ko": "단톡방 분위기는 걱정하는 쪽이었다."
+      },
+      {
+        "en": "I love the vibe of this café.",
+        "ko": "이 카페 분위기 진짜 좋아."
+      },
+      {
+        "en": "He gives off a friendly vibe.",
+        "ko": "그는 친근한 느낌을 풍겨."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "champion",
+    "meaning": "(명) 옹호자, 대변자; 우승자 / (동) 옹호하다, 앞장서서 지지하다",
+    "note": "'우승자' 외에 '어떤 대의를 앞장서서 지지하는 사람'이라는 뜻이 기사에서 자주 쓰임: a champion of open source/free speech(오픈소스/표현의 자유의 옹호자). 동사로 champion a cause/an idea(대의/아이디어를 옹호하다). 비슷한 advocate, supporter.",
+    "examples": [
+      {
+        "en": "They worried that a champion of open source was being taken down.",
+        "ko": "그들은 오픈소스의 옹호자가 끌어내려지는 걸 걱정했다."
+      },
+      {
+        "en": "She has championed equal pay for decades.",
+        "ko": "그녀는 수십 년간 동일 임금을 앞장서서 주장해 왔다."
+      },
+      {
+        "en": "He became the world champion at age 22.",
+        "ko": "그는 22살에 세계 챔피언이 됐다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "take down",
+    "meaning": "(사람을) 끌어내리다, 무너뜨리다; (게시물을) 내리다; 받아 적다",
+    "note": "문맥에 따라: ① 권력자·경쟁자를 몰락시키다(take down a CEO/rival) ② 웹사이트·게시물을 삭제하다(take down a post/video) ③ 받아 적다(take down notes) ④ 철거하다(take down a tent). 수동형 be taken down = 끌어내려지다, 삭제되다.",
+    "examples": [
+      {
+        "en": "A champion of open source was being taken down.",
+        "ko": "오픈소스의 옹호자가 끌어내려지고 있었다."
+      },
+      {
+        "en": "The company took down the video after complaints.",
+        "ko": "회사는 항의를 받고 그 영상을 내렸다."
+      },
+      {
+        "en": "Let me take down your phone number.",
+        "ko": "전화번호 좀 적을게요."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "alter",
+    "meaning": "(동) 바꾸다, 변경하다, 고치다",
+    "note": "change보다 약간 격식 있고, '일부를 고친다'는 느낌. alter the code/plan/schedule, alter clothes(옷을 수선하다). 명사 alteration(변경, 수선). 발음이 같은 altar(제단)와 철자 주의. 비슷한 modify, adjust.",
+    "examples": [
+      {
+        "en": "Open-source software permits users to download and alter the code.",
+        "ko": "오픈소스 소프트웨어는 사용자가 코드를 내려받아 고칠 수 있게 해준다."
+      },
+      {
+        "en": "We had to alter our travel plans because of the storm.",
+        "ko": "폭풍 때문에 여행 계획을 바꿔야 했다."
+      },
+      {
+        "en": "I need to get these pants altered.",
+        "ko": "이 바지 수선 좀 맡겨야 해."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "counterbalance",
+    "meaning": "(명) 균형을 잡아 주는 것, 평형추 / (동) 상쇄하다, 균형을 맞추다",
+    "note": "counter(반대) + balance. 한쪽으로 치우치지 않게 반대 방향 힘이 되어 주는 것. a counterbalance to ~(~에 맞서 균형을 잡는 존재). 동사로 counterbalance the risk(위험을 상쇄하다). 비슷한 offset(상쇄하다), counterweight.",
+    "examples": [
+      {
+        "en": "He's a good counterbalance to voices saying we need to regulate AI.",
+        "ko": "그는 AI를 규제해야 한다는 목소리에 맞서 균형을 잡아 주는 사람이다."
+      },
+      {
+        "en": "Strong exports helped counterbalance weak consumer spending.",
+        "ko": "강한 수출이 부진한 소비를 상쇄하는 데 도움이 됐다."
+      },
+      {
+        "en": "She's a calm counterbalance to her energetic partner.",
+        "ko": "그녀는 에너지 넘치는 파트너와 균형을 이루는 차분한 사람이다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "irreplaceable",
+    "meaning": "(형) 대체할 수 없는, 둘도 없는",
+    "note": "ir(부정) + replace(대체하다) + able. 사람·물건·경험이 다른 것으로 바꿀 수 없을 만큼 소중할 때. an irreplaceable leader/memory/loss(대체 불가능한 리더/추억/손실). 반대 replaceable. 비슷한 one of a kind, invaluable(매우 귀중한).",
+    "examples": [
+      {
+        "en": "Employees said they view Huang as an irreplaceable leader.",
+        "ko": "직원들은 황을 대체 불가능한 리더로 본다고 말했다."
+      },
+      {
+        "en": "These family photos are irreplaceable.",
+        "ko": "이 가족사진들은 다시 구할 수 없는 거야."
+      },
+      {
+        "en": "Nobody is irreplaceable at this company.",
+        "ko": "이 회사에서 대체 불가능한 사람은 없다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "demonstration",
+    "meaning": "(명) 시위; (제품 등의) 시연, 설명; 증명",
+    "note": "뉴스에서 '시위, 집회': hold/stage a demonstration(시위를 벌이다), a demonstration in support of ~(~를 지지하는 시위). 줄여서 demo(시연, 데모). 동사 demonstrate(시위하다; 보여주다, 증명하다). 비슷한 protest(반대 시위), rally(집회, 앱에 저장됨).",
+    "examples": [
+      {
+        "en": "Some employees discussed holding a demonstration in Huang's support.",
+        "ko": "일부 직원은 황을 지지하는 시위를 여는 방안을 논의했다."
+      },
+      {
+        "en": "Thousands joined the demonstration outside parliament.",
+        "ko": "수천 명이 의회 밖 시위에 참여했다."
+      },
+      {
+        "en": "The sales team gave us a demonstration of the new software.",
+        "ko": "영업팀이 새 소프트웨어를 시연해 줬다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "people familiar with the matter",
+    "meaning": "사정을 잘 아는 사람들, 관계자들",
+    "note": "기사에서 익명 취재원을 가리키는 표준 표현. according to people familiar with the matter(사안에 정통한 소식통에 따르면). 비슷한 sources close to ~(~와 가까운 소식통), a person with knowledge of ~. familiar with ~ 자체는 '~을 잘 아는'(I'm not familiar with this area. 이 동네 잘 몰라요).",
+    "examples": [
+      {
+        "en": "Employees may hold a demonstration, according to people familiar with the matter.",
+        "ko": "사안을 잘 아는 사람들에 따르면 직원들이 시위를 열 수도 있다."
+      },
+      {
+        "en": "The deal could be announced next week, people familiar with the matter said.",
+        "ko": "관계자들에 따르면 그 거래는 다음 주에 발표될 수 있다."
+      },
+      {
+        "en": "Sorry, I'm not familiar with this software.",
+        "ko": "죄송해요, 이 프로그램은 잘 몰라요."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
