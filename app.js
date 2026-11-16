@@ -225,8 +225,10 @@ tabBtns.forEach((btn) => btn.addEventListener('click', () => {
   document.getElementById('list-actions').hidden = view !== 'list';
   quizEl.hidden = view !== 'quiz';
   settingsEl.hidden = view !== 'settings';
-  document.querySelector('.filters').hidden = view === 'settings';
+  readingEl.hidden = view !== 'reading';
+  document.querySelector('.filters').hidden = view === 'settings' || view === 'reading';
   if (view === 'quiz') startQuiz();
+  if (view === 'reading') renderReading();
 }));
 
 // ---- Play all: read every shown entry aloud, with repeat counts from settings ----
@@ -306,6 +308,35 @@ playBtn.addEventListener('click', () => {
   if (playing) stopAll();
   else if (shown.length) playAll();
 });
+
+// ---- Reading list: articles to read, numbered in the order they were added ----
+const readingEl = document.getElementById('reading');
+const isAndroid = /Android/i.test(navigator.userAgent);
+
+// On Android, an intent: link opens the page in Chrome even when a news app
+// (e.g. WSJ) would otherwise claim the link; other devices use the plain URL.
+function chromeHref(url) {
+  if (!isAndroid) return url;
+  const u = new URL(url);
+  return `intent://${u.host}${u.pathname}${u.search}#Intent;scheme=${u.protocol.replace(':', '')};package=com.android.chrome;S.browser_fallback_url=${encodeURIComponent(url)};end`;
+}
+
+function renderReading() {
+  fetch('data/articles.json', { cache: 'no-store' })
+    .then((r) => r.json())
+    .then((articles) => {
+      readingEl.innerHTML = articles.length ? articles.map((a, i) => `
+        <article class="card">
+          <div class="head">
+            <span class="num">${i + 1}</span>
+            <h2 class="term article-title">${esc(a.title)}</h2>
+          </div>
+          <p class="note">${esc(a.source || new URL(a.url).hostname)} · ${esc(a.added)}</p>
+          <a class="article-link" href="${esc(chromeHref(a.url))}" target="_blank" rel="noopener">${esc(a.url)}</a>
+        </article>`).join('') : '<p class="empty">아직 저장된 글이 없습니다.</p>';
+    })
+    .catch(() => { readingEl.innerHTML = '<p class="empty">글 목록을 불러오지 못했습니다.</p>'; });
+}
 
 fetch('data/words.json', { cache: 'no-store' })
   .then((r) => r.json())

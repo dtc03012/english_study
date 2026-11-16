@@ -27,3 +27,13 @@ A static PWA that shows English words/idioms the user is studying. All content l
 5. Commit with a message like `Add: break the ice, awkward` and push to `claude/app-dev-execution-s9j9ld` (the repo's default branch, which GitHub Pages deploys from). The user has approved pushing word additions straight to this branch, even if the session was given a different working branch. The app at https://dtc03012.github.io/english_study/ updates once Pages redeploys (about 1 minute).
 
 Do not change the app code (`index.html`, `app.js`, `style.css`, `sw.js`) when only adding words.
+
+## When the user asks to add an article to read (읽기 탭)
+
+Append to the end of `data/articles.json` (the app numbers them in this order):
+
+```json
+{ "title": "Article headline", "source": "WSJ", "url": "https://...", "added": "YYYY-MM-DD" }
+```
+
+Use the article's real headline; if the page can't be fetched, derive it from the URL slug and tell the user. Validate the JSON, commit (`Add article: <title>`), and push to the same branch as word additions.
