@@ -3936,5 +3936,236 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "step down",
+    "meaning": "(자리에서) 물러나다, 사임하다",
+    "note": "스스로 직위를 내려놓을 때. step down as CEO(CEO에서 물러나다), step down from the board. resign과 비슷하지만 더 부드럽고 구어적. 강제로 쫓겨나면 oust/be ousted(앱에 저장됨). 반대는 step up(나서다; 강화하다).",
+    "examples": [
+      {
+        "en": "In the days since Huang stepped down, tech CEOs have voiced their support.",
+        "ko": "황이 물러난 뒤 며칠 사이 테크 CEO들이 지지를 표명했다."
+      },
+      {
+        "en": "She will step down as chair at the end of the year.",
+        "ko": "그녀는 연말에 의장직에서 물러난다."
+      },
+      {
+        "en": "He decided to step down for health reasons.",
+        "ko": "그는 건강상의 이유로 물러나기로 했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "register",
+    "meaning": "(동) (의견·감정을) 표명하다, 나타내다; 등록하다 / (명) 명부, 계산대",
+    "note": "기본 뜻은 '등록하다'(register for a class). 기사체에선 register support/opposition/concern/a complaint = 지지/반대/우려/불만을 공식적으로 나타내다. 계기가 수치를 '기록하다'(the earthquake registered 6.1) 뜻도. 명사로 cash register(금전등록기, 계산대).",
+    "examples": [
+      {
+        "en": "Tech CEOs have registered their continued support for him.",
+        "ko": "테크 CEO들은 그에 대한 변함없는 지지를 표명했다."
+      },
+      {
+        "en": "Residents registered their concerns at the town meeting.",
+        "ko": "주민들은 마을 회의에서 우려를 표했다."
+      },
+      {
+        "en": "You need to register online before the event.",
+        "ko": "행사 전에 온라인으로 등록해야 해요."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "seek assurances",
+    "meaning": "확약(보장)을 요구하다, 다짐을 받아내다",
+    "note": "seek(구하다) + assurances(약속, 보증). seek assurances from ~ that ~(~로부터 ~하겠다는 확약을 받으려 하다). 협상·외교·기업 뉴스에서 자주. 받았을 때는 receive/get assurances, 줄 때는 give/offer assurances. 동사 assure(장담하다): I assure you ~(장담하는데 ~).",
+    "examples": [
+      {
+        "en": "Some investors have sought assurances from the board that it won't rush the decision.",
+        "ko": "일부 투자자들은 이사회가 결정을 서두르지 않겠다는 확약을 요구했다."
+      },
+      {
+        "en": "The union sought assurances that no jobs would be cut.",
+        "ko": "노조는 일자리 감축이 없을 거라는 보장을 요구했다."
+      },
+      {
+        "en": "I assure you the problem will be fixed today.",
+        "ko": "오늘 중으로 문제가 해결될 거라고 장담드려요."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "refrain from",
+    "meaning": "~을 삼가다, 자제하다",
+    "note": "refrain from + 명사/동사ing. 공지·안내문의 단골(Please refrain from smoking. 흡연을 삼가 주세요). 격식 있는 말투. 일상에선 avoid ~ing, don't ~가 자연스러움. 비슷한 hold back from, abstain from(투표·음주를 삼가다).",
+    "examples": [
+      {
+        "en": "The board will refrain from naming a permanent replacement until the investigation concludes.",
+        "ko": "이사회는 조사가 끝날 때까지 정식 후임 지명을 자제할 것이다."
+      },
+      {
+        "en": "Please refrain from using your phone during the performance.",
+        "ko": "공연 중에는 휴대폰 사용을 삼가 주세요."
+      },
+      {
+        "en": "I refrained from saying anything rude.",
+        "ko": "무례한 말은 하지 않으려고 참았다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "open letter",
+    "meaning": "공개 서한",
+    "note": "특정인에게 쓰지만 모두가 볼 수 있게 공개한 편지. 뉴스에서 압박·호소 수단으로 자주 등장: publish/sign an open letter(공개 서한을 발표/서명하다), an open letter to the board(이사회에 보내는 공개 서한).",
+    "examples": [
+      {
+        "en": "In a Friday open letter, two investors defended Huang.",
+        "ko": "금요일 공개 서한에서 투자자 두 명이 황을 옹호했다."
+      },
+      {
+        "en": "Hundreds of employees signed an open letter to the CEO.",
+        "ko": "수백 명의 직원이 CEO에게 보내는 공개 서한에 서명했다."
+      },
+      {
+        "en": "The scientists published an open letter about AI safety.",
+        "ko": "과학자들은 AI 안전에 관한 공개 서한을 발표했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "earn the right",
+    "meaning": "(~할) 자격을 얻다, 그럴 만한 자격이 있다",
+    "note": "노력·실적으로 무언가를 누릴 자격을 얻었을 때. earn the right to + 동사 / earn the right for ~. 칭찬·옹호하는 맥락에서 자주. 비슷한 deserve(~할 자격이 있다), have earned it(받을 만해).",
+    "examples": [
+      {
+        "en": "He has earned the right for a deliberate process.",
+        "ko": "그는 신중한 절차를 요구할 자격이 있다."
+      },
+      {
+        "en": "After years of hard work, she earned the right to lead the team.",
+        "ko": "수년간 열심히 일한 끝에 그녀는 팀을 이끌 자격을 얻었다."
+      },
+      {
+        "en": "You've earned the right to take a long vacation.",
+        "ko": "너 긴 휴가 갈 자격 충분해."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "deliberate",
+    "meaning": "(형) 신중한, 숙고한; 고의적인 / (동) 숙고하다, 심의하다",
+    "note": "형용사 발음 [딜리버릿], 동사 [딜리버레이트]. ① '신중한, 충분히 따져본': a deliberate process/decision. ② '고의의, 의도적인': a deliberate attack/lie(고의적인 공격/거짓말). 부사 deliberately(일부러). 동사: The jury deliberated for hours(배심원단이 몇 시간 심의했다). 반대 느낌 hasty(성급한, 앱에 저장됨).",
+    "examples": [
+      {
+        "en": "Investors want a deliberate process before choosing a new CEO.",
+        "ko": "투자자들은 새 CEO를 고르기 전에 신중한 절차를 원한다."
+      },
+      {
+        "en": "Police said the fire was deliberate.",
+        "ko": "경찰은 그 화재가 고의적이었다고 밝혔다."
+      },
+      {
+        "en": "The jury deliberated for two days.",
+        "ko": "배심원단은 이틀 동안 심의했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "needless",
+    "meaning": "(형) 불필요한, 쓸데없는",
+    "note": "need + -less(없는). 하지 않아도 될 일·위험·고통에 씀: needless risk/delay/suffering, a needless rush. 관용 표현 Needless to say(말할 필요도 없이, 당연히)가 매우 흔함. unnecessary와 비슷하지만 needless는 '굳이 안 해도 됐는데'라는 비판 뉘앙스.",
+    "examples": [
+      {
+        "en": "They want to avoid any needless rush to replace him.",
+        "ko": "그들은 그를 교체하려는 불필요한 서두름을 피하고 싶어 한다."
+      },
+      {
+        "en": "Needless to say, we were very disappointed.",
+        "ko": "말할 것도 없이 우리는 정말 실망했다."
+      },
+      {
+        "en": "Driving that fast is a needless risk.",
+        "ko": "그렇게 빨리 운전하는 건 쓸데없는 위험이다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "a rush to",
+    "meaning": "~하려는 서두름, 앞다툼",
+    "note": "명사 rush(급히 서두름) + to 동사/명사. a rush to judgment(성급한 판단), a rush to replace him(그를 서둘러 교체하려는 것), a rush to buy(사재기, 매수 쇄도). 비판할 때 needless/hasty rush처럼 형용사를 붙임. 일상: I'm in a rush.(나 지금 급해.)",
+    "examples": [
+      {
+        "en": "There should be no needless rush to replace him before all the facts are known.",
+        "ko": "모든 사실이 밝혀지기 전에 서둘러 그를 교체할 필요는 없다."
+      },
+      {
+        "en": "The news sparked a rush to buy gold.",
+        "ko": "그 소식에 금 매수가 쇄도했다."
+      },
+      {
+        "en": "Sorry, I'm in a rush. Can we talk later?",
+        "ko": "미안, 나 지금 급해. 나중에 얘기할까?"
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "release a statement",
+    "meaning": "성명을 발표하다, 입장문을 내다",
+    "note": "회사·정부·단체가 공식 입장을 글로 내놓을 때. issue a statement도 같은 뜻. in a statement(성명에서), a joint statement(공동 성명), declined to comment(논평을 거부했다)와 함께 뉴스 필수 표현.",
+    "examples": [
+      {
+        "en": "Nvidia's board released a statement saying it was hiring a search firm.",
+        "ko": "엔비디아 이사회는 헤드헌팅 회사를 고용하고 있다는 성명을 발표했다."
+      },
+      {
+        "en": "The company has not yet released a statement.",
+        "ko": "회사는 아직 입장문을 내지 않았다."
+      },
+      {
+        "en": "The two leaders issued a joint statement after the meeting.",
+        "ko": "두 정상은 회담 후 공동 성명을 발표했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "engage",
+    "meaning": "(동) (사람과) 접촉하다, 관여하다, 고용하다; 참여시키다",
+    "note": "문맥에 따라 뜻이 넓음. 기사에서 engage candidates = 후보자들과 접촉·협의하다. engage in ~(~에 관여하다, ~을 하다: engage in talks), engage a lawyer(변호사를 선임하다), engage users(사용자를 끌어들이다). 명사 engagement(참여, 약혼). be engaged는 '약혼한' 또는 '바쁜, 몰두한'.",
+    "examples": [
+      {
+        "en": "The board hadn't yet engaged any potential candidates.",
+        "ko": "이사회는 아직 어떤 후보와도 접촉하지 않았다."
+      },
+      {
+        "en": "The two sides engaged in talks for weeks.",
+        "ko": "양측은 몇 주 동안 협상을 벌였다."
+      },
+      {
+        "en": "A good teacher knows how to engage students.",
+        "ko": "좋은 선생님은 학생들을 수업에 참여시키는 법을 안다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
