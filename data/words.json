@@ -4524,5 +4524,47 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "discuss / consider / suggest ~ing",
+    "meaning": "~하는 것을 논의하다 / 고려하다 / 제안하다 (아직 안 한 일)",
+    "note": "이 동사들은 목적어로 to 동사가 아니라 동사ing(동명사)를 씀. ~ing는 '앞으로 할지 말지 머릿속으로 다루는 행동'. 같은 부류: avoid(피하다), finish(끝내다), mind(꺼리다), recommend(권하다), postpone(미루다). 자주 틀리는 것: discuss to hold(X), discuss about ~(X, discuss 자체에 '~에 대해'가 포함). 현재완료 have discussed ~ing = ~하는 것을 논의해 왔다(아직 진행 중인 이야기).",
+    "examples": [
+      {
+        "en": "Some employees have discussed holding a demonstration in Huang's support.",
+        "ko": "일부 직원은 황을 지지하는 시위를 여는 것을 논의해 왔다."
+      },
+      {
+        "en": "We're considering moving to a bigger office.",
+        "ko": "우리는 더 큰 사무실로 옮기는 걸 고려 중이야."
+      },
+      {
+        "en": "She suggested taking a short break.",
+        "ko": "그녀는 잠깐 쉬자고 제안했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "confirm / admit / deny ~ing",
+    "meaning": "~한 것을 확인하다 / 인정하다 / 부인하다 (이미 한 일)",
+    "note": "이 동사들 뒤의 ~ing는 '과거에 이미 한 행동'을 가리킴. confirmed signing = 서명했다고 확인했다. 과거임을 더 분명히 하려면 having + p.p.(confirmed having signed). 같은 부류: recall/remember ~ing(~한 걸 기억하다). 일상·업무에선 confirm that ~ / admit that ~ 형태가 더 흔하고, ~ing형은 기사체에서 짧게 쓸 때 많음. confirm to sign(X).",
+    "examples": [
+      {
+        "en": "Employees who confirmed signing the open letter said he was irreplaceable.",
+        "ko": "공개 서한에 서명했다고 확인한 직원들은 그가 대체 불가능하다고 말했다."
+      },
+      {
+        "en": "He admitted lying about his experience.",
+        "ko": "그는 경력에 대해 거짓말한 것을 인정했다."
+      },
+      {
+        "en": "I don't recall saying that.",
+        "ko": "그런 말 한 기억이 없는데."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
