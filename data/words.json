@@ -3180,5 +3180,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "stretch",
+    "meaning": "(동) 늘이다, 펴다, 스트레칭하다; (돈·자원을) 아껴 쓰다 / (명) (시간·거리의) 구간, 기간; 무리한 목표",
+    "note": "기본은 '잡아 늘이다'(stretch a sweater, stretch your legs). 일상: stretch one's legs(바람 쐬러 잠깐 걷다), stretch the truth(과장하다). 돈: stretch a budget/paycheck(예산을 쪼개 쓰다), be stretched thin(인력·돈이 빠듯하다). 명사: a stretch of road(도로 한 구간), for a long stretch(오랫동안), at a stretch(쉬지 않고 연달아). 업무: a stretch goal(도전적 목표). 구어 That's a bit of a stretch.(그건 좀 억지야/무리한 해석이야)도 매우 흔함.",
+    "examples": [
+      {
+        "en": "Let's take a break and stretch our legs.",
+        "ko": "잠깐 쉬면서 바람 좀 쐬자."
+      },
+      {
+        "en": "Our team is stretched thin this month.",
+        "ko": "이번 달 우리 팀은 일손이 너무 빠듯해."
+      },
+      {
+        "en": "Calling it a success is a bit of a stretch.",
+        "ko": "그걸 성공이라고 하는 건 좀 억지야."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
