@@ -3159,5 +3159,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "rein in",
+    "meaning": "(지출·거래·권한 등을) 억제하다, 제한하다, 고삐를 죄다",
+    "note": "rein은 말의 고삐. 원래 '고삐를 당겨 말을 멈추다'에서 '통제하다, 억누르다'로 확장. 뉴스에서 rein in spending/costs/inflation(지출/비용/물가를 억제하다), rein in deals(거래를 제한하다, 무분별한 인수합병에 제동을 걸다), rein in big tech(빅테크를 규제하다) 형태로 자주 씀. 목적어 위치: rein in deals / rein them in. 비슷한 curb, crack down on(단속하다). 철자 주의: rain(비)·reign(통치)과 발음이 같음.",
+    "examples": [
+      {
+        "en": "Regulators are moving to rein in deals that could hurt competition.",
+        "ko": "규제 당국은 경쟁을 해칠 수 있는 거래에 제동을 걸려 하고 있다."
+      },
+      {
+        "en": "The government promised to rein in spending next year.",
+        "ko": "정부는 내년 지출을 억제하겠다고 약속했다."
+      },
+      {
+        "en": "I need to rein in my online shopping.",
+        "ko": "나 인터넷 쇼핑 좀 자제해야겠어."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
