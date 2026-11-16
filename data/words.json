@@ -4167,5 +4167,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "affair",
+    "meaning": "(명) 불륜, 바람; 일, 사건, 문제; (복수) 업무, 사정",
+    "note": "문맥에 따라 뜻이 크게 달라짐. ① 연애 관계: have an affair (with ~)(~와 바람을 피우다), affairs with two women(두 여성과의 불륜). ② 복수 affairs = 업무·사안: foreign affairs(외교), current affairs(시사), public affairs(공공 업무, 홍보), get one's affairs in order(신변을 정리하다). ③ 단수 '일, 사건': a family affair(집안 행사), the whole affair(그 일 전체). It's none of your affair.(네가 상관할 일 아니야)",
+    "examples": [
+      {
+        "en": "Huang stepped down following reports of affairs with two women.",
+        "ko": "황은 두 여성과의 불륜 보도 이후 물러났다."
+      },
+      {
+        "en": "She works in the Ministry of Foreign Affairs.",
+        "ko": "그녀는 외교부에서 일한다."
+      },
+      {
+        "en": "I like to keep up with current affairs.",
+        "ko": "나는 시사 뉴스를 챙겨 보는 편이야."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
