@@ -3768,5 +3768,173 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "constellation",
+    "meaning": "(명) 별자리; (비유) (관련된 사람·것들의) 무리, 집합",
+    "note": "원래 '별자리'. 기사체에서 a constellation of ~ = 서로 연결된 여러 사람·요소들의 무리를 멋있게 표현한 말(a constellation of investors/factors/problems). 일상 대화보다는 글에서. 비슷한 a group of, an array of, a network of.",
+    "examples": [
+      {
+        "en": "Across Silicon Valley, a constellation of Huang's peers, employees and investors are holding on to hope.",
+        "ko": "실리콘밸리 곳곳에서 황의 동료 경영자, 직원, 투자자들이 희망을 놓지 않고 있다."
+      },
+      {
+        "en": "A constellation of factors led to the company's decline.",
+        "ko": "여러 요인이 얽혀 그 회사가 쇠퇴했다."
+      },
+      {
+        "en": "Orion is one of the easiest constellations to find.",
+        "ko": "오리온자리는 가장 찾기 쉬운 별자리 중 하나다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "peer",
+    "meaning": "(명) 동료, 또래, (지위·능력이) 동등한 사람 / (동) 유심히 보다",
+    "note": "나이·직급·능력이 비슷한 사람. 기사에서 Huang's peers = 황과 같은 급의 다른 CEO·창업자들. peer pressure(또래 압력), peer review(동료 평가, 논문 심사), among peers(동료들 사이에서). 형용사처럼 peer companies(동종 업체). 동사 peer는 '자세히 들여다보다'(peer into the dark)라는 다른 뜻.",
+    "examples": [
+      {
+        "en": "He is respected by his peers in the industry.",
+        "ko": "그는 업계 동료들에게 존경받는다."
+      },
+      {
+        "en": "Teenagers often feel peer pressure to fit in.",
+        "ko": "십대들은 종종 무리에 어울리라는 또래 압력을 느낀다."
+      },
+      {
+        "en": "She peered through the window.",
+        "ko": "그녀는 창문 너머로 유심히 들여다봤다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "hold on to",
+    "meaning": "~을 꼭 붙잡다, (희망·물건을) 놓지 않다, 계속 갖고 있다",
+    "note": "물리적으로 꽉 잡거나, 희망·믿음·자리·주식 등을 포기하지 않고 유지할 때. hold on to hope(희망을 놓지 않다), hold on to the lead(선두를 지키다), hold on to your shares(주식을 팔지 않고 보유하다). 비슷한 cling to(매달리다, 더 절박함), keep. Hold on!(잠깐만!)과 구별.",
+    "examples": [
+      {
+        "en": "Investors are holding on to hope that he could return.",
+        "ko": "투자자들은 그가 돌아올 수 있다는 희망을 놓지 않고 있다."
+      },
+      {
+        "en": "Hold on to the railing. The stairs are slippery.",
+        "ko": "난간 꼭 잡아. 계단이 미끄러워."
+      },
+      {
+        "en": "I'm going to hold on to these shares for a few more years.",
+        "ko": "이 주식은 몇 년 더 들고 있을 거야."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "regain",
+    "meaning": "(동) 되찾다, 회복하다",
+    "note": "re(다시) + gain(얻다). 잃었던 것을 다시 얻을 때: regain one's position/control/trust/consciousness(자리/통제권/신뢰/의식을 되찾다), regain momentum(동력을 회복하다). 비슷한 recover, win back(구어).",
+    "examples": [
+      {
+        "en": "Supporters hope he could regain his position atop the chip maker.",
+        "ko": "지지자들은 그가 그 반도체 회사의 정상 자리를 되찾을 수 있기를 바란다."
+      },
+      {
+        "en": "It takes years to regain people's trust.",
+        "ko": "사람들의 신뢰를 되찾는 데는 몇 년이 걸린다."
+      },
+      {
+        "en": "The patient regained consciousness this morning.",
+        "ko": "환자는 오늘 아침 의식을 되찾았다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "atop",
+    "meaning": "(전) ~의 꼭대기에, ~의 정상에",
+    "note": "on top of의 짧은 글말. 물리적 위치(a flag atop the building)와 '조직·순위의 정상에'(atop the company, atop the rankings) 둘 다. 뉴스·기사체에서 자주, 일상 대화에선 on top of가 자연스러움.",
+    "examples": [
+      {
+        "en": "He could regain his position atop the company.",
+        "ko": "그는 회사 정상의 자리를 되찾을 수도 있다."
+      },
+      {
+        "en": "A small flag flew atop the building.",
+        "ko": "건물 꼭대기에 작은 깃발이 펄럭였다."
+      },
+      {
+        "en": "The team remains atop the league standings.",
+        "ko": "그 팀은 리그 순위 1위를 지키고 있다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "scrutiny",
+    "meaning": "(명) 면밀한 조사, 감시, 철저한 검토",
+    "note": "꼼꼼하게 따져보는 것, 특히 당국·언론의 감시. official scrutiny(당국의 조사), come under scrutiny(조사·비판의 대상이 되다), face scrutiny, public scrutiny(여론의 감시), close scrutiny. 동사 scrutinize(면밀히 조사하다). probe보다 '지켜보며 따진다'는 넓은 뜻.",
+    "examples": [
+      {
+        "en": "Official scrutiny of his role in providing chips to China intensifies.",
+        "ko": "중국에 칩을 공급한 그의 역할에 대한 당국의 조사가 강화되고 있다."
+      },
+      {
+        "en": "The company came under scrutiny after the data breach.",
+        "ko": "정보 유출 이후 그 회사는 감시의 대상이 됐다."
+      },
+      {
+        "en": "Politicians live under constant public scrutiny.",
+        "ko": "정치인들은 늘 여론의 감시 속에 산다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "urge",
+    "meaning": "(동) 촉구하다, 강력히 권하다 / (명) (강한) 충동",
+    "note": "urge someone to + 동사 = ~에게 ~하라고 강하게 요구하다. 뉴스 단골: officials urged residents to evacuate(당국이 주민들에게 대피를 촉구했다). ask보다 강하고 demand보다 부드러움. 명사 urge는 '충동'(an urge to eat sweets 단것 먹고 싶은 충동). 형용사 urgent(긴급한).",
+    "examples": [
+      {
+        "en": "The Treasury Secretary urged Nvidia's board to bring in an outside CEO.",
+        "ko": "재무장관은 엔비디아 이사회에 외부 인사를 CEO로 데려오라고 촉구했다."
+      },
+      {
+        "en": "Doctors urge people to get vaccinated before winter.",
+        "ko": "의사들은 겨울 전에 백신을 맞으라고 권고한다."
+      },
+      {
+        "en": "I had a sudden urge to eat ice cream.",
+        "ko": "갑자기 아이스크림이 너무 먹고 싶었다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "bring in",
+    "meaning": "(사람을) 데려오다, 영입하다; (돈을) 벌어들이다; (제도를) 도입하다",
+    "note": "외부에서 사람·전문가를 들여올 때: bring in an outside candidate/expert/consultant(외부 인사/전문가/컨설턴트를 영입하다). 그 밖에: bring in revenue/$1 million(수익/100만 달러를 벌어들이다), bring in new rules(새 규칙을 도입하다). 비슷한 hire, recruit.",
+    "examples": [
+      {
+        "en": "The board was urged to bring in an outside candidate as CEO.",
+        "ko": "이사회는 외부 인사를 CEO로 영입하라는 요구를 받았다."
+      },
+      {
+        "en": "We brought in a consultant to fix the process.",
+        "ko": "우리는 프로세스를 고치려고 컨설턴트를 데려왔다."
+      },
+      {
+        "en": "The new product brought in $2 million last month.",
+        "ko": "그 신제품은 지난달 200만 달러를 벌어들였다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
