@@ -3474,5 +3474,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "sightseeing",
+    "meaning": "(명) 관광, 구경",
+    "note": "sight(명소) + seeing(보기). 셀 수 없는 명사라 a sightseeing(X). go sightseeing(관광하러 가다), do some sightseeing(관광 좀 하다)이 가장 흔한 형태. 형용사처럼 a sightseeing tour/bus(관광 투어/버스). 관련: sightseer(관광객), the sights(명소들: see the sights). 입국 심사에서 방문 목적을 물으면 Sightseeing.(관광이요) 한 단어로 답해도 됨. tourism은 '관광 산업' 느낌.",
+    "examples": [
+      {
+        "en": "We went sightseeing in Rome all day.",
+        "ko": "우리는 하루 종일 로마 관광을 했다."
+      },
+      {
+        "en": "What's the purpose of your visit? — Sightseeing.",
+        "ko": "방문 목적이 뭔가요? — 관광이요."
+      },
+      {
+        "en": "We took a sightseeing bus around the city.",
+        "ko": "우리는 관광버스를 타고 도시를 한 바퀴 돌았다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
