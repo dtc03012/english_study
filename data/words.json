@@ -3516,5 +3516,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "hasty",
+    "meaning": "(형) 성급한, 서두른, 급히 한",
+    "note": "충분히 생각하지 않고 서둘러 한 것. 부정적 뉘앙스가 강함: a hasty decision(성급한 결정), hasty conclusions, a hasty retreat(황급한 후퇴). 명사 haste(서두름): in haste(급히), Haste makes waste.(서두르면 일을 망친다, 속담). 부사 hastily(급히, 성급하게). quick/fast는 중립적, hasty는 '경솔하게 서두른' 느낌. 같은 뜻 숙어 jump to conclusions(성급히 결론을 내리다).",
+    "examples": [
+      {
+        "en": "Let's not make a hasty decision.",
+        "ko": "성급하게 결정하지 말자."
+      },
+      {
+        "en": "He regretted his hasty words.",
+        "ko": "그는 성급하게 내뱉은 말을 후회했다."
+      },
+      {
+        "en": "The team made a hasty exit after the meeting.",
+        "ko": "그 팀은 회의가 끝나자 황급히 자리를 떴다."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
