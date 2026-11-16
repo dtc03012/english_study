@@ -3537,5 +3537,26 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "even as",
+    "meaning": "~하는 와중에도, ~하는데도 (동시에), 바로 ~할 때",
+    "note": "even as + 문장. 두 일이 '동시에' 일어나는데 서로 대조되거나 의외일 때 씀: A가 일어나는 와중에도 B. 뉴스 기사에서 매우 흔함(Stocks rose even as rates climbed = 금리가 오르는 와중에도 주가는 올랐다). even though(~인데도, 양보)와 비슷하지만 even as는 '동시성'이 핵심. 단순히 '~할 때'(just as)의 뜻으로도 쓰임: Even as we speak(지금 이 순간에도).",
+    "examples": [
+      {
+        "en": "Stocks rose even as interest rates kept climbing.",
+        "ko": "금리가 계속 오르는 와중에도 주가는 상승했다."
+      },
+      {
+        "en": "Nvidia kept investing even as some executives grew wary of the deals.",
+        "ko": "일부 임원들이 그 거래들을 경계하게 된 와중에도 엔비디아는 계속 투자했다."
+      },
+      {
+        "en": "Even as we speak, the team is fixing the problem.",
+        "ko": "지금 이 순간에도 팀이 문제를 고치고 있어요."
+      }
+    ],
+    "added": "2026-11-16"
   }
 ]
