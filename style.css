@@ -121,9 +121,18 @@ main { padding: 8px 16px 40px; max-width: 720px; margin: 0 auto; }
   color: var(--bg);
 }
 .score { font-size: 2rem; font-weight: 700; color: var(--accent); margin: 24px 0 4px; text-align: center; }
+.actions { display: flex; gap: 8px; margin-top: 10px; }
+.sort {
+  flex: none;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--text);
+}
 .play-all {
-  width: 100%;
-  margin-top: 10px;
+  flex: 1;
   padding: 10px;
   font-size: 1rem;
   border: none;

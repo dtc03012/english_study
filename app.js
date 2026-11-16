@@ -20,6 +20,17 @@ function speak(text) {
 }
 
 let shown = [];
+const sortBtn = document.getElementById('sort');
+let oldestFirst = false;
+try { oldestFirst = localStorage.getItem('english-notes-sort') === 'oldest'; } catch (_) {}
+sortBtn.textContent = oldestFirst ? '오래된순' : '최신순';
+sortBtn.addEventListener('click', () => {
+  oldestFirst = !oldestFirst;
+  sortBtn.textContent = oldestFirst ? '오래된순' : '최신순';
+  try { localStorage.setItem('english-notes-sort', oldestFirst ? 'oldest' : 'newest'); } catch (_) {}
+  render();
+  window.scrollTo(0, 0);
+});
 
 function render() {
   stopAll();
@@ -28,6 +39,8 @@ function render() {
     (typeFilter === 'all' || e.type === typeFilter) &&
     (!q || [e.term, e.meaning, e.note || ''].join(' ').toLowerCase().includes(q))
   );
+  // entries are newest-first; reversing gives oldest-first in the order they were added.
+  if (oldestFirst) shown.reverse();
 
   if (!shown.length) {
     listEl.innerHTML = `<p class="empty">${entries.length ? '검색 결과가 없습니다.' : '아직 저장된 표현이 없습니다.'}</p>`;
@@ -198,7 +211,7 @@ tabBtns.forEach((btn) => btn.addEventListener('click', () => {
   stopAll();
   listEl.hidden = view !== 'list';
   searchEl.hidden = view !== 'list';
-  playBtn.hidden = view !== 'list';
+  document.getElementById('list-actions').hidden = view !== 'list';
   quizEl.hidden = view !== 'quiz';
   settingsEl.hidden = view !== 'settings';
   document.querySelector('.filters').hidden = view === 'settings';
