@@ -4566,5 +4566,515 @@
       }
     ],
     "added": "2026-11-16"
+  },
+  {
+    "type": "idiom",
+    "term": "hit the ground running",
+    "meaning": "(시작하자마자) 바로 본격적으로 일하다, 즉시 성과를 내다",
+    "note": "새 직장·프로젝트에서 적응 기간 없이 곧바로 잘 해낼 때. 채용 공고·업무 대화 단골(We need someone who can hit the ground running). 중립~업무. 비슷한 get off to a flying start.",
+    "examples": [
+      {
+        "en": "She hit the ground running at her new job.",
+        "ko": "그녀는 새 직장에서 첫날부터 바로 실력을 발휘했다."
+      },
+      {
+        "en": "We need a manager who can hit the ground running.",
+        "ko": "바로 업무에 투입될 수 있는 매니저가 필요해요."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "pass the buck",
+    "meaning": "책임을 떠넘기다",
+    "note": "자기 책임을 남에게 미룰 때. 부정적·비판적 뉘앙스, 캐주얼~중립. 반대 표현 The buck stops here.(최종 책임은 내가 진다). 비슷한 shift the blame.",
+    "examples": [
+      {
+        "en": "Stop passing the buck and fix the problem.",
+        "ko": "책임 떠넘기지 말고 문제나 해결해."
+      },
+      {
+        "en": "Managers kept passing the buck to each other.",
+        "ko": "매니저들은 서로 책임을 떠넘기기만 했다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "go back to the drawing board",
+    "meaning": "(계획이 실패해서) 처음부터 다시 짜다",
+    "note": "기획·설계가 실패해 원점에서 다시 시작할 때. It's back to the drawing board.로 줄여서도 씀. back to square one(원점으로 돌아가다, 앱에 저장됨)보다 '새로 계획을 세운다'에 초점. 중립.",
+    "examples": [
+      {
+        "en": "The client hated the design, so we had to go back to the drawing board.",
+        "ko": "클라이언트가 디자인을 싫어해서 처음부터 다시 짜야 했다."
+      },
+      {
+        "en": "The test failed. It's back to the drawing board.",
+        "ko": "테스트 실패야. 처음부터 다시 해야겠다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "bend over backwards",
+    "meaning": "(남을 위해) 무척 애쓰다, 최선을 다하다",
+    "note": "상대를 돕거나 만족시키려고 평소 이상으로 노력할 때. bend over backwards to + 동사. 칭찬·불평 둘 다 씀. 비슷한 go out of one's way, go the extra mile(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "The hotel staff bent over backwards to help us.",
+        "ko": "호텔 직원들이 우리를 도우려고 정말 애써 줬다."
+      },
+      {
+        "en": "I bent over backwards for him, and he didn't even say thanks.",
+        "ko": "그 사람을 위해 그렇게 애썼는데 고맙다는 말도 안 하더라."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "cut to the chase",
+    "meaning": "본론으로 들어가다, 단도직입적으로 말하다",
+    "note": "잡담·서론을 건너뛰고 핵심만 말할 때. Let's cut to the chase.(본론으로 들어가죠) 업무 회의에서도 자주. 영화에서 지루한 장면을 건너뛰고 추격 장면으로 넘어가던 데서 유래. 비슷한 get to the point. 반대 beat around the bush(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "Let's cut to the chase. How much will it cost?",
+        "ko": "본론으로 들어가죠. 얼마나 들까요?"
+      },
+      {
+        "en": "I'll cut to the chase: we're over budget.",
+        "ko": "단도직입적으로 말할게. 예산 초과야."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "see eye to eye",
+    "meaning": "의견이 일치하다, 생각이 같다",
+    "note": "주로 부정문으로 '의견이 안 맞는다'(don't see eye to eye on ~)로 많이 씀. 중립. on the same page(같은 이해를 하고 있다, 앱에 저장됨)는 정보 공유에, see eye to eye는 의견·가치관 일치에 초점.",
+    "examples": [
+      {
+        "en": "My boss and I don't always see eye to eye.",
+        "ko": "상사랑 나는 항상 의견이 맞는 건 아니야."
+      },
+      {
+        "en": "The two parties finally saw eye to eye on the budget.",
+        "ko": "두 당은 마침내 예산안에 의견을 모았다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "learn the ropes",
+    "meaning": "요령을 익히다, 일을 배우다",
+    "note": "새 일·환경의 기본 방법을 익힐 때. show someone the ropes(~에게 일을 가르쳐 주다), know the ropes(요령을 알다). 배의 밧줄 다루는 법을 배우던 데서 유래. 캐주얼~중립. get the hang of(감을 잡다, 앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "It took me a month to learn the ropes at the new office.",
+        "ko": "새 사무실 일을 익히는 데 한 달 걸렸어."
+      },
+      {
+        "en": "Sarah will show you the ropes on your first day.",
+        "ko": "첫날엔 사라가 일을 알려줄 거예요."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "play catch-up",
+    "meaning": "뒤처진 것을 따라잡으려 애쓰다",
+    "note": "경쟁에서 밀려 뒤늦게 쫓아가는 처지. 기업·국가 경쟁 뉴스에 자주(be playing catch-up in AI). 중립. make up ground(격차를 좁히다, 앱에 저장됨)와 비슷하지만 '뒤처진 처지'에 초점.",
+    "examples": [
+      {
+        "en": "European chipmakers are playing catch-up with Nvidia.",
+        "ko": "유럽 반도체 업체들은 엔비디아를 뒤쫓는 처지다."
+      },
+      {
+        "en": "I missed a week of class, so I'm playing catch-up.",
+        "ko": "수업을 일주일 빠져서 지금 따라잡느라 바빠."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "a win-win",
+    "meaning": "모두에게 이로운 것, 서로 윈윈",
+    "note": "양쪽 모두 이득을 보는 상황. a win-win situation/deal. It's a win-win.(서로 좋은 거지) 업무·협상에서 매우 흔함. 반대 a lose-lose, zero-sum(한쪽이 얻으면 한쪽이 잃는).",
+    "examples": [
+      {
+        "en": "Working from home saves us money and gives you flexibility. It's a win-win.",
+        "ko": "재택근무는 회사는 돈을 아끼고 너는 유연해지니까 서로 좋은 거야."
+      },
+      {
+        "en": "Both companies called the merger a win-win deal.",
+        "ko": "두 회사는 그 합병을 윈윈 거래라고 불렀다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "burn the midnight oil",
+    "meaning": "밤늦게까지 일하다(공부하다)",
+    "note": "마감·시험 때문에 늦게까지 깨어 있을 때. 기름 램프 켜고 일하던 데서 유래. 캐주얼~중립. 비슷한 pull an all-nighter(밤을 새우다, 더 구어).",
+    "examples": [
+      {
+        "en": "I burned the midnight oil to finish the report.",
+        "ko": "보고서 끝내려고 밤늦게까지 일했어."
+      },
+      {
+        "en": "Students are burning the midnight oil before finals.",
+        "ko": "학생들은 기말고사 전에 밤늦게까지 공부하고 있다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "stall",
+    "meaning": "(동) (진행이) 멈추다, 교착 상태에 빠지다; 시간을 끌다 / (명) 노점",
+    "note": "협상·성장·계획이 진전 없이 멈출 때. talks stalled(회담이 교착 상태에 빠졌다), stalled growth, the engine stalled(시동이 꺼졌다). 사람이 stall = 일부러 시간을 끌다(stop stalling). 명사 '가판대, 노점'(a market stall).",
+    "examples": [
+      {
+        "en": "Peace talks remain stalled as clashes continue.",
+        "ko": "충돌이 이어지면서 평화 회담은 교착 상태에 머물러 있다."
+      },
+      {
+        "en": "Economic growth stalled in the third quarter.",
+        "ko": "3분기 경제 성장이 멈췄다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "condemn",
+    "meaning": "(동) 규탄하다, 강하게 비난하다; (형을) 선고하다",
+    "note": "공식적으로 강하게 비난할 때. 외교 뉴스 단골: condemn the attack/violence(공격/폭력을 규탄하다), strongly condemn. 명사 condemnation(규탄). criticize보다 훨씬 강함. be condemned to ~(~형을 선고받다, ~할 운명에 처하다).",
+    "examples": [
+      {
+        "en": "Jordan, Egypt and Qatar condemned the attack.",
+        "ko": "요르단, 이집트, 카타르가 그 공격을 규탄했다."
+      },
+      {
+        "en": "World leaders condemn violence against civilians",
+        "ko": "세계 정상들, 민간인 대상 폭력 규탄 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "rubble",
+    "meaning": "(명) (무너진 건물의) 잔해, 돌무더기",
+    "note": "폭격·지진·붕괴 뉴스에 나옴. trapped under/in the rubble(잔해에 깔린), pull survivors from the rubble(잔해에서 생존자를 구조하다), reduced to rubble(폐허가 되다). 셀 수 없는 명사.",
+    "examples": [
+      {
+        "en": "Thousands are believed to be trapped in the rubble.",
+        "ko": "수천 명이 잔해 속에 갇혀 있는 것으로 추정된다."
+      },
+      {
+        "en": "Rescuers pulled a child from the rubble.",
+        "ko": "구조대가 잔해에서 아이 한 명을 구해냈다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "sidelines",
+    "meaning": "(명, 복수) (회의·행사의) 부대 행사, 장외; 경기장 사이드라인",
+    "note": "on the sidelines of ~ = (공식 회의) 기간 중 따로, ~를 계기로. 외교 뉴스 단골(met on the sidelines of the summit). 스포츠에선 경기장 밖(sit on the sidelines 벤치에 있다; 관망하다).",
+    "examples": [
+      {
+        "en": "The three leaders will meet on the sidelines of APEC.",
+        "ko": "세 정상은 APEC 기간 중 별도로 만날 예정이다."
+      },
+      {
+        "en": "Many investors are staying on the sidelines until the earnings report.",
+        "ko": "많은 투자자가 실적 발표 전까지 관망하고 있다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "resume",
+    "meaning": "(동) 재개하다, 다시 시작되다 / (명) 이력서 [레주메이]",
+    "note": "중단됐던 일이 다시 시작될 때. flights resumed(항공편이 재개됐다), resume talks/work. 명사 resumption(재개). 발음 주의: 동사 [리줌], 명사 '이력서'는 résumé [레주메이]. 비슷한 restart, pick up again.",
+    "examples": [
+      {
+        "en": "Air travel resumed on Friday after the ground stop.",
+        "ko": "이륙 중지 이후 금요일에 항공편 운항이 재개됐다."
+      },
+      {
+        "en": "The two sides agreed to resume talks next week.",
+        "ko": "양측은 다음 주에 회담을 재개하기로 합의했다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "postpone",
+    "meaning": "(동) 연기하다, 미루다",
+    "note": "일정을 뒤로 미룰 때. postpone an election/meeting/trip, postpone ~ing. 비슷한 delay(지연시키다), put off(구어). 아예 취소는 cancel. 명사 postponement.",
+    "examples": [
+      {
+        "en": "South Sudan postponed its general election.",
+        "ko": "남수단은 총선을 연기했다."
+      },
+      {
+        "en": "Can we postpone the meeting until Thursday?",
+        "ko": "회의를 목요일로 미룰 수 있을까요?"
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "trapped",
+    "meaning": "(형) 갇힌, 꼼짝 못 하는",
+    "note": "재난 뉴스에서 trapped in/under the rubble(잔해에 갇힌), trapped inside a building. 비유로 feel trapped(답답하게 옴짝달싹 못 하는 느낌), trapped in a bad job. 동사 trap(가두다, 덫).",
+    "examples": [
+      {
+        "en": "Rescuers are trying to reach people trapped under the building.",
+        "ko": "구조대가 건물 아래 갇힌 사람들에게 접근하려 애쓰고 있다."
+      },
+      {
+        "en": "I felt trapped in that job.",
+        "ko": "그 일에 갇혀 있는 느낌이었어."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "earnings",
+    "meaning": "(명, 복수) (기업의) 실적, 이익; 소득",
+    "note": "경제 뉴스에서 기업의 분기 실적. earnings report(실적 발표), earnings season(실적 시즌), beat/miss earnings expectations(실적이 예상을 웃돌다/밑돌다). 개인에겐 '소득'(average earnings).",
+    "examples": [
+      {
+        "en": "Traders are watching Nvidia's earnings this week.",
+        "ko": "트레이더들은 이번 주 엔비디아 실적을 주시하고 있다."
+      },
+      {
+        "en": "The company beat earnings expectations",
+        "ko": "그 회사, 실적 예상치 웃돌아 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "blame",
+    "meaning": "(동) 탓하다, ~의 원인으로 돌리다 / (명) 책임, 탓",
+    "note": "뉴스 구문 be blamed on ~(~ 탓으로 돌려지다): The outage was blamed on a router failure. blame A for B(B를 A 탓으로 하다) / blame B on A(B를 A 탓으로 돌리다) 두 어순 주의. take the blame(책임을 지다), I don't blame you.(네 탓 안 해/그럴 만해).",
+    "examples": [
+      {
+        "en": "The nationwide ground stop was blamed on a router failure.",
+        "ko": "전국적 이륙 중지는 라우터 고장 탓으로 밝혀졌다."
+      },
+      {
+        "en": "Don't blame me for your mistakes.",
+        "ko": "네 실수를 내 탓으로 돌리지 마."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "word",
+    "term": "mass",
+    "meaning": "(형) 대규모의, 대량의 / (명) 덩어리, 질량",
+    "note": "명사 앞에서 '많은 사람·것이 한꺼번에': a mass funeral(합동 장례식), mass layoffs(대량 해고), mass shooting(총기 난사), mass production(대량 생산). mass-market(대중 시장). the masses(대중).",
+    "examples": [
+      {
+        "en": "A mass funeral was held for dozens of victims.",
+        "ko": "수십 명의 희생자를 위한 합동 장례식이 열렸다."
+      },
+      {
+        "en": "The company announced mass layoffs",
+        "ko": "그 회사, 대규모 정리해고 발표 (헤드라인)"
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "be bound to",
+    "meaning": "반드시 ~할 것이다, ~할 게 뻔하다",
+    "note": "거의 확실히 일어날 일. be bound to + 동사. It's bound to happen.(언젠가 일어날 일이야) 비슷한 be sure to, be certain to. be bound by(~에 얽매이다, 구속되다)와 구별.",
+    "examples": [
+      {
+        "en": "If you keep working this hard, you're bound to succeed.",
+        "ko": "이렇게 열심히 하면 반드시 성공할 거야."
+      },
+      {
+        "en": "Prices are bound to go up after the tax hike.",
+        "ko": "세금 인상 후엔 물가가 오를 게 뻔하다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "as opposed to",
+    "meaning": "~와는 대조적으로, ~가 아니라",
+    "note": "두 가지를 대비할 때. A as opposed to B(B가 아니라 A). 설명·비교할 때 유용하고 업무에서도 자주. 비슷한 rather than, instead of, compared to(~와 비교하면).",
+    "examples": [
+      {
+        "en": "I prefer working in the morning, as opposed to at night.",
+        "ko": "나는 밤보다는 아침에 일하는 게 좋아."
+      },
+      {
+        "en": "This is a long-term plan, as opposed to a quick fix.",
+        "ko": "이건 임시방편이 아니라 장기 계획이야."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "for the time being",
+    "meaning": "당분간, 일단은",
+    "note": "지금 당장은 그렇지만 나중에 바뀔 수 있을 때. 업무 이메일·공지에서 자주. 비슷한 for now(구어), temporarily.",
+    "examples": [
+      {
+        "en": "The office will be closed for the time being.",
+        "ko": "사무실은 당분간 문을 닫습니다."
+      },
+      {
+        "en": "Let's use the old system for the time being.",
+        "ko": "일단은 예전 시스템을 쓰자."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "on behalf of",
+    "meaning": "~을 대신하여, ~을 대표하여",
+    "note": "누군가를 대표하거나 대신해서 말·행동할 때. on behalf of the team/company(팀/회사를 대표해서), on my behalf(나를 대신해). 발표·이메일·인사말 단골.",
+    "examples": [
+      {
+        "en": "On behalf of the whole team, thank you.",
+        "ko": "팀 전체를 대표해서 감사드립니다."
+      },
+      {
+        "en": "Can you sign for the package on my behalf?",
+        "ko": "나 대신 택배 서명 좀 해줄래?"
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "with regard to",
+    "meaning": "~에 관하여, ~와 관련해서",
+    "note": "격식 있는 '~에 대해'. 업무 이메일·공문에서 자주(With regard to your request, ...). 비슷한 regarding, as for, concerning. 일상 대화에선 about이 자연스러움. with regards to는 비표준으로 보는 경우가 많으니 regard 단수 권장.",
+    "examples": [
+      {
+        "en": "With regard to your question, the deadline is Friday.",
+        "ko": "문의하신 내용 관련해서, 마감은 금요일입니다."
+      },
+      {
+        "en": "We have concerns with regard to safety.",
+        "ko": "안전과 관련해 우려가 있습니다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "in light of",
+    "meaning": "~에 비추어, ~을 고려하여",
+    "note": "새로운 사실·상황을 감안해 판단할 때. in light of recent events/the new evidence. 뉴스·업무 공지에서 자주. 비슷한 given, considering, in view of.",
+    "examples": [
+      {
+        "en": "In light of the recent outage, we're reviewing our systems.",
+        "ko": "최근 장애를 고려해 시스템을 점검하고 있습니다."
+      },
+      {
+        "en": "The meeting was canceled in light of the storm.",
+        "ko": "폭풍 때문에 회의가 취소됐다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "in favor of",
+    "meaning": "~에 찬성하여; ~을 선호하여 (대신)",
+    "note": "① 찬성: be in favor of ~(~에 찬성하다), vote in favor of(찬성표를 던지다). ② 대체: drop A in favor of B(A를 버리고 B를 택하다). 반대는 against.",
+    "examples": [
+      {
+        "en": "Most employees are in favor of a four-day week.",
+        "ko": "대부분 직원이 주 4일제에 찬성한다."
+      },
+      {
+        "en": "They dropped the old plan in favor of a cheaper one.",
+        "ko": "그들은 기존 계획을 버리고 더 싼 안을 택했다."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "let alone",
+    "meaning": "~은 말할 것도 없고, ~은커녕",
+    "note": "부정문 뒤에서 '더 어려운 건 당연히 안 된다'. I can't even boil an egg, let alone cook a meal.(계란도 못 삶는데 요리는커녕) 앞 문장이 부정이어야 자연스러움. 비슷한 never mind(구어), not to mention(긍정에도 씀).",
+    "examples": [
+      {
+        "en": "I don't have time to read the summary, let alone the whole report.",
+        "ko": "요약 읽을 시간도 없는데 보고서 전체는커녕."
+      },
+      {
+        "en": "He can barely walk, let alone run.",
+        "ko": "그는 겨우 걷는 수준이라 뛰는 건 말할 것도 없어."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "not to mention",
+    "meaning": "게다가, ~은 말할 것도 없고",
+    "note": "추가로 덧붙일 이유·장점을 꺼낼 때. 긍정·부정 문장 모두 OK(let alone은 주로 부정). It's cheap, not to mention delicious.(싸고 게다가 맛있어) 비슷한 plus, on top of that.",
+    "examples": [
+      {
+        "en": "The hotel was great, not to mention the view.",
+        "ko": "호텔 좋았어. 경치는 말할 것도 없고."
+      },
+      {
+        "en": "It's expensive, not to mention hard to find.",
+        "ko": "그건 비싸고, 게다가 구하기도 어려워."
+      }
+    ],
+    "added": "2026-11-17"
+  },
+  {
+    "type": "phrase",
+    "term": "by the time",
+    "meaning": "~할 때쯤(에는), ~할 무렵",
+    "note": "어떤 일이 일어날 시점에 이미 다른 일이 끝나 있을 때. by the time + 현재형(미래 의미), 주절은 will have p.p.가 잘 어울림(By the time you arrive, we'll have left). 과거면 by the time + 과거, 주절 had p.p.",
+    "examples": [
+      {
+        "en": "By the time we got there, the store had closed.",
+        "ko": "우리가 도착했을 때쯤엔 가게가 이미 닫았었다."
+      },
+      {
+        "en": "By the time you read this, I'll be on the plane.",
+        "ko": "네가 이걸 읽을 때쯤엔 난 비행기 안에 있을 거야."
+      }
+    ],
+    "added": "2026-11-17"
   }
 ]
