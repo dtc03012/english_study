@@ -3650,8 +3650,8 @@
     "note": "여러 사람이 서명해 요구 사항을 공식적으로 내는 것. sign a petition(청원에 서명하다), start/launch a petition(청원을 시작하다), an online petition(온라인 청원), a petition to + 동사 / calling for ~(~을 요구하는 청원). 동사로 petition the court/government(법원/정부에 청원하다), petition for ~. 법률에서는 '신청서'(a petition for divorce 이혼 신청).",
     "examples": [
       {
-        "en": "More than 50,000 people signed a petition to bring Huang back as CEO.",
-        "ko": "5만 명 넘는 사람이 황을 CEO로 복귀시키라는 청원에 서명했다."
+        "en": "As of Sunday afternoon, the petition had 106,000 names.",
+        "ko": "일요일 오후 기준으로 그 청원에는 10만 6천 명의 이름이 올라 있었다."
       },
       {
         "en": "Residents started an online petition against the new tax.",
@@ -3681,6 +3681,90 @@
       {
         "en": "From the top of the tower, the cars looked tiny far below.",
         "ko": "탑 꼭대기에서 보니 저 아래 차들이 아주 작아 보였다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "lift the cap",
+    "meaning": "상한(제한)을 풀다, 없애다",
+    "note": "cap(상한선)을 lift(들어 올리다 → 해제하다)하는 것. lift the cap on ~(~의 상한을 없애다). 반대는 impose/put a cap on ~(~에 상한을 두다). lift는 '규제·금지를 해제하다' 뜻으로 뉴스에 자주: lift a ban/restrictions/sanctions(금지/제한/제재를 해제하다).",
+    "examples": [
+      {
+        "en": "He lifted the cap and added a Captcha to limit bots.",
+        "ko": "그는 상한을 풀고 봇을 막기 위해 캡차를 추가했다."
+      },
+      {
+        "en": "The government lifted the cap on rent increases.",
+        "ko": "정부는 임대료 인상 상한을 없앴다."
+      },
+      {
+        "en": "The country lifted its ban on beef imports.",
+        "ko": "그 나라는 소고기 수입 금지 조치를 해제했다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "phrase",
+    "term": "among other things",
+    "meaning": "그 밖에도 여러 가지 중에서, 특히",
+    "note": "여러 가지 중 몇 개만 언급할 때 붙이는 말. among other things / among others(사람일 때). 기사에선 things 자리에 구체적 명사를 넣기도: among other fixes(다른 수정 사항들과 함께), among other changes. 문장 끝이나 중간에 넣음.",
+    "examples": [
+      {
+        "en": "He added a Captcha to limit bots, among other fixes.",
+        "ko": "그는 여러 수정 사항 가운데 봇을 막는 캡차도 추가했다."
+      },
+      {
+        "en": "We talked about work and travel, among other things.",
+        "ko": "우리는 일이랑 여행 같은 여러 얘기를 했다."
+      },
+      {
+        "en": "The update improves battery life, among other things.",
+        "ko": "이번 업데이트는 배터리 수명 개선 등을 담고 있다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "submission",
+    "meaning": "(명) 제출(물), 접수; 굴복",
+    "note": "동사 submit(제출하다)의 명사형. 온라인 양식·청원·지원서를 '제출한 건수' 뜻으로 자주: the rate of submissions(제출 속도), accept submissions(접수를 받다), the deadline for submissions(제출 마감). 다른 뜻 '굴복, 복종'(force someone into submission)은 문맥으로 구별.",
+    "examples": [
+      {
+        "en": "The site couldn't keep up with the rate of submissions.",
+        "ko": "사이트가 제출 속도를 감당하지 못했다."
+      },
+      {
+        "en": "The deadline for submissions is Friday at 5 p.m.",
+        "ko": "제출 마감은 금요일 오후 5시입니다."
+      },
+      {
+        "en": "We received over 300 submissions for the contest.",
+        "ko": "공모전에 300건 넘는 작품이 접수됐다."
+      }
+    ],
+    "added": "2026-11-16"
+  },
+  {
+    "type": "word",
+    "term": "prominent",
+    "meaning": "(형) 저명한, 유명한; 눈에 띄는, 두드러진",
+    "note": "사람에게 쓰면 '그 분야에서 잘 알려진, 영향력 있는'(prominent figures/investors/employees). 사물에 쓰면 '눈에 잘 띄는'(a prominent place, play a prominent role 두드러진 역할을 하다). 명사 prominence(명성, 두각): rise to prominence(두각을 나타내다). 비슷한 well-known, leading, notable.",
+    "examples": [
+      {
+        "en": "Some prominent Nvidia employees said they hadn't signed the petition.",
+        "ko": "몇몇 유명한 엔비디아 직원들은 청원에 서명하지 않았다고 말했다."
+      },
+      {
+        "en": "She is a prominent figure in the tech industry.",
+        "ko": "그녀는 테크 업계의 저명한 인물이다."
+      },
+      {
+        "en": "Put the sign in a prominent place so people can see it.",
+        "ko": "사람들이 볼 수 있게 표지판을 눈에 띄는 곳에 둬."
       }
     ],
     "added": "2026-11-16"
