@@ -5076,5 +5076,515 @@
       }
     ],
     "added": "2026-11-17"
+  },
+  {
+    "type": "idiom",
+    "term": "go the distance",
+    "meaning": "끝까지 해내다, 완주하다",
+    "note": "어려운 일을 중도 포기 없이 끝까지 해낼 때. 권투·경주에서 유래. 중립. Can he go the distance?(그가 끝까지 버틸 수 있을까?) 비슷한 see it through, stick it out.",
+    "examples": [
+      {
+        "en": "Few startups go the distance.",
+        "ko": "끝까지 살아남는 스타트업은 많지 않다."
+      },
+      {
+        "en": "I wasn't sure I could finish the marathon, but I went the distance.",
+        "ko": "마라톤 완주할 수 있을지 몰랐는데 끝까지 해냈어."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "on the ball",
+    "meaning": "빈틈없는, 눈치 빠르고 유능한",
+    "note": "상황을 빨리 파악하고 잘 대처하는 사람. 칭찬으로 씀. 캐주얼~중립. You're really on the ball today!(오늘 진짜 빠릿빠릿하다!) 비슷한 sharp, quick.",
+    "examples": [
+      {
+        "en": "Our new assistant is really on the ball.",
+        "ko": "새 비서는 정말 일을 빈틈없이 해."
+      },
+      {
+        "en": "Sorry, I'm not on the ball this morning. I didn't sleep well.",
+        "ko": "미안, 오늘 아침 정신이 없네. 잠을 잘 못 잤어."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "under the radar",
+    "meaning": "눈에 띄지 않게, 주목받지 않고",
+    "note": "관심이나 감시를 피해 조용히. fly/stay under the radar(조용히 지나가다), go under the radar. 중립. 비슷한 low-key, out of the spotlight.",
+    "examples": [
+      {
+        "en": "The deal went under the radar for months.",
+        "ko": "그 거래는 몇 달 동안 주목받지 않고 지나갔다."
+      },
+      {
+        "en": "He prefers to stay under the radar at work.",
+        "ko": "그는 회사에서 눈에 띄지 않게 지내는 걸 좋아한다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "behind the scenes",
+    "meaning": "막후에서, 남들 모르게, 무대 뒤에서",
+    "note": "드러나지 않는 곳에서 일이 진행될 때. work behind the scenes(뒤에서 일하다), behind-the-scenes talks(막후 협상, 형용사로 쓸 땐 하이픈). 뉴스·일상 모두 중립.",
+    "examples": [
+      {
+        "en": "A lot of work happens behind the scenes before a launch.",
+        "ko": "출시 전에 보이지 않는 곳에서 많은 작업이 이뤄진다."
+      },
+      {
+        "en": "Officials held behind-the-scenes talks to end the strike.",
+        "ko": "당국자들은 파업을 끝내기 위해 막후 협상을 벌였다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "the tip of the iceberg",
+    "meaning": "빙산의 일각",
+    "note": "드러난 문제는 일부일 뿐, 더 큰 문제가 숨어 있을 때. just the tip of the iceberg 형태가 흔함. 중립, 뉴스·업무 모두.",
+    "examples": [
+      {
+        "en": "These complaints are just the tip of the iceberg.",
+        "ko": "이 불만들은 빙산의 일각일 뿐이야."
+      },
+      {
+        "en": "Experts say the reported cases are only the tip of the iceberg.",
+        "ko": "전문가들은 보고된 사례가 빙산의 일각에 불과하다고 말한다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "a ballpark figure",
+    "meaning": "대략적인 수치, 어림값",
+    "note": "정확하진 않은 대략의 숫자. Can you give me a ballpark figure?(대충 얼마쯤이에요?) a ballpark estimate도 같음. in the ballpark(대략 맞는 범위 안). 업무 대화에서 자주.",
+    "examples": [
+      {
+        "en": "Can you give me a ballpark figure for the repairs?",
+        "ko": "수리비가 대략 얼마쯤 나올까요?"
+      },
+      {
+        "en": "I don't need exact numbers, just a ballpark figure.",
+        "ko": "정확한 숫자 말고 대충만 알려줘."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "sit tight",
+    "meaning": "가만히 기다리다, 그대로 있다",
+    "note": "움직이거나 결정하지 말고 상황을 지켜보며 기다리라는 말. Just sit tight.(그냥 기다려) 캐주얼. 투자에선 '팔지 않고 버티다'. 비슷한 hold on, hang tight.",
+    "examples": [
+      {
+        "en": "Sit tight. I'll be back in five minutes.",
+        "ko": "가만히 기다려. 5분 뒤에 올게."
+      },
+      {
+        "en": "Most investors are sitting tight until the earnings report.",
+        "ko": "대부분 투자자는 실적 발표까지 그대로 버티고 있다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "on the fly",
+    "meaning": "즉석에서, 그때그때, 진행하면서",
+    "note": "미리 준비하지 않고 하면서 바로 처리할 때. make decisions on the fly, change plans on the fly. 업무·IT에서 자주. 비슷한 off the cuff(즉흥적으로 말하는), wing it.",
+    "examples": [
+      {
+        "en": "We had to change the plan on the fly.",
+        "ko": "우리는 진행하면서 즉석으로 계획을 바꿔야 했다."
+      },
+      {
+        "en": "The app translates speech on the fly.",
+        "ko": "그 앱은 말을 실시간으로 번역해 준다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "ahead of the curve",
+    "meaning": "시대를 앞서가는, 남보다 앞선",
+    "note": "유행·기술·변화를 남들보다 먼저 파악하고 대응할 때. stay ahead of the curve(앞서 나가다). 반대 behind the curve(뒤처진). 업무·비즈니스에서 칭찬으로.",
+    "examples": [
+      {
+        "en": "The company stayed ahead of the curve by investing in AI early.",
+        "ko": "그 회사는 AI에 일찍 투자해서 남들보다 앞서 나갔다."
+      },
+      {
+        "en": "Central banks were behind the curve on inflation.",
+        "ko": "중앙은행들은 인플레이션 대응에서 뒤처졌다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "get the green light",
+    "meaning": "허가를 받다, 승인이 나다",
+    "note": "신호등 초록불에서 유래. get/give the green light (to/for ~). 프로젝트·계획이 승인될 때 업무·뉴스에서 매우 흔함. 비슷한 get the go-ahead, get approval.",
+    "examples": [
+      {
+        "en": "The project finally got the green light.",
+        "ko": "그 프로젝트가 드디어 승인됐다."
+      },
+      {
+        "en": "Regulators gave the green light to the merger.",
+        "ko": "규제 당국이 합병을 승인했다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "credible",
+    "meaning": "(형) 믿을 만한, 신뢰할 수 있는",
+    "note": "정보·위협·증거·사람이 믿을 만할 때. credible threat(실체가 있는 위협), credible evidence/source, a credible candidate(유력 후보). 명사 credibility(신뢰성). 혼동 주의 credulous(잘 속는).",
+    "examples": [
+      {
+        "en": "Officials said there were no credible threats at this time.",
+        "ko": "당국자들은 현재로선 실체가 있는 위협은 없다고 밝혔다."
+      },
+      {
+        "en": "Police found no credible evidence of a crime.",
+        "ko": "경찰은 범죄의 믿을 만한 증거를 찾지 못했다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "monitor",
+    "meaning": "(동) 감시하다, 주시하다, 모니터링하다 / (명) 화면, 감시 장치",
+    "note": "상황을 계속 지켜볼 때. monitor the situation closely(상황을 면밀히 주시하다), monitor threats/traffic/health. 뉴스·업무 공지에서 매우 흔함. 비슷한 keep an eye on(앱에 저장됨), track.",
+    "examples": [
+      {
+        "en": "The White House said it is monitoring potential threats.",
+        "ko": "백악관은 잠재적 위협을 주시하고 있다고 밝혔다."
+      },
+      {
+        "en": "Doctors will monitor her condition overnight.",
+        "ko": "의사들이 밤새 그녀의 상태를 지켜볼 것이다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "devise",
+    "meaning": "(동) 고안하다, 짜내다, 계획을 세우다",
+    "note": "방법·계획·전략을 머리를 써서 만들어낼 때. devise a plan/strategy/system. come up with(앱에 저장됨)보다 격식 있음. 명사 device(장치)와 철자·발음 구별(devise [디바이즈], device [디바이스]).",
+    "examples": [
+      {
+        "en": "Intelligence suggests the group was devising plans for an attack.",
+        "ko": "정보에 따르면 그 조직은 공격 계획을 짜고 있었다."
+      },
+      {
+        "en": "We need to devise a better way to track orders.",
+        "ko": "주문을 추적할 더 나은 방법을 고안해야 해."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "widespread",
+    "meaning": "(형) 광범위한, 널리 퍼진",
+    "note": "넓은 지역·많은 사람에게 퍼져 있을 때. widespread outages/damage/support/concern(광범위한 장애/피해/지지/우려). 반대 isolated(일부에 국한된). 비슷한 extensive, pervasive.",
+    "examples": [
+      {
+        "en": "United Airlines reported widespread outages.",
+        "ko": "유나이티드항공은 광범위한 시스템 장애를 보고했다."
+      },
+      {
+        "en": "The idea has widespread support among voters.",
+        "ko": "그 구상은 유권자들 사이에서 폭넓은 지지를 얻고 있다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "confirmation hearing",
+    "meaning": "(명) 인준 청문회",
+    "note": "미국 상원이 대통령이 지명한 장관·판사 등을 승인하기 전에 여는 청문회. face a confirmation hearing(인준 청문회를 거치다). confirm = 인준하다(be confirmed by the Senate). 한국의 '인사청문회'에 해당.",
+    "examples": [
+      {
+        "en": "The Navy pick will face questions about Iran at his confirmation hearing.",
+        "ko": "해군 장관 지명자는 인준 청문회에서 이란 관련 질문을 받을 것이다."
+      },
+      {
+        "en": "The nominee was confirmed by the Senate last week.",
+        "ko": "그 지명자는 지난주 상원 인준을 받았다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "pick",
+    "meaning": "(명) 선택, (지명된) 후보자 / (동) 고르다",
+    "note": "뉴스에서 Trump's pick for ~(트럼프가 ~로 지명한 사람) = nominee. top pick(가장 추천하는 것), take your pick(골라 봐). 동사 pick out(골라내다), pick up(줍다, 데리러 가다).",
+    "examples": [
+      {
+        "en": "Trump's pick for Navy secretary faces a tough hearing.",
+        "ko": "트럼프가 지명한 해군 장관 후보는 험난한 청문회를 앞두고 있다."
+      },
+      {
+        "en": "This laptop is my top pick for students.",
+        "ko": "학생들에겐 이 노트북을 가장 추천해."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "feature",
+    "meaning": "(동) (중요하게) 다루다, 등장하다, 특징으로 하다 / (명) 기능, 특징; 특집 기사",
+    "note": "뉴스에서 '~가 주요하게 다뤄지다/등장하다': Iran is expected to feature at the hearing(이란 문제가 청문회의 주요 쟁점이 될 전망). feature in ~(~에 나오다). IT에선 '기능'(a new feature). 신문 '특집 기사'(a feature story).",
+    "examples": [
+      {
+        "en": "The Iran war is expected to feature at the hearing.",
+        "ko": "이란 전쟁이 청문회에서 주요하게 다뤄질 것으로 예상된다."
+      },
+      {
+        "en": "The new update includes a dark mode feature.",
+        "ko": "새 업데이트에는 다크 모드 기능이 들어 있다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "back-to-back",
+    "meaning": "(형/부) 연속의, 잇따라",
+    "note": "같은 일이 쉬지 않고 연달아 일어날 때. back-to-back wins(연승), back-to-back meetings(연이은 회의). 스포츠·업무 일정에서 자주. 비슷한 consecutive, in a row.",
+    "examples": [
+      {
+        "en": "The Canucks have won back-to-back games for the first time this year.",
+        "ko": "캐넉스는 올해 처음으로 연승을 거뒀다."
+      },
+      {
+        "en": "I have back-to-back meetings all afternoon.",
+        "ko": "오후 내내 회의가 연달아 있어."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "historic",
+    "meaning": "(형) 역사적인, 역사에 남을 만한",
+    "note": "역사적으로 중요한 사건. a historic trip/visit/win/decision. historical(역사와 관련된, 과거의: historical documents 역사 자료)과 구별. a historic moment(역사적 순간).",
+    "examples": [
+      {
+        "en": "The Pope left Peru after a historic 12-day trip.",
+        "ko": "교황은 역사적인 12일간의 순방을 마치고 페루를 떠났다."
+      },
+      {
+        "en": "It was a historic win for the team.",
+        "ko": "그 팀에게 역사적인 승리였다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "warn",
+    "meaning": "(동) 경고하다, 주의를 주다",
+    "note": "warn A against B/~ing(A에게 B를 하지 말라고 경고하다), warn of ~(~의 위험을 경고하다), warn that ~. 뉴스 단골. 명사 warning(경고). 비슷한 caution, alert.",
+    "examples": [
+      {
+        "en": "Iran warned the US against using regional bases for attacks.",
+        "ko": "이란은 미국에 역내 기지를 공격에 쓰지 말라고 경고했다."
+      },
+      {
+        "en": "Experts warn of another heat wave next week.",
+        "ko": "전문가들은 다음 주 또 폭염이 올 거라고 경고한다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "it's worth noting that",
+    "meaning": "~라는 점은 짚고 넘어갈 만하다, 참고로 ~",
+    "note": "중요한 사실을 부드럽게 덧붙일 때. 발표·보고서·기사에서 자주. 비슷한 it's worth mentioning that, note that, keep in mind that. be worth ~ing(앱에 저장됨)의 응용.",
+    "examples": [
+      {
+        "en": "It's worth noting that prices were already rising before the war.",
+        "ko": "전쟁 전부터 이미 물가가 오르고 있었다는 점은 짚고 넘어갈 만하다."
+      },
+      {
+        "en": "It's worth noting that the offer ends on Friday.",
+        "ko": "참고로 그 할인은 금요일에 끝나요."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "given that",
+    "meaning": "~라는 점을 고려하면, ~이므로",
+    "note": "이유나 전제를 제시할 때. given that + 문장 / given + 명사(given the circumstances 상황을 고려하면). in light of(앱에 저장됨), considering과 비슷.",
+    "examples": [
+      {
+        "en": "Given that it's raining, let's take a taxi.",
+        "ko": "비가 오니까 택시 타자."
+      },
+      {
+        "en": "The results are impressive, given the short timeline.",
+        "ko": "짧은 일정을 고려하면 결과가 인상적이다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "so as to",
+    "meaning": "~하기 위해서",
+    "note": "목적을 나타내는 격식 있는 표현. so as to + 동사 = in order to. 부정은 so as not to(~하지 않도록). 일상에선 그냥 to를 더 많이 씀.",
+    "examples": [
+      {
+        "en": "We left early so as to avoid traffic.",
+        "ko": "차 막히는 걸 피하려고 일찍 나왔다."
+      },
+      {
+        "en": "Please speak quietly so as not to wake the baby.",
+        "ko": "아기 깨지 않게 조용히 말해 주세요."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "provided that",
+    "meaning": "~라는 조건으로, ~하기만 하면",
+    "note": "조건을 거는 격식 있는 표현. provided (that) + 문장 = as long as(앱에 저장됨). 계약·공지에서 자주. providing that도 같은 뜻.",
+    "examples": [
+      {
+        "en": "You can work from home, provided that you finish your tasks on time.",
+        "ko": "일을 제때 끝낸다는 조건으로 재택근무해도 된다."
+      },
+      {
+        "en": "The event will go ahead provided the weather is good.",
+        "ko": "날씨만 좋으면 행사는 예정대로 진행된다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "rather than",
+    "meaning": "~보다는, ~하는 대신에",
+    "note": "둘 중 하나를 고를 때. A rather than B(B 대신 A). 뒤에 명사·동사원형·~ing 다 가능. would rather(앱에 저장됨)와 다른 구조. instead of와 비슷하지만 rather than이 더 비교 느낌.",
+    "examples": [
+      {
+        "en": "Let's walk rather than take the bus.",
+        "ko": "버스 타는 대신 걷자."
+      },
+      {
+        "en": "I'd prefer to talk in person rather than by email.",
+        "ko": "이메일보다는 직접 만나서 얘기하는 게 좋겠어요."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "at this point",
+    "meaning": "현재로선, 지금 단계에서는",
+    "note": "지금까지의 상황을 바탕으로 말할 때. at this point in time(더 격식), at this stage도 같은 뜻. At this point, we don't know.(현재로선 모릅니다) 뉴스·업무 단골.",
+    "examples": [
+      {
+        "en": "At this point, there are no credible threats.",
+        "ko": "현재로선 실체가 있는 위협은 없다."
+      },
+      {
+        "en": "At this point, it's too late to change the plan.",
+        "ko": "지금 단계에선 계획을 바꾸기엔 너무 늦었어."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "due to",
+    "meaning": "~ 때문에, ~로 인해",
+    "note": "원인을 말할 때. due to + 명사. 뉴스·공지에서 매우 흔함(due to a technical failure 기술적 결함으로). because of와 같은 뜻, 조금 더 격식. be due to + 동사는 '~할 예정이다'(The report is due to be released Monday)라는 다른 뜻.",
+    "examples": [
+      {
+        "en": "All flights were grounded due to a technical failure.",
+        "ko": "기술적 결함으로 모든 항공편 운항이 중단됐다."
+      },
+      {
+        "en": "The game was canceled due to heavy rain.",
+        "ko": "폭우 때문에 경기가 취소됐다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "in addition to",
+    "meaning": "~에 더하여, ~뿐만 아니라",
+    "note": "추가할 때. in addition to + 명사/동사ing. 문장 앞에 In addition, ~(게다가)으로도 씀. 비슷한 besides, as well as, on top of.",
+    "examples": [
+      {
+        "en": "In addition to his salary, he gets a yearly bonus.",
+        "ko": "그는 월급 외에 매년 보너스도 받는다."
+      },
+      {
+        "en": "In addition to fixing bugs, the update adds new features.",
+        "ko": "이번 업데이트는 버그 수정에 더해 새 기능도 추가한다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "according to",
+    "meaning": "~에 따르면; ~에 따라",
+    "note": "정보 출처를 밝힐 때 뉴스 필수 표현. according to officials/reports/a survey. '~에 따라(맞춰)'라는 뜻도: according to plan(계획대로). 주의: according to me는 어색함(in my opinion을 씀).",
+    "examples": [
+      {
+        "en": "According to officials, travel will return to normal this week.",
+        "ko": "당국자들에 따르면 이번 주 항공 운항이 정상화된다."
+      },
+      {
+        "en": "Everything went according to plan.",
+        "ko": "모든 게 계획대로 됐다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "as well as",
+    "meaning": "~뿐만 아니라 ~도, ~와 함께",
+    "note": "A as well as B = B뿐만 아니라 A도. and보다 B를 덧붙이는 느낌. 주어로 쓰면 동사는 A에 맞춤(The CEO, as well as the managers, is attending). 문장 끝 as well은 '~도'(too).",
+    "examples": [
+      {
+        "en": "She speaks Spanish as well as English.",
+        "ko": "그녀는 영어뿐만 아니라 스페인어도 한다."
+      },
+      {
+        "en": "Banks as well as airlines reported outages.",
+        "ko": "항공사뿐 아니라 은행들도 장애를 보고했다."
+      }
+    ],
+    "added": "2026-11-18"
   }
 ]
