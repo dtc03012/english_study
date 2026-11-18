@@ -5649,5 +5649,404 @@
       }
     ],
     "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "keep coming back to",
+    "meaning": "(생각·논의가) 자꾸 ~로 되돌아가다, 계속 ~를 짚게 되다",
+    "note": "keep + ~ing(계속 ~하다) + come back to(~로 돌아오다). 어떤 핵심 문제를 계속 다시 거론할 때. I keep coming back to ~(자꾸 ~가 마음에 걸린다/~를 다시 짚게 된다). 회의·인터뷰에서 자주.",
+    "examples": [
+      {
+        "en": "I want to keep coming back to what was the culture at Nvidia.",
+        "ko": "저는 엔비디아의 기업 문화가 어땠는지를 계속 짚고 싶습니다."
+      },
+      {
+        "en": "We keep coming back to the same problem: we don't have enough staff.",
+        "ko": "결국 또 같은 문제로 돌아오네요. 인력이 부족하다는 거요."
+      },
+      {
+        "en": "I keep coming back to that question.",
+        "ko": "그 질문이 자꾸 머릿속에 맴돌아."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "press",
+    "meaning": "(동) 밀어붙이다, 강하게 추진하다; 압박하다 / (명) 언론",
+    "note": "기사에서 pressing these sales = 이런 판매를 밀어붙이다. press for ~(~을 강하게 요구하다), press someone to ~(~하라고 압박하다), press ahead with(강행하다), press charges(고소하다). 명사 the press = 언론(press conference 기자회견). 형용사 pressing(긴급한: a pressing issue).",
+    "examples": [
+      {
+        "en": "Were they pressing these sales to boost their revenue?",
+        "ko": "그들이 매출을 올리려고 이런 판매를 밀어붙였을까?"
+      },
+      {
+        "en": "The union is pressing for higher wages.",
+        "ko": "노조는 임금 인상을 강하게 요구하고 있다."
+      },
+      {
+        "en": "The minister spoke to the press after the meeting.",
+        "ko": "장관은 회의 후 기자들에게 입장을 밝혔다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "seemingly",
+    "meaning": "(부) 겉보기에는, 보아하니, 외견상",
+    "note": "확실하진 않지만 그렇게 보인다는 단서를 달 때. seemingly illicit sales(불법으로 보이는 판매), a seemingly simple question(간단해 보이는 질문). 기사에서 단정을 피하는 표현으로 자주. 비슷한 apparently, on the surface. 동사 seem.",
+    "examples": [
+      {
+        "en": "They were pressing these seemingly illicit sales.",
+        "ko": "그들은 불법으로 보이는 이런 판매를 밀어붙이고 있었다."
+      },
+      {
+        "en": "It was a seemingly simple question, but no one could answer it.",
+        "ko": "간단해 보이는 질문이었지만 아무도 답하지 못했다."
+      },
+      {
+        "en": "The problem seemingly disappeared overnight.",
+        "ko": "그 문제는 하룻밤 새 사라진 것처럼 보였다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "illicit",
+    "meaning": "(형) 불법의, 부정한, 떳떳하지 못한",
+    "note": "법이나 규범에 어긋나는. illicit sales/drugs/trade(불법 판매/마약/거래), an illicit affair(부정한 관계). illegal(법에 어긋난)과 비슷하지만 illicit은 '규범·도덕에도 어긋난' 뉘앙스까지. 발음 같은 elicit(끌어내다)과 철자 구별.",
+    "examples": [
+      {
+        "en": "Officials are investigating illicit chip sales to China.",
+        "ko": "당국은 중국으로의 불법 칩 판매를 조사하고 있다."
+      },
+      {
+        "en": "Police seized a large amount of illicit drugs.",
+        "ko": "경찰은 대량의 불법 마약을 압수했다."
+      },
+      {
+        "en": "The question elicited a long answer.",
+        "ko": "그 질문은 긴 답변을 끌어냈다. (elicit과 구별)"
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "goose",
+    "meaning": "(동, 구어) (수치·성과를) 끌어올리다, 부양하다 / (명) 거위",
+    "note": "원래 '거위'. 비즈니스 구어로 goose sales/revenue/the economy = 인위적으로 빨리 끌어올리다(부정적 뉘앙스가 섞이는 경우 많음). 비슷한 boost, juice(구어), pump up. 복수 geese.",
+    "examples": [
+      {
+        "en": "Were they pushing these sales to goose their revenues?",
+        "ko": "그들이 매출을 끌어올리려고 이런 판매를 밀어붙였을까?"
+      },
+      {
+        "en": "The government cut taxes to goose the economy before the election.",
+        "ko": "정부는 선거 전에 경기를 띄우려고 세금을 깎았다."
+      },
+      {
+        "en": "A goose was swimming in the pond.",
+        "ko": "연못에서 거위 한 마리가 헤엄치고 있었다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "outside counsel",
+    "meaning": "외부 법률 고문, 외부 변호인단",
+    "note": "회사 내부 법무팀(in-house counsel)이 아닌 외부 로펌·변호사. counsel = 법률 고문, 변호인(단수·복수 같은 형태). hire/retain outside counsel(외부 변호사를 선임하다). counsel은 동사로 '조언하다'(counsel patience 인내를 권하다).",
+    "examples": [
+      {
+        "en": "We need answers from the board and from the outside counsel.",
+        "ko": "이사회와 외부 법률 고문으로부터 답을 들어야 한다."
+      },
+      {
+        "en": "The company hired outside counsel to investigate the claims.",
+        "ko": "회사는 의혹을 조사하려고 외부 변호사를 선임했다."
+      },
+      {
+        "en": "In-house counsel reviewed the contract first.",
+        "ko": "사내 변호사가 먼저 계약서를 검토했다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "governance",
+    "meaning": "(명) (기업·조직의) 지배구조, 운영 체계, 통치",
+    "note": "corporate governance(기업 지배구조: 이사회·경영진 감독 체계). governance expert(지배구조 전문가), good/poor governance. government(정부)와 구별. ESG의 G가 governance.",
+    "examples": [
+      {
+        "en": "He is a professor and governance expert at Yale.",
+        "ko": "그는 예일대 교수이자 기업 지배구조 전문가다."
+      },
+      {
+        "en": "Investors are worried about the company's poor governance.",
+        "ko": "투자자들은 그 회사의 부실한 지배구조를 우려한다."
+      },
+      {
+        "en": "Good governance builds long-term trust.",
+        "ko": "좋은 지배구조가 장기적인 신뢰를 쌓는다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "grounds",
+    "meaning": "(명, 복수) 근거, 이유, 사유; 부지, 구내",
+    "note": "grounds to/for ~ = ~할 근거. solid/reasonable grounds(확실한/합리적 근거), on the grounds that ~(~라는 이유로), grounds for dismissal/divorce(해고/이혼 사유). 장소로는 school grounds(학교 구내). ground(땅)의 복수형이지만 뜻이 다름.",
+    "examples": [
+      {
+        "en": "There were solid grounds to dismiss Huang under the code of conduct.",
+        "ko": "행동 강령상 황을 해임할 확실한 근거가 있었다."
+      },
+      {
+        "en": "He was fired on the grounds that he lied.",
+        "ko": "그는 거짓말을 했다는 이유로 해고됐다."
+      },
+      {
+        "en": "Smoking is not allowed on school grounds.",
+        "ko": "학교 구내에서는 흡연이 금지된다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "dismiss",
+    "meaning": "(동) 해고하다, 해임하다; (의견·주장을) 일축하다; (소송을) 기각하다",
+    "note": "① 직위에서 내보내다: dismiss an employee/CEO(해고/해임하다), 명사 dismissal. ② 무시하다: dismiss the idea/claims as ~(~라며 일축하다). ③ 법: dismiss a case(소송을 기각하다). ④ 수업·모임을 끝내다: Class dismissed.",
+    "examples": [
+      {
+        "en": "Some argue there were grounds to dismiss the CEO.",
+        "ko": "CEO를 해임할 근거가 있었다고 주장하는 사람들이 있다."
+      },
+      {
+        "en": "The company dismissed the claims as false.",
+        "ko": "회사는 그 주장을 사실이 아니라며 일축했다."
+      },
+      {
+        "en": "The judge dismissed the case.",
+        "ko": "판사는 소송을 기각했다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "code of conduct",
+    "meaning": "행동 강령, 윤리 규정",
+    "note": "회사·단체가 정한 구성원의 행동 규칙. violate/breach the code of conduct(행동 강령을 위반하다), under the code of conduct(행동 강령에 따라). 비슷한 ethics policy, rules of conduct. conduct = 행동, 처신.",
+    "examples": [
+      {
+        "en": "There were solid grounds to dismiss him under the company's own code of conduct.",
+        "ko": "회사 자체 행동 강령에 따라 그를 해임할 확실한 근거가 있었다."
+      },
+      {
+        "en": "All new employees must sign the code of conduct.",
+        "ko": "모든 신입 직원은 행동 강령에 서명해야 한다."
+      },
+      {
+        "en": "He was fired for violating the code of conduct.",
+        "ko": "그는 행동 강령 위반으로 해고됐다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "look the other way",
+    "meaning": "못 본 척하다, 눈감아 주다",
+    "note": "잘못을 알면서도 모른 척 넘어갈 때. 비판적 뉘앙스. 중립. 비슷한 turn a blind eye (to ~), sweep ~ under the rug(덮어버리다).",
+    "examples": [
+      {
+        "en": "If they were to look the other way, it would set a terrible example.",
+        "ko": "만약 그들이 눈감아 준다면 끔찍한 선례가 될 것이다."
+      },
+      {
+        "en": "Managers looked the other way while rules were broken.",
+        "ko": "규칙이 깨지는 동안 관리자들은 못 본 척했다."
+      },
+      {
+        "en": "You can't just look the other way when someone is being bullied.",
+        "ko": "누가 괴롭힘을 당하는데 그냥 모른 척하면 안 돼."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "open season",
+    "meaning": "(비판·공격이) 무차별로 허용되는 상황, 아무나 해도 되는 판",
+    "note": "원래 '사냥 허가 기간'. 비유로 규칙이 사라져 누구나 마음대로 하거나 공격받는 상황. It's open season on ~(~가 마구 공격받는 판이다). 기사·논평에서 자주. 중립~약간 과장.",
+    "examples": [
+      {
+        "en": "If the board looks the other way, then it's open season.",
+        "ko": "이사회가 눈감아 준다면 그때부터는 아무렇게나 해도 되는 판이 된다."
+      },
+      {
+        "en": "It's open season on tech companies in Congress right now.",
+        "ko": "지금 의회에선 테크 기업들이 무차별로 공격받고 있다."
+      },
+      {
+        "en": "Deer hunting season opens next week.",
+        "ko": "사슴 사냥 허가 기간이 다음 주에 시작된다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "tear up the rulebook",
+    "meaning": "규칙을 내던지다, 기존 방식을 완전히 무시하다",
+    "note": "규칙서(rulebook)를 찢어버린다는 뜻. ① 부정적: 규칙을 무시하다. ② 긍정적: 관행을 깨고 새 방식을 시도하다(tear up the rulebook on ~). 기사·스포츠 해설에서 자주. 비슷한 throw out the rulebook.",
+    "examples": [
+      {
+        "en": "Then it's open season, tear up the rulebook.",
+        "ko": "그러면 아무렇게나 해도 되는 판이 되고, 규칙은 다 찢어버리는 셈이다."
+      },
+      {
+        "en": "The startup tore up the rulebook on how banks should work.",
+        "ko": "그 스타트업은 은행 운영의 기존 방식을 완전히 뒤집었다."
+      },
+      {
+        "en": "You can't just tear up the rulebook because you don't like it.",
+        "ko": "마음에 안 든다고 규칙을 그냥 무시하면 안 돼."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "enforceable",
+    "meaning": "(형) (법적으로) 집행할 수 있는, 강제력이 있는",
+    "note": "enforce(시행하다, 강제하다) + able. legally enforceable(법적 구속력이 있는), an enforceable contract/agreement. 반대 unenforceable. 명사 enforcement(집행): law enforcement(법 집행 기관, 경찰).",
+    "examples": [
+      {
+        "en": "Nothing is legally enforceable in the company's own ethical standards.",
+        "ko": "회사 자체 윤리 기준에는 법적으로 강제할 수 있는 게 하나도 없다."
+      },
+      {
+        "en": "A verbal agreement may not be legally enforceable.",
+        "ko": "구두 합의는 법적 구속력이 없을 수도 있다."
+      },
+      {
+        "en": "Law enforcement officials are investigating the case.",
+        "ko": "법 집행 당국이 사건을 수사하고 있다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "be accused of",
+    "meaning": "~한 혐의를 받다, ~했다고 비난받다",
+    "note": "be accused of + 명사/동사ing. 뉴스 단골. accuse A of B(A가 B했다고 비난·고발하다)의 수동형. 전치사 of 주의(for X). suspect someone of(의심하다, 앱에 저장됨)보다 '공개적으로 비난·고발된' 느낌. 명사 accusation, the accused(피고인).",
+    "examples": [
+      {
+        "en": "Companies accused of helping China get around export controls will draw scrutiny.",
+        "ko": "중국의 수출 통제 회피를 도운 혐의를 받는 기업들은 조사를 받게 될 것이다."
+      },
+      {
+        "en": "He was accused of stealing company data.",
+        "ko": "그는 회사 데이터를 훔쳤다는 혐의를 받았다."
+      },
+      {
+        "en": "Don't accuse me of lying!",
+        "ko": "내가 거짓말했다고 몰아세우지 마!"
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "get around",
+    "meaning": "(규제·문제를) 피해 가다, 우회하다; 돌아다니다; (소문이) 퍼지다",
+    "note": "① 규칙·장애물을 교묘히 피하다: get around the rules/export controls/a problem. ② 이동하다: How do you get around the city?(시내에서 어떻게 다녀?) ③ 소문이 퍼지다: Word gets around fast.(소문은 빨리 퍼진다). 비슷한 circumvent(①의 격식체), work around.",
+    "examples": [
+      {
+        "en": "Some companies helped China get around chip-export controls.",
+        "ko": "일부 기업은 중국이 반도체 수출 통제를 피해 가도록 도왔다."
+      },
+      {
+        "en": "It's easy to get around the city by subway.",
+        "ko": "지하철로 시내를 다니기 쉬워."
+      },
+      {
+        "en": "Word gets around fast in a small office.",
+        "ko": "작은 사무실에선 소문이 금방 퍼져."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "draw scrutiny",
+    "meaning": "(당국·언론의) 주목과 조사를 받다, 감시의 눈길을 끌다",
+    "note": "draw(끌어당기다) + scrutiny(면밀한 조사, 앱에 저장됨). draw/attract scrutiny from regulators(규제 당국의 조사를 받다), come under scrutiny도 비슷. draw를 쓴 다른 조합: draw criticism(비판을 받다), draw attention(관심을 끌다).",
+    "examples": [
+      {
+        "en": "His involvement in the deals will continue to draw scrutiny.",
+        "ko": "그 거래들에 그가 관여한 것은 계속 조사 대상이 될 것이다."
+      },
+      {
+        "en": "The merger drew scrutiny from antitrust regulators.",
+        "ko": "그 합병은 반독점 당국의 조사를 받았다."
+      },
+      {
+        "en": "His comments drew criticism online.",
+        "ko": "그의 발언은 온라인에서 비판을 받았다."
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "aid and abet",
+    "meaning": "(범죄를) 방조하다, 공모해서 돕다",
+    "note": "법률 용어에서 온 관용구. aid and abet a crime/someone(범죄/~를 방조하다). 일상에선 농담으로 '나쁜 짓을 거들다'(You're aiding and abetting my sugar addiction!). 둘 다 '돕다'라는 동사를 겹쳐 강조한 표현.",
+    "examples": [
+      {
+        "en": "This was aiding and abetting the circumvention of U.S. trade laws.",
+        "ko": "이건 미국 무역법 회피를 방조한 것이다."
+      },
+      {
+        "en": "He was charged with aiding and abetting fraud.",
+        "ko": "그는 사기 방조 혐의로 기소됐다."
+      },
+      {
+        "en": "Thanks for the cake. You're aiding and abetting my bad habits!",
+        "ko": "케이크 고마워. 너 내 나쁜 습관을 거들고 있구나!"
+      }
+    ],
+    "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "circumvention",
+    "meaning": "(명) (규제·법의) 회피, 우회",
+    "note": "동사 circumvent(우회하다, 교묘히 피하다)의 명사형. circum(둘레) + vent(가다) → 빙 돌아가다. circumvention of the law/sanctions/export controls(법/제재/수출 통제 회피). 격식체. 구어 get around와 같은 뜻.",
+    "examples": [
+      {
+        "en": "This was aiding the circumvention of U.S. trade laws.",
+        "ko": "이건 미국 무역법 회피를 도운 것이다."
+      },
+      {
+        "en": "The company tried to circumvent sanctions through a third country.",
+        "ko": "그 회사는 제3국을 통해 제재를 우회하려 했다."
+      },
+      {
+        "en": "Tighter rules are needed to prevent circumvention.",
+        "ko": "우회를 막으려면 더 엄격한 규정이 필요하다."
+      }
+    ],
+    "added": "2026-11-18"
   }
 ]
