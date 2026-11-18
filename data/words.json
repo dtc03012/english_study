@@ -5607,5 +5607,26 @@
       }
     ],
     "added": "2026-11-18"
+  },
+  {
+    "type": "idiom",
+    "term": "call for",
+    "meaning": "요구하다, 촉구하다; (상황이) ~을 필요로 하다; (날씨를) 예보하다",
+    "note": "① 공개적으로 요구·촉구: call for change/a ceasefire/his resignation(변화/휴전/그의 사임을 요구하다), calls for ~(명사: ~을 요구하는 목소리). 뉴스 단골. urge(촉구하다, 앱에 저장됨)는 사람에게, call for는 '무엇을' 요구하는지에 초점. ② 상황이 필요로 하다: This calls for a celebration!(이건 축하해야지!) This job calls for patience. ③ 일기예보: The forecast calls for rain.(비 소식이 있다). call on someone to ~(~에게 ~하라고 요청하다)과 구별.",
+    "examples": [
+      {
+        "en": "Protesters are calling for the CEO's resignation.",
+        "ko": "시위대는 CEO의 사임을 요구하고 있다."
+      },
+      {
+        "en": "You got the job? This calls for a celebration!",
+        "ko": "합격했다고? 이건 축하해야지!"
+      },
+      {
+        "en": "The forecast calls for heavy rain tomorrow.",
+        "ko": "내일 폭우가 예보돼 있다."
+      }
+    ],
+    "added": "2026-11-18"
   }
 ]
