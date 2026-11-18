@@ -5628,5 +5628,26 @@
       }
     ],
     "added": "2026-11-18"
+  },
+  {
+    "type": "word",
+    "term": "noncompliance",
+    "meaning": "(명) (규정·명령의) 불이행, 위반, 미준수",
+    "note": "non(아님) + compliance(준수). 규정·법·계약·명령을 지키지 않음. 하이픈 써서 non-compliance도 같음. 뉴스·기업 공시·법률 문서 단골: noncompliance with regulations/the law(규정/법 미준수), fines for noncompliance(미준수에 따른 벌금), in noncompliance. 반대 compliance(준수; 기업의 '컴플라이언스 부서'), 동사 comply with(~을 따르다, 준수하다), 형용사 compliant / noncompliant. 철자 주의: compliance [컴플라이언스] — compilance(X).",
+    "examples": [
+      {
+        "en": "The company faces heavy fines for noncompliance with export rules.",
+        "ko": "그 회사는 수출 규정 미준수로 막대한 벌금을 물게 됐다."
+      },
+      {
+        "en": "Noncompliance with the safety policy may result in dismissal.",
+        "ko": "안전 규정을 지키지 않으면 해고될 수 있습니다."
+      },
+      {
+        "en": "All employees must comply with the new privacy rules.",
+        "ko": "모든 직원은 새 개인정보 규정을 준수해야 한다."
+      }
+    ],
+    "added": "2026-11-18"
   }
 ]
