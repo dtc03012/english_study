@@ -5586,5 +5586,26 @@
       }
     ],
     "added": "2026-11-18"
+  },
+  {
+    "type": "phrase",
+    "term": "wouldn't mind ~ing",
+    "meaning": "~해도 좋겠다, ~하면 좋겠는데 (완곡하게 바람을 표현)",
+    "note": "글자 그대로는 '~하는 걸 꺼리지 않겠다'지만 실제로는 '~하고 싶다/~면 좋겠다'를 부드럽게 돌려 말하는 표현. would not mind + 동사ing(동명사). certainly/definitely를 넣으면 '정말 좋겠다'로 강조됨(I would certainly not mind seeing that = 그런 거라면 정말 보고 싶다). 요청할 때는 Would you mind ~ing?(~해 주시겠어요? — 대답 No, not at all.이 '네, 해드릴게요'). 비슷한 I'd love to ~, I'd like to ~(더 직접적).",
+    "examples": [
+      {
+        "en": "I would certainly not mind seeing that.",
+        "ko": "그런 거라면 정말 보고 싶네요."
+      },
+      {
+        "en": "I wouldn't mind a cup of coffee right now.",
+        "ko": "지금 커피 한 잔 마시면 좋겠다."
+      },
+      {
+        "en": "Would you mind closing the window?",
+        "ko": "창문 좀 닫아 주시겠어요?"
+      }
+    ],
+    "added": "2026-11-18"
   }
 ]
