@@ -6558,5 +6558,152 @@
       }
     ],
     "added": "2026-11-19"
+  },
+  {
+    "type": "word",
+    "term": "exclusive",
+    "meaning": "(명) 단독 보도, 특종 / (형) 독점적인, 배타적인; 고급의",
+    "note": "기사 머리의 EXCLUSIVE = 그 매체만 취재한 단독 기사. an exclusive interview(단독 인터뷰), exclusive rights(독점권), mutually exclusive(상호 배타적인, 동시에 성립 불가). 형용사로 '회원 전용·고급'(an exclusive club). 부사 exclusively(오로지, 독점적으로).",
+    "examples": [
+      {
+        "en": "The newspaper ran an exclusive on the failed funding deal.",
+        "ko": "그 신문은 무산된 자금 조달 건을 단독 보도했다."
+      },
+      {
+        "en": "The company has exclusive rights to sell the product in Korea.",
+        "ko": "그 회사가 한국에서 그 제품의 독점 판매권을 갖고 있다."
+      },
+      {
+        "en": "This offer is available exclusively to members.",
+        "ko": "이 혜택은 회원 전용입니다."
+      }
+    ],
+    "added": "2026-11-19"
+  },
+  {
+    "type": "word",
+    "term": "pledge",
+    "meaning": "(동) 서약하다, (돈·지원을) 약속하다 / (명) 서약, 공약",
+    "note": "공식적으로 굳게 약속할 때. pledge $500 billion(5천억 달러를 약속하다), pledge support/to + 동사, make/keep/break a pledge(약속을 하다/지키다/어기다). promise보다 공식적이고 무게 있음. vow(맹세하다, 앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "Wall Street pledged to mobilize $500 billion for Nvidia.",
+        "ko": "월가는 엔비디아를 위해 5천억 달러를 동원하겠다고 약속했다."
+      },
+      {
+        "en": "Donors pledged millions to rebuild the school.",
+        "ko": "기부자들이 학교 재건에 수백만 달러를 약정했다."
+      },
+      {
+        "en": "The candidate broke his pledge not to raise taxes.",
+        "ko": "그 후보는 세금을 올리지 않겠다는 공약을 어겼다."
+      }
+    ],
+    "added": "2026-11-19"
+  },
+  {
+    "type": "word",
+    "term": "mobilize",
+    "meaning": "(동) (자금·인력을) 동원하다, 결집하다",
+    "note": "흩어진 자원·사람을 모아 특정 목적에 투입할 때. mobilize funds/capital/troops/voters(자금/자본/병력/유권자를 동원하다). 명사 mobilization. 영국식 철자 mobilise.",
+    "examples": [
+      {
+        "en": "Banks promised to mobilize $500 billion in financing.",
+        "ko": "은행들은 5천억 달러의 자금을 동원하겠다고 약속했다."
+      },
+      {
+        "en": "The campaign mobilized thousands of young voters.",
+        "ko": "그 캠페인은 수천 명의 젊은 유권자를 결집시켰다."
+      },
+      {
+        "en": "The army mobilized troops near the border.",
+        "ko": "군은 국경 근처에 병력을 동원했다."
+      }
+    ],
+    "added": "2026-11-19"
+  },
+  {
+    "type": "idiom",
+    "term": "put up",
+    "meaning": "(돈을) 내놓다, 대다; 세우다, 게시하다; 재워 주다",
+    "note": "문맥별: ① 자금을 대다: put up money/capital(돈을 대다). ② 세우다·걸다: put up a tent/poster. ③ 묵게 해주다: put someone up for the night. put up with(참다)와 구별. 기사 제목 hasn't put up a dime = 한 푼도 내놓지 않았다.",
+    "examples": [
+      {
+        "en": "Wall Street hasn't put up a dime.",
+        "ko": "월가는 한 푼도 내놓지 않았다."
+      },
+      {
+        "en": "Investors put up $20 million to launch the startup.",
+        "ko": "투자자들이 그 스타트업 설립에 2천만 달러를 댔다."
+      },
+      {
+        "en": "Can you put me up for the night?",
+        "ko": "하룻밤 재워 줄 수 있어?"
+      }
+    ],
+    "added": "2026-11-19"
+  },
+  {
+    "type": "idiom",
+    "term": "not a dime",
+    "meaning": "한 푼도 (안), 땡전 한 푼 (없다)",
+    "note": "dime은 10센트 동전. not a dime / not one dime = 아주 적은 돈조차 없다는 강조. not put up/spend/pay a dime(한 푼도 안 내다/쓰다). 비슷한 not a penny, not a cent. a dime a dozen(흔해 빠진, 앱에 저장됨)과 구별.",
+    "examples": [
+      {
+        "en": "They promised billions but haven't put up a dime.",
+        "ko": "그들은 수십억 달러를 약속했지만 한 푼도 내놓지 않았다."
+      },
+      {
+        "en": "I didn't spend a dime on the trip. My company paid for everything.",
+        "ko": "여행에 내 돈은 한 푼도 안 썼어. 회사가 다 냈거든."
+      },
+      {
+        "en": "He won't get a dime from me.",
+        "ko": "그 사람한테는 한 푼도 안 줄 거야."
+      }
+    ],
+    "added": "2026-11-19"
+  },
+  {
+    "type": "phrase",
+    "term": "a wave of",
+    "meaning": "(밀려오는) 일련의, 대규모의 ~",
+    "note": "파도처럼 한꺼번에 몰려오는 것. a wave of money/layoffs/protests/attacks(자금 물결/해고 바람/시위 물결/연쇄 공격). heat wave(폭염), new wave(신조류). 비슷한 a flood of, a surge in(앱의 surge).",
+    "examples": [
+      {
+        "en": "A wave of money was supposed to help customers keep buying chips.",
+        "ko": "밀려들 자금이 고객들의 칩 구매를 계속 도와줄 예정이었다."
+      },
+      {
+        "en": "The company announced a new wave of layoffs.",
+        "ko": "그 회사는 새로운 정리해고 바람을 발표했다."
+      },
+      {
+        "en": "A wave of protests spread across the country.",
+        "ko": "시위 물결이 전국으로 번졌다."
+      }
+    ],
+    "added": "2026-11-19"
+  },
+  {
+    "type": "word",
+    "term": "materialize",
+    "meaning": "(동) 실현되다, 구체화되다; (갑자기) 나타나다",
+    "note": "약속·계획·예상이 실제로 일어날 때. 주로 부정형: hasn't/didn't materialize(실현되지 않았다). The deal failed to materialize(거래가 성사되지 않았다). 비슷한 come true, happen, pan out(구어).",
+    "examples": [
+      {
+        "en": "The promised money hasn't materialized.",
+        "ko": "약속된 돈은 실제로 들어오지 않았다."
+      },
+      {
+        "en": "The expected growth never materialized.",
+        "ko": "예상했던 성장은 끝내 나타나지 않았다."
+      },
+      {
+        "en": "A taxi suddenly materialized out of the rain.",
+        "ko": "빗속에서 갑자기 택시 한 대가 나타났다."
+      }
+    ],
+    "added": "2026-11-19"
   }
 ]
