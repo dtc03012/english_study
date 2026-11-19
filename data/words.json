@@ -6705,5 +6705,515 @@
       }
     ],
     "added": "2026-11-19"
+  },
+  {
+    "type": "idiom",
+    "term": "break the bank",
+    "meaning": "큰돈이 들다, 지갑이 거덜 나다",
+    "note": "주로 부정문 won't/doesn't break the bank = 그리 비싸지 않다, 부담 없다. 캐주얼~중립. 반대 느낌 cost an arm and a leg(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "A nice dinner doesn't have to break the bank.",
+        "ko": "근사한 저녁이라고 꼭 돈이 많이 들 필요는 없어."
+      },
+      {
+        "en": "This laptop is good and won't break the bank.",
+        "ko": "이 노트북은 괜찮은데 가격 부담도 없어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "in a pickle",
+    "meaning": "곤란한 처지에 있는, 난처한",
+    "note": "작고 귀찮은 곤경에 빠졌을 때. 캐주얼하고 약간 유머러스. 비슷한 in a tight spot, in a jam. in hot water(앱에 저장됨)는 '혼날 상황'에 더 초점.",
+    "examples": [
+      {
+        "en": "I'm in a bit of a pickle. I locked my keys in the car.",
+        "ko": "좀 난처해. 차 안에 열쇠를 두고 문을 잠갔어."
+      },
+      {
+        "en": "The team is in a pickle after two players got hurt.",
+        "ko": "선수 두 명이 다쳐서 팀이 곤란한 상황이다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "at the last minute",
+    "meaning": "막판에, 마지막 순간에",
+    "note": "마감·출발 직전에. last-minute(형용사: last-minute changes 막판 변경). 중립. 비슷한 at the eleventh hour(더 극적).",
+    "examples": [
+      {
+        "en": "He canceled the meeting at the last minute.",
+        "ko": "그는 막판에 회의를 취소했다."
+      },
+      {
+        "en": "Sorry for the last-minute change.",
+        "ko": "막판에 변경해서 죄송해요."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "take it easy",
+    "meaning": "천천히 해, 무리하지 마; 진정해; (작별 인사) 잘 지내",
+    "note": "① 쉬엄쉬엄 하다: I'm taking it easy this weekend. ② 흥분한 사람에게 진정해. ③ 헤어질 때 Take it easy!(잘 가/잘 지내). 캐주얼.",
+    "examples": [
+      {
+        "en": "You've been working nonstop. Take it easy this weekend.",
+        "ko": "너 쉬지 않고 일했잖아. 이번 주말엔 좀 쉬어."
+      },
+      {
+        "en": "Take it easy! It was just a mistake.",
+        "ko": "진정해! 그냥 실수였어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "on the house",
+    "meaning": "(가게에서) 무료로 제공하는, 서비스인",
+    "note": "식당·바에서 가게가 공짜로 주는 것. This one's on the house.(이건 서비스예요) 캐주얼. 비슷한 complimentary(격식), free of charge.",
+    "examples": [
+      {
+        "en": "The dessert is on the house tonight.",
+        "ko": "오늘 디저트는 서비스입니다."
+      },
+      {
+        "en": "Sorry for the wait. Your drinks are on the house.",
+        "ko": "기다리게 해서 죄송해요. 음료는 무료로 드릴게요."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "a slam dunk",
+    "meaning": "확실한 것, 따 놓은 당상",
+    "note": "농구의 덩크슛처럼 성공이 거의 확실한 일. not a slam dunk(장담할 수 없는). 업무·정치 대화에서 자주. 비슷한 a sure thing, a no-brainer(앱에 저장됨, 결정이 쉬운 쪽).",
+    "examples": [
+      {
+        "en": "With these numbers, the deal looks like a slam dunk.",
+        "ko": "이 수치라면 그 거래는 확실해 보인다."
+      },
+      {
+        "en": "Winning the case won't be a slam dunk.",
+        "ko": "그 소송에서 이기는 게 장담할 일은 아니다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "bite off more than you can chew",
+    "meaning": "감당 못 할 일을 벌이다, 욕심을 부리다",
+    "note": "능력·시간보다 많은 일을 맡을 때. 주로 경고나 반성으로. 중립~캐주얼. 비슷한 take on too much, overcommit.",
+    "examples": [
+      {
+        "en": "I bit off more than I could chew with three projects at once.",
+        "ko": "프로젝트 세 개를 동시에 맡아서 감당이 안 됐어."
+      },
+      {
+        "en": "Don't bite off more than you can chew.",
+        "ko": "감당 못 할 만큼 일을 벌이지 마."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "get something off your chest",
+    "meaning": "(마음속 얘기를) 털어놓다, 속 시원히 말하다",
+    "note": "오래 담아둔 걱정·불만·고백을 말해버릴 때. 캐주얼~중립. vent(털어놓다, 앱에 저장됨)와 비슷하지만 '마음의 짐을 덜다'에 초점.",
+    "examples": [
+      {
+        "en": "I need to get something off my chest.",
+        "ko": "나 털어놓고 싶은 게 있어."
+      },
+      {
+        "en": "It felt good to finally get it off my chest.",
+        "ko": "드디어 털어놓으니 속이 시원했다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "out of the woods",
+    "meaning": "위기를 벗어난, 고비를 넘긴",
+    "note": "숲에서 빠져나왔다는 비유. 주로 부정형 not out of the woods yet(아직 안심할 단계는 아니다). 건강·경제·회사 위기 관련 뉴스에서 자주. 중립.",
+    "examples": [
+      {
+        "en": "The economy isn't out of the woods yet.",
+        "ko": "경제는 아직 위기를 벗어나지 못했다."
+      },
+      {
+        "en": "The doctor says he's out of the woods.",
+        "ko": "의사가 그는 고비를 넘겼다고 해."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "by the skin of one's teeth",
+    "meaning": "간신히, 아슬아슬하게",
+    "note": "아주 작은 차이로 겨우 성공하거나 피했을 때. pass/escape by the skin of my teeth. 캐주얼~중립. 비슷한 barely, just barely, narrowly.",
+    "examples": [
+      {
+        "en": "I passed the exam by the skin of my teeth.",
+        "ko": "나 시험 간신히 붙었어."
+      },
+      {
+        "en": "We caught the train by the skin of our teeth.",
+        "ko": "우리는 아슬아슬하게 기차를 탔다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "summit",
+    "meaning": "(명) 정상회담; (산의) 정상",
+    "note": "국가 정상들의 회의. hold/attend a summit, a trilateral/G7 summit, summit talks. 원래 뜻 '산 꼭대기'(reach the summit). 비슷한 meeting, talks(더 일반적).",
+    "examples": [
+      {
+        "en": "The trilateral summit in Shenzhen ended with a joint declaration.",
+        "ko": "선전 3자 정상회담은 공동 선언으로 마무리됐다."
+      },
+      {
+        "en": "The climbers reached the summit at dawn.",
+        "ko": "등반대는 새벽에 정상에 올랐다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "declaration",
+    "meaning": "(명) 선언(문), 공표; (세관·세금) 신고",
+    "note": "공식적으로 밝히는 문서·발언. issue/sign a declaration(선언을 발표하다/서명하다), a peace/joint declaration(평화/공동 선언), the Declaration of Independence(미국 독립선언문). 동사 declare(선언하다; 신고하다: Anything to declare?).",
+    "examples": [
+      {
+        "en": "The three leaders issued a peace declaration in Shenzhen.",
+        "ko": "세 정상은 선전에서 평화 선언을 발표했다."
+      },
+      {
+        "en": "Do you have anything to declare?",
+        "ko": "신고할 물품 있으세요? (세관)"
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "jurisdiction",
+    "meaning": "(명) 관할권, 사법권; 관할 구역",
+    "note": "법원·기관이 권한을 행사할 수 있는 범위. limit the court's jurisdiction(법원의 관할권을 제한하다), be outside/under one's jurisdiction(관할 밖/안이다). 법률·국제 뉴스 단골.",
+    "examples": [
+      {
+        "en": "The plan would limit the International Criminal Court's jurisdiction.",
+        "ko": "그 계획은 국제형사재판소의 관할권을 제한하는 내용이다."
+      },
+      {
+        "en": "That case falls outside our jurisdiction.",
+        "ko": "그 사건은 우리 관할이 아닙니다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "unanimously",
+    "meaning": "(부) 만장일치로",
+    "note": "반대 없이 전원이 찬성해서. vote/approve unanimously, a unanimous decision(만장일치 결정). 형용사 unanimous [유내니머스]. 비슷한 with one voice.",
+    "examples": [
+      {
+        "en": "Denmark's parliament unanimously approved the security deal.",
+        "ko": "덴마크 의회는 안보 협정을 만장일치로 승인했다."
+      },
+      {
+        "en": "The board voted unanimously to approve the merger.",
+        "ko": "이사회는 만장일치로 합병을 승인했다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "suspend",
+    "meaning": "(동) 일시 중단하다, 정지시키다; 정직(정학)시키다",
+    "note": "잠시 멈추거나 효력을 멈출 때. suspend service/trading/talks(운행/거래/회담을 일시 중단하다), be suspended from school/work(정학/정직당하다). 명사 suspension. resume(재개하다, 앱에 저장됨)의 반대.",
+    "examples": [
+      {
+        "en": "Rail traffic on the bridge was temporarily suspended.",
+        "ko": "다리의 철도 운행이 일시 중단됐다."
+      },
+      {
+        "en": "The player was suspended for three games.",
+        "ko": "그 선수는 3경기 출장 정지를 받았다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "draft",
+    "meaning": "(명) 초안, 원고 / (동) 초안을 작성하다; 징병하다 / (형) 초안의",
+    "note": "확정 전 문서. a draft text/agreement/bill(초안/합의 초안/법안), first draft(초고), draft a letter(편지 초안을 쓰다). 스포츠 '드래프트(선수 선발)', 군 '징병'. 영국식 '외풍'은 draught.",
+    "examples": [
+      {
+        "en": "The COP31 draft text avoids a fossil fuel phaseout.",
+        "ko": "COP31 초안은 화석연료 단계적 퇴출을 피해 갔다."
+      },
+      {
+        "en": "Can you look over my first draft?",
+        "ko": "내 초고 좀 봐줄래?"
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "state media",
+    "meaning": "(명) 관영 매체, 국영 언론",
+    "note": "정부가 소유·통제하는 언론. according to state media(관영 매체에 따르면), Chinese/Russian state media. 이런 출처는 정부 입장을 반영하므로 기사에서 출처를 꼭 밝힘. 비슷한 state-run media, state broadcaster.",
+    "examples": [
+      {
+        "en": "The document was released by Chinese state media and the Kremlin.",
+        "ko": "그 문서는 중국 관영 매체와 크렘린을 통해 공개됐다."
+      },
+      {
+        "en": "State media described the meeting as a success.",
+        "ko": "관영 매체는 그 회담을 성공적이라고 묘사했다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "issue",
+    "meaning": "(동) (성명·경고·문서를) 발표하다, 발급하다 / (명) 문제, 쟁점; (잡지) 호",
+    "note": "동사로 issue a statement/warning/declaration(성명/경고/선언을 발표하다), issue a passport/visa(여권/비자를 발급하다). 명사 '문제'(a big issue), '쟁점'(key issues), '잡지 호'(the latest issue). release a statement(앱에 저장됨)와 같은 뜻.",
+    "examples": [
+      {
+        "en": "The White House has not issued an immediate statement.",
+        "ko": "백악관은 즉각적인 성명을 내지 않았다."
+      },
+      {
+        "en": "Officials issued a heat warning for the weekend.",
+        "ko": "당국은 주말 폭염 경보를 발령했다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "reportedly",
+    "meaning": "(부) 보도에 따르면, 전해진 바에 따르면",
+    "note": "확인되지 않았지만 보도된 내용임을 표시. 기사 단골: The CEO reportedly resigned(CEO가 사임한 것으로 전해졌다). 직접 확인한 사실이 아니라는 신호. 비슷한 allegedly(혐의상, 앱의 allegation 참고), according to reports.",
+    "examples": [
+      {
+        "en": "A missile attack reportedly damaged a tower in Riyadh.",
+        "ko": "미사일 공격으로 리야드의 한 타워가 파손된 것으로 전해졌다."
+      },
+      {
+        "en": "The company is reportedly planning to cut 1,000 jobs.",
+        "ko": "그 회사는 1천 명을 감원할 계획인 것으로 알려졌다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "deadline",
+    "meaning": "(명) 마감 기한, 기한",
+    "note": "정해진 마감 시간. meet/miss a deadline(마감을 지키다/놓치다), push back/extend a deadline(기한을 미루다/연장하다), a tight deadline(빠듯한 마감). 업무 필수.",
+    "examples": [
+      {
+        "en": "Negotiators agreed to delay several reporting deadlines.",
+        "ko": "협상단은 몇몇 보고 기한을 미루기로 합의했다."
+      },
+      {
+        "en": "I can't go out tonight. I have a deadline tomorrow.",
+        "ko": "오늘 밤엔 못 나가. 내일 마감이 있어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "if anything",
+    "meaning": "오히려, 굳이 말하자면",
+    "note": "앞 말과 반대 방향으로 '차라리 그 반대'라고 할 때. It's not worse — if anything, it's better.(나빠진 게 아니라 오히려 나아졌어) 대화·기사 모두 자주. 비슷한 actually, rather.",
+    "examples": [
+      {
+        "en": "The new manager isn't strict. If anything, she's too easygoing.",
+        "ko": "새 매니저가 엄격하진 않아. 오히려 너무 느긋한 편이지."
+      },
+      {
+        "en": "Prices didn't fall. If anything, they went up.",
+        "ko": "가격이 떨어지지 않았어. 오히려 올랐지."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "as far as ~ is concerned",
+    "meaning": "~에 관해서는, ~의 입장에서는",
+    "note": "주제·관점을 한정할 때. as far as I'm concerned(내 생각엔, 나로서는), as far as money is concerned(돈 문제라면). when it comes to(앱에 저장됨)와 비슷. as far as I know(앱에 저장됨)와 구별.",
+    "examples": [
+      {
+        "en": "As far as I'm concerned, the matter is closed.",
+        "ko": "내 입장에선 그 일은 끝난 거야."
+      },
+      {
+        "en": "As far as cost is concerned, the second option is better.",
+        "ko": "비용 면에서는 두 번째 안이 더 낫다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "the same goes for",
+    "meaning": "~도 마찬가지다",
+    "note": "앞에서 한 말이 다른 대상에도 똑같이 적용될 때. The same goes for ~ / The same is true of ~. 대화·글 모두 자연스러움.",
+    "examples": [
+      {
+        "en": "Phones aren't allowed in the exam. The same goes for smartwatches.",
+        "ko": "시험장에 휴대폰은 안 돼. 스마트워치도 마찬가지야."
+      },
+      {
+        "en": "I loved the food. The same goes for the service.",
+        "ko": "음식이 정말 좋았어. 서비스도 마찬가지였고."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "no matter what",
+    "meaning": "무슨 일이 있어도, 무엇을 ~하든",
+    "note": "어떤 상황에서도 변하지 않음. no matter what(단독), no matter what/how/where + 문장(no matter how hard I try 아무리 노력해도). regardless of(앱에 저장됨)와 비슷하지만 더 구어적.",
+    "examples": [
+      {
+        "en": "I'll be there for you no matter what.",
+        "ko": "무슨 일이 있어도 네 곁에 있을게."
+      },
+      {
+        "en": "No matter how hard I try, I can't wake up early.",
+        "ko": "아무리 애써도 일찍 못 일어나겠어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "to be honest",
+    "meaning": "솔직히 말하면",
+    "note": "솔직한 의견이나 약간 불편한 말을 꺼낼 때. 문자에선 TBH. 비슷한 honestly, frankly, to tell you the truth. I got to say(앱에 저장됨)와 비슷한 쿠션 표현.",
+    "examples": [
+      {
+        "en": "To be honest, I didn't like the movie.",
+        "ko": "솔직히 말하면 그 영화 별로였어."
+      },
+      {
+        "en": "To be honest, I forgot about the meeting.",
+        "ko": "솔직히 회의를 깜빡했어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "make sense",
+    "meaning": "이해가 되다, 말이 되다; 합리적이다",
+    "note": "① 이해되다: Does that make sense?(이해되세요?) ② 합리적이다: It makes sense to wait.(기다리는 게 맞다) make sense of ~ = ~을 이해하다. 대화 필수 표현.",
+    "examples": [
+      {
+        "en": "Does that make sense, or should I explain again?",
+        "ko": "이해되세요, 아니면 다시 설명할까요?"
+      },
+      {
+        "en": "It makes sense to book early.",
+        "ko": "일찍 예약하는 게 합리적이야."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "what if ~?",
+    "meaning": "~하면 어떡하지?, ~하면 어때?",
+    "note": "① 걱정: What if it rains?(비 오면 어떡해?) ② 제안: What if we leave earlier?(좀 더 일찍 떠나면 어때?) 뒤에 평서문 순서. 대화에서 매우 흔함.",
+    "examples": [
+      {
+        "en": "What if they don't like my idea?",
+        "ko": "그들이 내 아이디어를 안 좋아하면 어떡하지?"
+      },
+      {
+        "en": "What if we try a different approach?",
+        "ko": "다른 방식으로 해보면 어때?"
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "in the first place",
+    "meaning": "애초에, 처음부터",
+    "note": "① 원래 이유를 따질 때: Why did you buy it in the first place?(애초에 그걸 왜 샀어?) ② 나열의 첫째(in the first place ~, in the second place ~), 드문 편. 대화에서 ①이 흔함.",
+    "examples": [
+      {
+        "en": "Why did you agree to it in the first place?",
+        "ko": "애초에 그걸 왜 동의했어?"
+      },
+      {
+        "en": "If you'd asked me in the first place, I could have helped.",
+        "ko": "처음부터 나한테 물어봤으면 도와줄 수 있었을 텐데."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "so that",
+    "meaning": "~하도록, ~하기 위해서",
+    "note": "목적을 나타내는 문장 연결. so that + 주어 + can/will/could. 구어에선 that을 빼고 so만 쓰기도. so as to(앱에 저장됨)는 뒤에 동사원형.",
+    "examples": [
+      {
+        "en": "Speak louder so that everyone can hear you.",
+        "ko": "모두 들을 수 있게 더 크게 말해."
+      },
+      {
+        "en": "I left early so that I wouldn't be late.",
+        "ko": "늦지 않으려고 일찍 나왔다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "even if",
+    "meaning": "설령 ~하더라도",
+    "note": "가정 상황에서 양보. even if + 문장(사실이 아닐 수도 있는 가정). even though(실제 사실인데도)와 구별: Even if it rains, I'll go(비가 와도 갈 거야, 가정) / Even though it's raining, I'll go(비가 오는데도 갈 거야, 사실). even as(앱에 저장됨)와도 다름.",
+    "examples": [
+      {
+        "en": "Even if it rains, the game will go ahead.",
+        "ko": "설령 비가 와도 경기는 진행된다."
+      },
+      {
+        "en": "I wouldn't go even if they paid me.",
+        "ko": "돈을 준대도 안 갈 거야."
+      }
+    ],
+    "added": "2026-11-20"
   }
 ]
