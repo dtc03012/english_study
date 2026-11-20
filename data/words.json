@@ -7215,5 +7215,656 @@
       }
     ],
     "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "from ~'s perspective",
+    "meaning": "~의 관점에서 보면, ~의 입장에서는",
+    "note": "누구의 시각에서 판단하는지 밝힐 때. from Wall Street's perspective(월가의 관점에서), from my perspective(내 입장에선). 비슷한 from ~'s point of view, as far as ~ is concerned(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "From Wall Street's perspective, the debut did everything it had to.",
+        "ko": "월가의 관점에서 보면 그 상장은 해야 할 일을 다 해냈다."
+      },
+      {
+        "en": "From the customer's perspective, the app is too complicated.",
+        "ko": "고객 입장에서 보면 그 앱은 너무 복잡하다."
+      },
+      {
+        "en": "Try to see it from my perspective.",
+        "ko": "내 입장에서 한번 생각해 봐."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "long-awaited",
+    "meaning": "(형) 오래 기다려 온, 고대하던",
+    "note": "많은 사람이 오랫동안 기다려 온 것. long-awaited debut/sequel/report/reunion. 비슷한 much-anticipated. 하이픈으로 연결해 명사 앞에 씀.",
+    "examples": [
+      {
+        "en": "Anthropic's long-awaited stock-market debut finally happened.",
+        "ko": "오랫동안 기다려 온 앤트로픽의 증시 상장이 드디어 이뤄졌다."
+      },
+      {
+        "en": "The long-awaited sequel comes out next month.",
+        "ko": "고대하던 후속편이 다음 달 나온다."
+      },
+      {
+        "en": "We finally had our long-awaited family reunion.",
+        "ko": "우리는 드디어 고대하던 가족 모임을 가졌다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "debut",
+    "meaning": "(명) 데뷔, 첫선, (증시) 상장 / (동) 첫선을 보이다",
+    "note": "처음 공개되는 것. stock-market debut(증시 상장), make one's debut(데뷔하다), debut album. 동사 debut on the Nasdaq(나스닥에 상장하다). 발음 [데이뷰].",
+    "examples": [
+      {
+        "en": "The company's market debut on the Nasdaq drew huge crowds.",
+        "ko": "그 회사의 나스닥 상장에는 엄청난 관심이 쏠렸다."
+      },
+      {
+        "en": "She made her acting debut at 19.",
+        "ko": "그녀는 19살에 배우로 데뷔했다."
+      },
+      {
+        "en": "The new phone will debut next week.",
+        "ko": "새 휴대폰이 다음 주에 첫선을 보인다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "IPO (initial public offering)",
+    "meaning": "(명) 기업공개, 신규 상장",
+    "note": "회사가 처음으로 주식을 일반에 팔아 증시에 상장하는 것. go public(상장하다)과 같은 말. IPO price(공모가), file for an IPO(상장을 신청하다), the largest IPO ever(사상 최대 IPO). 반대 go private(상장 폐지·비상장 전환).",
+    "examples": [
+      {
+        "en": "The largest initial public offering ever raised tens of billions.",
+        "ko": "사상 최대 규모의 기업공개로 수백억 달러가 조달됐다."
+      },
+      {
+        "en": "The stock opened more than 30% above its IPO price.",
+        "ko": "주가는 공모가보다 30% 넘게 높게 시작했다."
+      },
+      {
+        "en": "The startup plans to go public next year.",
+        "ko": "그 스타트업은 내년에 상장할 계획이다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "audacious",
+    "meaning": "(형) 대담한, 과감한; 뻔뻔한",
+    "note": "위험을 무릅쓰는 크고 대담한 계획·행동. audacious plans/goals(대담한 계획/목표)는 긍정적, 사람에게는 '뻔뻔한'이라는 부정적 뉘앙스도. 명사 audacity(대담함; 뻔뻔함: the audacity! 어이없네). 비슷한 bold, daring, ambitious.",
+    "examples": [
+      {
+        "en": "The IPO raised money to fund the AI giant's audacious plans.",
+        "ko": "그 IPO는 AI 거대 기업의 대담한 계획에 쓸 자금을 마련했다."
+      },
+      {
+        "en": "Landing on Mars is an audacious goal.",
+        "ko": "화성 착륙은 대담한 목표다."
+      },
+      {
+        "en": "He had the audacity to ask for a raise on his first day.",
+        "ko": "그는 입사 첫날 뻔뻔하게도 연봉 인상을 요구했다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "bestow",
+    "meaning": "(동) (영예·선물·혜택을) 주다, 수여하다",
+    "note": "격식 있는 '주다'. bestow A on/upon B(B에게 A를 수여하다), bestow B with A(기사체). 상·명예·혜택에 주로 씀. 일상에선 give, grant, award.",
+    "examples": [
+      {
+        "en": "The IPO bestowed its early backers with eye-popping profits.",
+        "ko": "그 IPO는 초기 투자자들에게 입이 떡 벌어지는 수익을 안겨 주었다."
+      },
+      {
+        "en": "The university bestowed an honorary degree on her.",
+        "ko": "대학은 그녀에게 명예 학위를 수여했다."
+      },
+      {
+        "en": "The title was bestowed upon him by the king.",
+        "ko": "그 칭호는 왕이 그에게 내렸다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "backer",
+    "meaning": "(명) 후원자, 투자자, 지지자",
+    "note": "돈이나 지지를 대주는 사람·회사. early backers(초기 투자자), financial backers, political backers. 동사구 back(지지하다, 돈을 대다)에서 나옴. 비슷한 investor, supporter, sponsor.",
+    "examples": [
+      {
+        "en": "Early backers made huge profits from the IPO.",
+        "ko": "초기 투자자들은 IPO로 막대한 수익을 거뒀다."
+      },
+      {
+        "en": "The project lost its main financial backer.",
+        "ko": "그 프로젝트는 주요 자금 후원자를 잃었다."
+      },
+      {
+        "en": "She has strong backers in the party.",
+        "ko": "그녀는 당내에 든든한 지지자들이 있다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "eye-popping",
+    "meaning": "(형, 구어) 눈이 휘둥그레지는, 입이 떡 벌어지는",
+    "note": "놀랄 만큼 큰 숫자·금액·광경. eye-popping profits/prices/numbers. 기사·대화에서 자주. 비슷한 jaw-dropping, staggering, mind-blowing.",
+    "examples": [
+      {
+        "en": "Early investors earned eye-popping profits.",
+        "ko": "초기 투자자들은 입이 떡 벌어지는 수익을 올렸다."
+      },
+      {
+        "en": "The house sold for an eye-popping $10 million.",
+        "ko": "그 집은 무려 1천만 달러에 팔렸다."
+      },
+      {
+        "en": "The view from the top was eye-popping.",
+        "ko": "꼭대기에서 본 경치는 눈이 휘둥그레질 정도였다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "pull it off",
+    "meaning": "(어려운 일을) 해내다, 성공시키다",
+    "note": "힘들거나 가능성 낮던 일을 결국 해낼 때. pull off a deal/an upset/a surprise. 캐주얼~중립, 칭찬할 때 많이 씀. 비슷한 make it, manage to, carry it off.",
+    "examples": [
+      {
+        "en": "The company and its advisers pulled it off despite a weak market.",
+        "ko": "회사와 자문단은 약세장 속에서도 그것을 해냈다."
+      },
+      {
+        "en": "Nobody thought we could finish on time, but we pulled it off.",
+        "ko": "다들 우리가 제때 못 끝낼 줄 알았는데 해냈어."
+      },
+      {
+        "en": "Not everyone can pull off that hairstyle.",
+        "ko": "저 헤어스타일은 아무나 소화하지 못해."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "sour on",
+    "meaning": "~에 대한 호감을 잃다, ~에 등을 돌리다",
+    "note": "sour(시큼한, 상한)가 동사로 '나빠지다'. sour on ~ = 처음엔 좋아하던 것을 싫어하게 되다. investors sour on tech stocks(투자자들이 기술주에 등을 돌리다). 반대 warm to(~에 호감을 갖게 되다).",
+    "examples": [
+      {
+        "en": "Investors were beginning to sour on AI-related stocks.",
+        "ko": "투자자들은 AI 관련주에 등을 돌리기 시작했다."
+      },
+      {
+        "en": "Voters have soured on the governor.",
+        "ko": "유권자들은 주지사에게 실망해 돌아섰다."
+      },
+      {
+        "en": "I soured on the show after the second season.",
+        "ko": "시즌 2 이후로 그 드라마가 싫어졌어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "pay off",
+    "meaning": "성과를 거두다, 결실을 맺다; (빚을) 다 갚다",
+    "note": "① 노력·투자가 결국 효과를 내다: Hard work pays off.(노력은 보답받는다) ② 빚을 전부 갚다: pay off a loan/debt. 명사 payoff(성과, 보상). 뉴스·일상 모두.",
+    "examples": [
+      {
+        "en": "Investors questioned whether the massive investments would pay off soon.",
+        "ko": "투자자들은 막대한 투자가 곧 성과를 낼지 의문을 품었다."
+      },
+      {
+        "en": "All that practice finally paid off.",
+        "ko": "그 많은 연습이 드디어 결실을 맺었다."
+      },
+      {
+        "en": "I finally paid off my student loans.",
+        "ko": "드디어 학자금 대출을 다 갚았어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "backlash",
+    "meaning": "(명) (강한) 반발, 역풍",
+    "note": "정책·회사·사람에 대한 대중의 거센 반대. public backlash, a backlash against ~, face a backlash(반발에 직면하다). backfire(역효과를 내다, 앱에 저장됨)와 비슷하지만 backlash는 '사람들의 반발'.",
+    "examples": [
+      {
+        "en": "Public backlash to the AI sector grew.",
+        "ko": "AI 업계에 대한 대중의 반발이 커졌다."
+      },
+      {
+        "en": "The company faced a backlash over its price increase.",
+        "ko": "그 회사는 가격 인상으로 거센 반발에 부딪혔다."
+      },
+      {
+        "en": "There was a strong backlash against the new rule.",
+        "ko": "새 규정에 대한 반발이 거셌다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "unease",
+    "meaning": "(명) 불안, 우려, 걱정",
+    "note": "막연한 불안감. market unease(시장 불안), growing unease, a sense of unease. 형용사 uneasy(불안한). jitters(초조함, 앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "The CEO's shock resignation added to the market unease.",
+        "ko": "CEO의 충격적인 사임이 시장 불안을 키웠다."
+      },
+      {
+        "en": "There is growing unease among employees about layoffs.",
+        "ko": "직원들 사이에서 정리해고에 대한 불안이 커지고 있다."
+      },
+      {
+        "en": "I felt a sense of unease when he didn't call back.",
+        "ko": "그가 다시 전화하지 않자 불안한 기분이 들었다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "plow into",
+    "meaning": "(돈·자원을) 대거 쏟아붓다; (차 등이) ~에 들이받다",
+    "note": "① 투자 맥락: plow money into ~ / investors plowed into the shares(투자자들이 주식에 몰려들었다). ② 충돌: The car plowed into a tree. 영국식 철자 plough. 비슷한 pour into, pile into.",
+    "examples": [
+      {
+        "en": "Investors big and small plowed into Anthropic's shares anyway.",
+        "ko": "크고 작은 투자자들이 그래도 앤트로픽 주식에 몰려들었다."
+      },
+      {
+        "en": "The company plowed billions into new data centers.",
+        "ko": "그 회사는 새 데이터센터에 수십억 달러를 쏟아부었다."
+      },
+      {
+        "en": "A truck plowed into a parked car.",
+        "ko": "트럭이 주차된 차를 들이받았다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "fizzle",
+    "meaning": "(동) 흐지부지되다, 용두사미로 끝나다 / (명) 실패",
+    "note": "처음엔 기세 좋다가 점점 약해져 사라질 때. gains fizzled(상승분이 사그라들었다), fizzle out(흐지부지 끝나다). 원래 탄산이 '쉬익' 빠지는 소리. 비슷한 peter out, die down.",
+    "examples": [
+      {
+        "en": "The stock opened 30% higher, but the gains fizzled throughout the day.",
+        "ko": "주가는 30% 높게 출발했지만 상승분이 하루 종일 사그라들었다."
+      },
+      {
+        "en": "The protest fizzled out after a few hours.",
+        "ko": "시위는 몇 시간 만에 흐지부지 끝났다."
+      },
+      {
+        "en": "Their romance fizzled after the summer.",
+        "ko": "그들의 연애는 여름이 지나자 시들해졌다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "weather",
+    "meaning": "(동) (어려움을) 견뎌내다, 무사히 넘기다 / (명) 날씨",
+    "note": "동사로 weather the storm/crisis/threat(폭풍/위기/위협을 견뎌내다). 기업·경제 뉴스에서 자주. 비슷한 survive, ride out, withstand. 명사 '날씨'와 같은 단어.",
+    "examples": [
+      {
+        "en": "Can the company weather the growing threat of cheaper rivals?",
+        "ko": "그 회사가 더 싼 경쟁사들의 커지는 위협을 견뎌낼 수 있을까?"
+      },
+      {
+        "en": "Small businesses struggled to weather the recession.",
+        "ko": "소상공인들은 불황을 버텨내느라 고생했다."
+      },
+      {
+        "en": "We'll weather this storm together.",
+        "ko": "우리 함께 이 고비를 넘길 거야."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "in another sign",
+    "meaning": "또 다른 신호로, ~임을 보여주는 또 하나의 징후로",
+    "note": "앞 내용을 뒷받침하는 추가 증거를 소개하는 기사 표현. In another sign (that) ~, … / in a sign of ~(~의 신호로). 비슷한 further evidence that, adding to signs that.",
+    "examples": [
+      {
+        "en": "In another sign investors remain wary of tech, major indexes declined.",
+        "ko": "투자자들이 여전히 기술주를 경계한다는 또 다른 신호로, 주요 지수가 하락했다."
+      },
+      {
+        "en": "In another sign of a cooling economy, retail sales fell.",
+        "ko": "경기 둔화를 보여주는 또 하나의 징후로 소매 판매가 감소했다."
+      },
+      {
+        "en": "In a sign of the times, the store now only accepts cards.",
+        "ko": "시대를 보여주듯 그 가게는 이제 카드만 받는다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "log",
+    "meaning": "(동) 기록하다, (실적·수치를) 올리다 / (명) 기록, 일지",
+    "note": "뉴스에서 log + 기록 = ~을 기록하다(logged its fourth straight day of declines 4일 연속 하락을 기록했다). log hours/miles(근무 시간/주행 거리를 기록하다). IT: log in/out, log file. 원래 '통나무'.",
+    "examples": [
+      {
+        "en": "The Dow logged its fourth straight day of declines.",
+        "ko": "다우지수는 4거래일 연속 하락을 기록했다."
+      },
+      {
+        "en": "She logged more than 60 hours at work this week.",
+        "ko": "그녀는 이번 주 60시간 넘게 일했다."
+      },
+      {
+        "en": "Please log all customer complaints in the system.",
+        "ko": "모든 고객 불만을 시스템에 기록해 주세요."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "straight",
+    "meaning": "(형) 연속의, 잇따른 / (부) 곧장; 솔직히",
+    "note": "숫자와 함께 '연속': fourth straight day(4일 연속), three straight wins(3연승). consecutive, in a row, back-to-back(앱에 저장됨)과 같은 뜻. 다른 뜻: go straight home(곧장 집에 가다), get straight to the point(바로 본론으로).",
+    "examples": [
+      {
+        "en": "The S&P 500 fell for the sixth straight session.",
+        "ko": "S&P 500 지수는 6거래일 연속 하락했다."
+      },
+      {
+        "en": "The team has won five straight games.",
+        "ko": "그 팀은 5연승을 했다."
+      },
+      {
+        "en": "I went straight to bed after work.",
+        "ko": "퇴근하고 곧장 잤어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "losing streak",
+    "meaning": "연패, 연속 하락",
+    "note": "연속으로 지거나 떨어지는 것. extend/snap a losing streak(연패를 늘리다/끊다). 반대 winning streak(연승). streak 단독은 '연속, 줄무늬': a hot streak(잘 나가는 시기).",
+    "examples": [
+      {
+        "en": "The S&P 500 extended its losing streak to six sessions.",
+        "ko": "S&P 500 지수는 연속 하락 기록을 6거래일로 늘렸다."
+      },
+      {
+        "en": "The team finally snapped its losing streak.",
+        "ko": "그 팀은 마침내 연패를 끊었다."
+      },
+      {
+        "en": "She's on a winning streak this season.",
+        "ko": "그녀는 이번 시즌 연승 행진 중이다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "in the red",
+    "meaning": "적자인, (주가가) 하락한",
+    "note": "장부에 손실을 빨간 글씨로 적던 데서 유래. finish/close in the red(하락 마감하다), be in the red(적자 상태다). 반대 in the black(흑자인; 주가 상승).",
+    "examples": [
+      {
+        "en": "All 11 sectors of the index finished in the red.",
+        "ko": "지수의 11개 업종이 모두 하락 마감했다."
+      },
+      {
+        "en": "The company has been in the red for three years.",
+        "ko": "그 회사는 3년째 적자다."
+      },
+      {
+        "en": "We're finally back in the black.",
+        "ko": "우리 드디어 다시 흑자로 돌아섰어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "by any means",
+    "meaning": "어느 모로 보나, 어떤 기준으로 봐도; (부정문) 결코",
+    "note": "① 긍정: By any means, it was a success.(어떻게 봐도 성공이었다) 구어에선 by any measure가 더 흔함. ② 부정: not by any means = 결코 ~아니다(It's not over by any means). by all means(물론이죠, 그럼요)와 구별.",
+    "examples": [
+      {
+        "en": "By any means, Anthropic's IPO was a success.",
+        "ko": "어떻게 봐도 앤트로픽의 IPO는 성공이었다."
+      },
+      {
+        "en": "This isn't the end of the story by any means.",
+        "ko": "이게 결코 이야기의 끝은 아니다."
+      },
+      {
+        "en": "Can I borrow this? — By all means.",
+        "ko": "이거 빌려도 돼요? — 물론이죠."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "barometer",
+    "meaning": "(명) 지표, 척도; 기압계",
+    "note": "원래 '기압계'. 비유로 어떤 상황을 가늠하는 기준: a barometer for/of ~(~의 지표). 경제 기사 단골. 비슷한 indicator, gauge, bellwether(선행 지표).",
+    "examples": [
+      {
+        "en": "The IPO was seen as a barometer for the AI trade.",
+        "ko": "그 IPO는 AI 투자 흐름의 지표로 여겨졌다."
+      },
+      {
+        "en": "Consumer spending is a key barometer of the economy.",
+        "ko": "소비 지출은 경제의 핵심 지표다."
+      },
+      {
+        "en": "The barometer showed falling pressure.",
+        "ko": "기압계는 기압이 떨어지고 있음을 보여 주었다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "the jury is still out",
+    "meaning": "아직 결론이 나지 않았다, 판단은 이르다",
+    "note": "배심원단이 아직 평결 중이라는 데서 유래. 어떤 것의 성공·효과에 대해 아직 판단하기 이르다는 뜻. The jury is still out on ~(~에 대해선 아직 결론이 안 났다). 중립, 기사·업무 모두.",
+    "examples": [
+      {
+        "en": "By that measure, the jury is still out.",
+        "ko": "그 기준으로 보면 아직 결론이 나지 않았다."
+      },
+      {
+        "en": "The jury is still out on whether the new diet works.",
+        "ko": "그 새 다이어트가 효과 있는지는 아직 판단하기 이르다."
+      },
+      {
+        "en": "Is remote work better? The jury's still out.",
+        "ko": "재택이 더 나은가? 아직 결론은 안 났지."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "complete with",
+    "meaning": "~까지 갖춘, ~이 딸린",
+    "note": "무언가에 덤으로 딸려 있는 것을 덧붙일 때. a house complete with a pool(수영장까지 딸린 집), complete with a billboard takeover(전광판 장악까지 곁들인). 묘사·광고·기사에서 자주.",
+    "examples": [
+      {
+        "en": "Its market debut came complete with a billboard takeover of Times Square.",
+        "ko": "그 상장은 타임스스퀘어 전광판 장악까지 곁들여졌다."
+      },
+      {
+        "en": "The apartment comes complete with furniture.",
+        "ko": "그 아파트는 가구까지 갖춰져 있다."
+      },
+      {
+        "en": "He showed up in a full suit, complete with a bow tie.",
+        "ko": "그는 나비넥타이까지 갖춘 정장 차림으로 나타났다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "as recently as",
+    "meaning": "불과 ~까지만 해도, 바로 ~에도",
+    "note": "얼마 전까지도 그랬다는 점을 강조. as recently as 2024/last week. 큰 변화를 대비시킬 때 자주. 비슷한 only ~ ago, just ~.",
+    "examples": [
+      {
+        "en": "The company was worth around $20 billion as recently as 2024.",
+        "ko": "그 회사는 불과 2024년까지만 해도 가치가 약 200억 달러였다."
+      },
+      {
+        "en": "As recently as last month, he said he wouldn't run.",
+        "ko": "불과 지난달까지만 해도 그는 출마하지 않겠다고 했다."
+      },
+      {
+        "en": "I saw her as recently as yesterday.",
+        "ko": "바로 어제도 그녀를 봤어."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "virality",
+    "meaning": "(명) 입소문, 빠른 확산(성)",
+    "note": "viral(바이러스처럼 퍼지는)의 명사형. 콘텐츠·제품이 SNS로 폭발적으로 퍼지는 성질. go viral(입소문을 타다, 빠르게 퍼지다)이 가장 흔한 형태.",
+    "examples": [
+      {
+        "en": "The virality of its coding tools propelled the company to new heights.",
+        "ko": "코딩 도구의 폭발적인 입소문이 회사를 새로운 경지로 끌어올렸다."
+      },
+      {
+        "en": "The video went viral overnight.",
+        "ko": "그 영상은 하룻밤 새 입소문이 났다."
+      },
+      {
+        "en": "Marketers try to design for virality.",
+        "ko": "마케터들은 입소문이 나도록 설계하려 애쓴다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "propel",
+    "meaning": "(동) 나아가게 하다, 끌어올리다, 추진하다",
+    "note": "힘을 줘서 앞으로·위로 밀어 올릴 때. propel ~ to new heights/success/the top(~을 새로운 경지/성공/정상으로 끌어올리다). 명사 propeller(프로펠러). 비슷한 drive, push, boost.",
+    "examples": [
+      {
+        "en": "Its chatbot has propelled the company to new heights.",
+        "ko": "그 챗봇이 회사를 새로운 정점으로 끌어올렸다."
+      },
+      {
+        "en": "One hit song propelled her to fame.",
+        "ko": "히트곡 하나가 그녀를 스타로 만들었다."
+      },
+      {
+        "en": "Strong exports propelled economic growth.",
+        "ko": "강한 수출이 경제 성장을 이끌었다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "phrase",
+    "term": "along the way",
+    "meaning": "그 과정에서, 도중에",
+    "note": "목표를 향해 가는 동안 생긴 일. 문자 그대로 '가는 길에'도 됨. learn a lot along the way(그 과정에서 많이 배우다). 비슷한 in the process, on the way.",
+    "examples": [
+      {
+        "en": "Along the way, it helped reshape how people work.",
+        "ko": "그 과정에서 사람들이 일하는 방식을 바꾸는 데도 기여했다."
+      },
+      {
+        "en": "I made a lot of mistakes along the way.",
+        "ko": "그 과정에서 실수를 많이 했어."
+      },
+      {
+        "en": "We stopped for lunch along the way.",
+        "ko": "우리는 가는 길에 점심을 먹으려고 멈췄다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "apiece",
+    "meaning": "(부) 각각, 하나(한 사람)당",
+    "note": "each와 같은 뜻으로 숫자·금액 뒤에 붙임. worth $20 billion apiece(각자 200억 달러의 재산), $5 apiece(개당 5달러). 문장 끝에 오는 게 특징.",
+    "examples": [
+      {
+        "en": "Each co-founder is now worth over $20 billion apiece.",
+        "ko": "공동창업자들은 이제 각자 200억 달러가 넘는 자산가다."
+      },
+      {
+        "en": "The tickets cost $50 apiece.",
+        "ko": "표는 장당 50달러다."
+      },
+      {
+        "en": "The kids got two cookies apiece.",
+        "ko": "아이들은 각자 쿠키를 두 개씩 받았다."
+      }
+    ],
+    "added": "2026-11-20"
+  },
+  {
+    "type": "word",
+    "term": "equity",
+    "meaning": "(명) 지분, 주식(자본); 공정, 형평",
+    "note": "① 금융: 회사의 소유 지분(personal equity in the company 회사에 대한 개인 지분), equity capital markets(주식 자본 시장), home equity(주택 순자산). ② 사회: 공정·형평(equity and inclusion). 문맥으로 구별.",
+    "examples": [
+      {
+        "en": "The co-founders pledged to donate 80% of their personal equity.",
+        "ko": "공동창업자들은 개인 지분의 80%를 기부하겠다고 약속했다."
+      },
+      {
+        "en": "Employees receive equity as part of their pay.",
+        "ko": "직원들은 보상의 일부로 지분을 받는다."
+      },
+      {
+        "en": "The school is committed to equity and inclusion.",
+        "ko": "그 학교는 형평성과 포용에 힘쓴다."
+      }
+    ],
+    "added": "2026-11-20"
   }
 ]
