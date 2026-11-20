@@ -7866,5 +7866,515 @@
       }
     ],
     "added": "2026-11-20"
+  },
+  {
+    "type": "idiom",
+    "term": "on the same wavelength",
+    "meaning": "생각이 잘 통하는, 죽이 맞는",
+    "note": "말하지 않아도 생각·취향이 잘 맞을 때. be on the same wavelength (as ~). 캐주얼. on the same page(같은 정보를 공유, 앱에 저장됨)보다 '성향·느낌이 통한다'에 초점.",
+    "examples": [
+      {
+        "en": "We're totally on the same wavelength about design.",
+        "ko": "디자인에 관해선 우리 완전 생각이 잘 통해."
+      },
+      {
+        "en": "I knew we'd get along. We were on the same wavelength from day one.",
+        "ko": "잘 맞을 줄 알았어. 첫날부터 죽이 맞았거든."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "jump the gun",
+    "meaning": "성급하게 굴다, 너무 일찍 움직이다",
+    "note": "달리기에서 출발 총소리 전에 뛰어나가는 데서 유래. 때가 되기 전에 행동하거나 발표할 때. 중립. jump to conclusions(성급히 결론 내리다, 앱에 저장됨)는 '판단', jump the gun은 '행동'에 초점.",
+    "examples": [
+      {
+        "en": "Let's not jump the gun. We don't have final numbers yet.",
+        "ko": "너무 앞서가지 말자. 아직 최종 수치가 안 나왔어."
+      },
+      {
+        "en": "The company jumped the gun and announced the product too early.",
+        "ko": "그 회사는 성급하게 제품을 너무 일찍 발표했다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "the whole nine yards",
+    "meaning": "전부 다, 모든 것을 갖춘",
+    "note": "있는 것을 하나도 빼지 않고 전부. go the whole nine yards(끝까지 다 하다). 캐주얼. 비슷한 everything, the works, all-out.",
+    "examples": [
+      {
+        "en": "They had a band, fireworks, a buffet — the whole nine yards.",
+        "ko": "밴드에 불꽃놀이, 뷔페까지 없는 게 없었어."
+      },
+      {
+        "en": "If we're doing this, let's go the whole nine yards.",
+        "ko": "할 거면 제대로 끝까지 다 하자."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "raise the bar",
+    "meaning": "기준을 높이다, 수준을 끌어올리다",
+    "note": "품질·성과의 기준을 더 높일 때. raise the bar for ~(~의 기준을 높이다). 칭찬·업무에서 자주. 반대 lower the bar(기준을 낮추다). set the bar(기준을 정하다).",
+    "examples": [
+      {
+        "en": "Their new phone really raised the bar for the industry.",
+        "ko": "그들의 신형 폰은 업계의 기준을 확 높였다."
+      },
+      {
+        "en": "Every year she raises the bar for herself.",
+        "ko": "그녀는 매년 스스로 기준을 높인다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "a drop in the bucket",
+    "meaning": "새 발의 피, 아주 적은 양",
+    "note": "필요한 것에 비해 턱없이 적은 양. 영국식 a drop in the ocean. 중립. 비슷한 a fraction, peanuts(구어, 푼돈).",
+    "examples": [
+      {
+        "en": "A $1,000 donation is a drop in the bucket compared to what they need.",
+        "ko": "천 달러 기부는 그들이 필요한 액수에 비하면 새 발의 피다."
+      },
+      {
+        "en": "These cuts are just a drop in the bucket.",
+        "ko": "이 정도 삭감은 새 발의 피일 뿐이다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "play it safe",
+    "meaning": "안전하게 가다, 모험하지 않다",
+    "note": "위험을 피하고 조심스러운 선택을 할 때. Let's play it safe and leave early.(안전하게 일찍 출발하자) 캐주얼~중립. 반대 take a risk, go out on a limb.",
+    "examples": [
+      {
+        "en": "Let's play it safe and book the tickets now.",
+        "ko": "안전하게 지금 표를 예매하자."
+      },
+      {
+        "en": "Investors are playing it safe until the market settles.",
+        "ko": "투자자들은 시장이 안정될 때까지 몸을 사리고 있다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "cold turkey",
+    "meaning": "(습관을) 한 번에 딱 끊는, 갑자기 끊는",
+    "note": "담배·커피·SNS 같은 습관을 서서히가 아니라 단번에 끊을 때. quit/go cold turkey. 캐주얼.",
+    "examples": [
+      {
+        "en": "He quit smoking cold turkey.",
+        "ko": "그는 담배를 단번에 딱 끊었다."
+      },
+      {
+        "en": "I went cold turkey on social media for a month.",
+        "ko": "한 달 동안 SNS를 완전히 끊었어."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "go out on a limb",
+    "meaning": "(위험을 무릅쓰고) 과감하게 나서다, 소신 발언하다",
+    "note": "나뭇가지 끝으로 나가는 위험한 모습에서 유래. 남들이 지지하지 않을 수도 있는 의견이나 행동을 할 때. I'll go out on a limb and say ~(과감하게 말하자면 ~). 중립.",
+    "examples": [
+      {
+        "en": "I'll go out on a limb and say this will be our best year.",
+        "ko": "과감하게 말해 볼게. 올해가 우리 최고의 해가 될 거야."
+      },
+      {
+        "en": "She went out on a limb to support my proposal.",
+        "ko": "그녀는 위험을 무릅쓰고 내 제안을 지지해 줬다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "get one's act together",
+    "meaning": "정신 차리다, 제대로 하기 시작하다",
+    "note": "엉망이던 사람이 태도·생활을 바로잡을 때. 주로 충고·질책으로: You need to get your act together. 캐주얼. 비슷한 pull oneself together(감정을 추스르다), shape up.",
+    "examples": [
+      {
+        "en": "You need to get your act together before the exam.",
+        "ko": "시험 전에 정신 좀 차려."
+      },
+      {
+        "en": "The team finally got its act together in the second half.",
+        "ko": "그 팀은 후반전에야 제대로 경기하기 시작했다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "idiom",
+    "term": "last but not least",
+    "meaning": "마지막으로 (그렇다고 덜 중요한 건 아닌)",
+    "note": "순서상 마지막이지만 중요하다는 뜻으로 소개·발표 끝에 씀. 중립, 발표·연설 단골.",
+    "examples": [
+      {
+        "en": "And last but not least, let's thank our volunteers.",
+        "ko": "그리고 마지막으로, 자원봉사자분들께 감사드립니다."
+      },
+      {
+        "en": "Last but not least, don't forget to back up your files.",
+        "ko": "마지막으로 중요한 것, 파일 백업 잊지 마세요."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "bipartisan",
+    "meaning": "(형) 초당적인, 양당이 함께하는",
+    "note": "미국 정치에서 공화·민주 양당이 함께 지지하는. bipartisan bill/support/deal(초당적 법안/지지/합의). 반대 partisan(당파적인). 뉴스 필수 단어.",
+    "examples": [
+      {
+        "en": "The Senate passed a bipartisan bill to speed up data center approvals.",
+        "ko": "상원은 데이터센터 승인을 앞당기는 초당적 법안을 통과시켰다."
+      },
+      {
+        "en": "The plan has strong bipartisan support.",
+        "ko": "그 계획은 양당의 강한 지지를 받고 있다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "wreckage",
+    "meaning": "(명) (사고·폭격의) 잔해",
+    "note": "부서진 차·비행기·건물의 남은 조각. search the wreckage(잔해를 수색하다), pulled from the wreckage. 셀 수 없는 명사. rubble(돌무더기, 앱에 저장됨)은 주로 건물 잔해.",
+    "examples": [
+      {
+        "en": "Rescue teams searched the wreckage after the strike on Kyiv.",
+        "ko": "키이우 공습 후 구조대가 잔해를 수색했다."
+      },
+      {
+        "en": "Investigators are examining the wreckage of the plane.",
+        "ko": "조사관들이 비행기 잔해를 살펴보고 있다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "allay",
+    "meaning": "(동) (두려움·우려를) 누그러뜨리다, 가라앉히다",
+    "note": "allay fears/concerns/doubts(두려움/우려/의심을 덜어주다). 주로 부정문: fail to allay fears(우려를 잠재우지 못하다). 격식체·뉴스. 비슷한 ease, calm, soothe.",
+    "examples": [
+      {
+        "en": "The IPO failed to allay fears of an AI bubble.",
+        "ko": "그 IPO는 AI 거품 우려를 잠재우지 못했다."
+      },
+      {
+        "en": "The CEO tried to allay investors' concerns.",
+        "ko": "CEO는 투자자들의 우려를 달래려 했다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "bubble",
+    "meaning": "(명) (자산 가격의) 거품; 비눗방울",
+    "note": "실제 가치보다 가격이 과도하게 오른 상태. AI bubble, housing/tech bubble, the bubble bursts(거품이 꺼지다). 일상: live in a bubble(세상 물정 모르고 살다).",
+    "examples": [
+      {
+        "en": "Some investors worry the AI boom is a bubble.",
+        "ko": "일부 투자자들은 AI 붐이 거품일까 걱정한다."
+      },
+      {
+        "en": "When the housing bubble burst, prices crashed.",
+        "ko": "주택 거품이 꺼지자 가격이 폭락했다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "complications",
+    "meaning": "(명, 주로 복수) 합병증; 복잡한 문제",
+    "note": "의학: 병·수술 후 생기는 추가 문제(complications from surgery, die from complications). 일반: 일을 꼬이게 하는 문제(There's a complication.). 동사 complicate(복잡하게 하다).",
+    "examples": [
+      {
+        "en": "The hippo died following complications from swallowing a hat.",
+        "ko": "그 하마는 모자를 삼킨 뒤 생긴 합병증으로 죽었다."
+      },
+      {
+        "en": "There's been a complication with your order.",
+        "ko": "주문 건에 문제가 좀 생겼습니다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "ingest",
+    "meaning": "(동) (음식·물질을) 섭취하다, 삼키다; (데이터를) 받아들이다",
+    "note": "격식 있는 '먹다, 삼키다', 의학·뉴스에서 씀(ingest poison/a foreign object). IT에서 데이터를 시스템에 수집해 넣는 것(ingest data). 명사 ingestion. 일상에선 swallow, eat.",
+    "examples": [
+      {
+        "en": "The animal ingested part of a visitor's knitted hat.",
+        "ko": "그 동물은 방문객의 털모자 일부를 삼켰다."
+      },
+      {
+        "en": "The system can ingest millions of records a day.",
+        "ko": "그 시스템은 하루에 수백만 건의 데이터를 수집할 수 있다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "record-breaking",
+    "meaning": "(형) 기록적인, 기록을 깨는",
+    "note": "이전 최고 기록을 넘어선. record-breaking rainfall/heat/sales. 비슷한 record(형용사로: record high 사상 최고치), unprecedented(전례 없는).",
+    "examples": [
+      {
+        "en": "Record-breaking rainfall hit the San Francisco Bay Area.",
+        "ko": "샌프란시스코 베이 지역에 기록적인 폭우가 쏟아졌다."
+      },
+      {
+        "en": "The movie had a record-breaking opening weekend.",
+        "ko": "그 영화는 개봉 첫 주말 기록을 갈아치웠다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "atmospheric river",
+    "meaning": "(명) 대기의 강 (대량의 수증기를 운반하는 좁고 긴 기류)",
+    "note": "미국 서부 폭우 뉴스 단골 기상 용어. 하늘의 강처럼 수증기를 실어 와 폭우·폭설을 일으킴. an atmospheric river storm.",
+    "examples": [
+      {
+        "en": "An atmospheric river brought record rain to California.",
+        "ko": "대기의 강이 캘리포니아에 기록적인 비를 몰고 왔다."
+      },
+      {
+        "en": "Another atmospheric river is expected next week.",
+        "ko": "다음 주에 또 대기의 강이 올 것으로 예상된다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "certification",
+    "meaning": "(명) (선거 결과의) 공식 인증; 자격증, 인증",
+    "note": "선거 뉴스에서 결과를 공식 확정하는 절차(certification of the election results). 일반: 자격증·인증(get certification in ~). 동사 certify(인증하다, 증명하다).",
+    "examples": [
+      {
+        "en": "The Justice Department dropped its lawsuit over the Senate race certification.",
+        "ko": "법무부는 상원 선거 결과 인증 관련 소송을 취하했다."
+      },
+      {
+        "en": "You need a certification to teach yoga.",
+        "ko": "요가를 가르치려면 자격증이 필요하다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "word",
+    "term": "moot",
+    "meaning": "(형) 무의미해진, 더 이상 다룰 필요가 없는; 논란의 여지가 있는",
+    "note": "미국 법률·뉴스에서 a moot point/case = 상황이 바뀌어 더 이상 의미 없는 문제. The question is moot now.(이제 그건 의미 없는 얘기야) 영국식에선 '논란이 있는'이라는 뜻도. 발음 [무트].",
+    "examples": [
+      {
+        "en": "The Justice Department said the case was moot.",
+        "ko": "법무부는 그 소송이 더 이상 의미가 없다고 밝혔다."
+      },
+      {
+        "en": "Since the event was canceled, the question is moot.",
+        "ko": "행사가 취소됐으니 그 질문은 의미가 없어."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "there's no point in ~ing",
+    "meaning": "~해 봐야 소용없다, ~할 필요 없다",
+    "note": "노력해도 의미가 없을 때. There's no point (in) + 동사ing. in은 생략 가능. 비슷한 it's no use ~ing, it's pointless to ~. 반대 It's worth ~ing(앱의 be worth ~ing).",
+    "examples": [
+      {
+        "en": "There's no point in arguing. He won't change his mind.",
+        "ko": "따져 봐야 소용없어. 그는 생각 안 바꿀 거야."
+      },
+      {
+        "en": "There's no point waiting. The store's closed.",
+        "ko": "기다려 봐야 소용없어. 가게 문 닫았어."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "be meant to",
+    "meaning": "~하기로 되어 있다, ~해야 한다; ~할 운명이다",
+    "note": "① 원래 의도·역할: This button is meant to reset the app.(이 버튼은 앱 초기화용이야) ② 해야 하는 일(be supposed to와 비슷, 앱에 저장됨). ③ 운명: We were meant to be.(우린 운명이었어)",
+    "examples": [
+      {
+        "en": "This tool is meant to save time, not create more work.",
+        "ko": "이 도구는 시간을 아끼라고 만든 거지, 일을 더 만들려는 게 아니야."
+      },
+      {
+        "en": "I think they were meant to be together.",
+        "ko": "그 둘은 함께할 운명이었던 것 같아."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "at any rate",
+    "meaning": "어쨌든, 아무튼",
+    "note": "이야기를 정리하거나 핵심으로 돌아갈 때. 비슷한 anyway(더 캐주얼), in any case. 대화·글 모두.",
+    "examples": [
+      {
+        "en": "I'm not sure what happened. At any rate, it's fixed now.",
+        "ko": "무슨 일이었는지는 모르겠지만, 아무튼 이제 고쳐졌어."
+      },
+      {
+        "en": "It might rain. At any rate, bring a jacket.",
+        "ko": "비가 올지도 몰라. 어쨌든 겉옷 챙겨."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "all of a sudden",
+    "meaning": "갑자기",
+    "note": "예고 없이 갑자기. suddenly보다 구어적이고 극적인 느낌. out of the blue(앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "All of a sudden, the lights went out.",
+        "ko": "갑자기 불이 나갔다."
+      },
+      {
+        "en": "He was fine, and then all of a sudden he got angry.",
+        "ko": "멀쩡하더니 갑자기 화를 냈어."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "sooner or later",
+    "meaning": "조만간, 언젠가는",
+    "note": "시기는 몰라도 결국 일어날 일. 비슷한 eventually, at some point. be bound to(반드시 ~할 것이다, 앱에 저장됨)와 함께 쓰기 좋음.",
+    "examples": [
+      {
+        "en": "Sooner or later, you'll have to tell him the truth.",
+        "ko": "조만간 그에게 사실을 말해야 할 거야."
+      },
+      {
+        "en": "Prices will come down sooner or later.",
+        "ko": "가격은 언젠가는 내려갈 거야."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "on purpose",
+    "meaning": "일부러, 고의로",
+    "note": "의도적으로. 반대 by accident(우연히, 실수로). 비슷한 deliberately(앱의 deliberate 참고), intentionally.",
+    "examples": [
+      {
+        "en": "Did you leave the door open on purpose?",
+        "ko": "문 일부러 열어 둔 거야?"
+      },
+      {
+        "en": "Sorry, I didn't do it on purpose. It was an accident.",
+        "ko": "미안, 일부러 그런 거 아니야. 실수였어."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "to some extent",
+    "meaning": "어느 정도는, 일정 부분",
+    "note": "완전히는 아니지만 부분적으로 맞을 때. to a large extent(상당 부분), to what extent(어느 정도까지). in a sense(앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "I agree with you to some extent.",
+        "ko": "어느 정도는 네 말에 동의해."
+      },
+      {
+        "en": "To some extent, the delay was our fault.",
+        "ko": "그 지연은 일정 부분 우리 잘못이었다."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "more or less",
+    "meaning": "대략, 거의",
+    "note": "정확하진 않지만 거의 그렇다는 뜻. The work is more or less done.(일은 거의 끝났어) 비슷한 roughly, approximately, pretty much(구어).",
+    "examples": [
+      {
+        "en": "The project is more or less finished.",
+        "ko": "프로젝트는 거의 끝났어."
+      },
+      {
+        "en": "It'll take more or less an hour.",
+        "ko": "대략 한 시간쯤 걸릴 거야."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "let me know if",
+    "meaning": "~하면 알려 줘(주세요)",
+    "note": "부탁·제안 뒤에 붙이는 업무·일상 필수 표현. Let me know if you have any questions.(궁금한 거 있으면 말씀해 주세요) let me know + when/what/how도 가능. feel free to(앱에 저장됨)와 함께 이메일 마무리 단골.",
+    "examples": [
+      {
+        "en": "Let me know if you need any help.",
+        "ko": "도움 필요하면 말해 줘."
+      },
+      {
+        "en": "Please let me know when you arrive.",
+        "ko": "도착하면 알려 주세요."
+      }
+    ],
+    "added": "2026-11-21"
+  },
+  {
+    "type": "phrase",
+    "term": "as usual",
+    "meaning": "평소처럼, 늘 그렇듯",
+    "note": "평소와 같을 때. 약간 비꼬는 뉘앙스로도 씀(He's late, as usual. 늘 그렇듯 또 늦었네). 비슷한 as always.",
+    "examples": [
+      {
+        "en": "As usual, the meeting started late.",
+        "ko": "늘 그렇듯 회의가 늦게 시작했다."
+      },
+      {
+        "en": "Let's meet at the café as usual.",
+        "ko": "평소처럼 그 카페에서 만나자."
+      }
+    ],
+    "added": "2026-11-21"
   }
 ]
