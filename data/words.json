@@ -8886,5 +8886,515 @@
       }
     ],
     "added": "2026-11-22"
+  },
+  {
+    "type": "idiom",
+    "term": "hit a snag",
+    "meaning": "(예상치 못한) 문제에 부딪히다, 차질이 생기다",
+    "note": "일이 진행되다 작은 장애물에 걸렸을 때. snag = 걸리는 돌출부. hit/run into a snag. 업무·뉴스 모두 중립. 비슷한 run into trouble, hit a roadblock.",
+    "examples": [
+      {
+        "en": "The project hit a snag when a key supplier backed out.",
+        "ko": "핵심 공급업체가 빠지면서 프로젝트에 차질이 생겼다."
+      },
+      {
+        "en": "Talks hit a snag over the final price.",
+        "ko": "최종 가격 문제로 협상이 난관에 부딪혔다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "miss the mark",
+    "meaning": "목표에 못 미치다, 빗나가다",
+    "note": "기대·목표·의도를 제대로 맞추지 못했을 때. 광고·전략·농담이 안 통할 때 자주. 반대 hit the mark(적중하다). hit the nail on the head(앱에 저장됨)와 반대 느낌.",
+    "examples": [
+      {
+        "en": "The new ad campaign completely missed the mark.",
+        "ko": "새 광고 캠페인은 완전히 헛다리를 짚었다."
+      },
+      {
+        "en": "His joke missed the mark and nobody laughed.",
+        "ko": "그의 농담은 빗나가서 아무도 웃지 않았다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "spread yourself too thin",
+    "meaning": "너무 많은 일을 벌여 하나도 제대로 못 하다",
+    "note": "버터를 너무 얇게 펴 바르는 모습. 시간·에너지를 여러 곳에 나눠 지칠 때. 조언·반성으로. bite off more than you can chew(앱에 저장됨)와 비슷하지만 '분산'에 초점.",
+    "examples": [
+      {
+        "en": "Don't spread yourself too thin. Focus on one project.",
+        "ko": "너무 많이 벌이지 마. 프로젝트 하나에 집중해."
+      },
+      {
+        "en": "She's spread too thin between work, school and family.",
+        "ko": "그녀는 일, 학교, 가족 사이에서 너무 지쳐 있다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "get a head start",
+    "meaning": "남보다 먼저 시작하다, 유리하게 출발하다",
+    "note": "경쟁·일에서 남보다 일찍 시작해 앞서는 것. get a head start on ~. 중립. 비슷한 get a jump on, early start.",
+    "examples": [
+      {
+        "en": "Let's get a head start on the report this weekend.",
+        "ko": "이번 주말에 보고서 미리 시작해 두자."
+      },
+      {
+        "en": "Kids who read early get a head start in school.",
+        "ko": "일찍 책을 읽는 아이들은 학교에서 유리하게 출발한다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "keep one's fingers crossed",
+    "meaning": "행운을 빌다, 잘되길 바라다",
+    "note": "손가락을 꼬아 행운을 비는 제스처에서. I'm keeping my fingers crossed (for you).(잘되길 빌게) 줄여서 Fingers crossed!(행운을 빌어!) 캐주얼.",
+    "examples": [
+      {
+        "en": "I'm keeping my fingers crossed for your interview.",
+        "ko": "면접 잘되길 빌고 있을게."
+      },
+      {
+        "en": "Fingers crossed it doesn't rain tomorrow.",
+        "ko": "내일 비 안 오길 바라자."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "have a lot on one's plate",
+    "meaning": "할 일이 산더미다, 신경 쓸 게 많다",
+    "note": "처리할 일·걱정이 많을 때. I have a lot on my plate right now.(지금 일이 너무 많아) 일상·업무 모두 중립. 비슷한 be swamped, have one's hands full.",
+    "examples": [
+      {
+        "en": "I'd love to help, but I have a lot on my plate this week.",
+        "ko": "돕고 싶은데 이번 주 할 일이 산더미야."
+      },
+      {
+        "en": "The new manager has a lot on her plate.",
+        "ko": "새 매니저는 신경 쓸 게 많다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "a close call",
+    "meaning": "아슬아슬하게 피한 위기, 간발의 차",
+    "note": "사고·실패를 아주 아슬아슬하게 피했을 때. That was a close call!(큰일 날 뻔했다!) 또 결과가 아슬아슬하게 갈린 판정(a close call by the referee). 비슷한 a near miss, by the skin of one's teeth(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "That was a close call. The car almost hit us.",
+        "ko": "큰일 날 뻔했다. 차가 우리를 칠 뻔했어."
+      },
+      {
+        "en": "The election was a close call.",
+        "ko": "그 선거는 간발의 차로 갈렸다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "kill time",
+    "meaning": "시간을 때우다",
+    "note": "기다리는 동안 남는 시간을 보낼 때. kill time by ~ing. 캐주얼. 비슷한 pass the time.",
+    "examples": [
+      {
+        "en": "I killed time at the airport by reading.",
+        "ko": "공항에서 책 읽으며 시간을 때웠다."
+      },
+      {
+        "en": "We have an hour to kill before the movie.",
+        "ko": "영화 시작 전에 한 시간 때워야 해."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "light at the end of the tunnel",
+    "meaning": "어려움의 끝, 희망의 빛",
+    "note": "긴 고생 끝에 해결이 보일 때. see (the) light at the end of the tunnel. 중립, 뉴스·일상 모두.",
+    "examples": [
+      {
+        "en": "After months of losses, the company finally sees light at the end of the tunnel.",
+        "ko": "몇 달간 적자 끝에 회사는 드디어 희망이 보인다."
+      },
+      {
+        "en": "Exams are almost over. There's light at the end of the tunnel.",
+        "ko": "시험이 거의 끝났어. 이제 끝이 보인다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "take a back seat",
+    "meaning": "뒤로 물러나다, 덜 중요해지다",
+    "note": "적극적 역할에서 물러나거나, 다른 일에 밀려 우선순위가 낮아질 때. take a back seat to ~(~에 밀리다). 중립. 반대 take the lead, take center stage.",
+    "examples": [
+      {
+        "en": "He's taking a back seat and letting his team lead.",
+        "ko": "그는 뒤로 물러나 팀원들이 이끌게 하고 있다."
+      },
+      {
+        "en": "My hobbies took a back seat when I started my new job.",
+        "ko": "새 일을 시작하면서 취미는 뒷전이 됐다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "majority",
+    "meaning": "(명) 과반수, 다수(당)",
+    "note": "전체의 절반을 넘는 수. win/hold a House majority(하원 다수당이 되다/을 유지하다), the majority of ~(~의 대다수), majority leader(다수당 원내대표). 반대 minority(소수).",
+    "examples": [
+      {
+        "en": "Democrats won a House majority in the midterms.",
+        "ko": "민주당이 중간선거에서 하원 과반을 차지했다."
+      },
+      {
+        "en": "The majority of employees support the plan.",
+        "ko": "직원 대다수가 그 계획을 지지한다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "looming",
+    "meaning": "(형) 곧 닥칠 듯한, 다가오는 (주로 위협적인 것)",
+    "note": "불길하거나 부담스러운 일이 임박할 때. a looming deadline/crisis/challenge/strike. 동사 loom(어렴풋이 나타나다; 불길하게 다가오다: loom large 크게 다가오다).",
+    "examples": [
+      {
+        "en": "Schumer faces a looming leadership challenge.",
+        "ko": "슈머는 다가오는 원내대표 도전에 직면해 있다."
+      },
+      {
+        "en": "With a deadline looming, the team worked all weekend.",
+        "ko": "마감이 다가오자 팀은 주말 내내 일했다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "hack",
+    "meaning": "(동) 해킹하다; (난폭하게) 자르다 / (명) 해킹; (생활) 요령",
+    "note": "컴퓨터 시스템에 불법 침입. be hacked(해킹당하다), a data hack. 일상 명사 life hack(생활 꿀팁). 구어 can't hack it(감당 못 하다). 명사 hacker.",
+    "examples": [
+      {
+        "en": "A national crime database was reportedly hacked.",
+        "ko": "국가 범죄 데이터베이스가 해킹당한 것으로 전해졌다."
+      },
+      {
+        "en": "Here's a simple life hack for keeping bread fresh.",
+        "ko": "빵을 신선하게 보관하는 간단한 꿀팁이 있어."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "cyberattack",
+    "meaning": "(명) 사이버 공격",
+    "note": "컴퓨터망·시스템을 노린 공격. launch a cyberattack, be hit by a cyberattack, a potential cyberattack. 비슷한 hack, breach(앱에 저장됨, data breach).",
+    "examples": [
+      {
+        "en": "The FBI is investigating a potential cyberattack.",
+        "ko": "FBI가 사이버 공격 가능성을 조사하고 있다."
+      },
+      {
+        "en": "The hospital was hit by a cyberattack last week.",
+        "ko": "그 병원은 지난주 사이버 공격을 당했다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "expose",
+    "meaning": "(동) 폭로하다, 드러내다; (위험에) 노출시키다",
+    "note": "숨겨진 것을 드러내다: expose corruption/a scandal/the truth. 위험·환경에 노출: be exposed to ~(~에 노출되다). 명사 exposure(노출), exposé(폭로 기사).",
+    "examples": [
+      {
+        "en": "Trump said the hack might expose a 'hoax'.",
+        "ko": "트럼프는 그 해킹이 '사기극'을 폭로할 수도 있다고 말했다."
+      },
+      {
+        "en": "Workers were exposed to toxic chemicals.",
+        "ko": "노동자들이 유독 화학물질에 노출됐다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "hoax",
+    "meaning": "(명) 날조, 거짓 장난, 사기극",
+    "note": "사람들을 속이려고 꾸며낸 거짓. a hoax call/email(장난 전화/사기 메일), turn out to be a hoax(거짓으로 밝혀지다). 정치에선 상대 주장을 '날조'라고 깎아내릴 때 자주. 비슷한 fake, fraud(사기, 금전).",
+    "examples": [
+      {
+        "en": "The bomb threat turned out to be a hoax.",
+        "ko": "폭탄 위협은 장난으로 밝혀졌다."
+      },
+      {
+        "en": "He called the investigation a 'hoax'.",
+        "ko": "그는 그 수사를 '날조'라고 불렀다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "squeeze",
+    "meaning": "(명) (경제적) 압박, 쥐어짜기 / (동) 짜다, 압박하다",
+    "note": "경제 뉴스: an economic squeeze on ~(~에 대한 경제적 압박), a budget squeeze(예산 압박), squeeze profits(이익을 압박하다). 일상: squeeze a lemon(레몬을 짜다), squeeze in(시간을 쪼개 넣다: I can squeeze you in at 3.).",
+    "examples": [
+      {
+        "en": "Trump favors an economic squeeze on Iran over new strikes.",
+        "ko": "트럼프는 추가 공습보다 이란에 대한 경제적 압박을 선호한다."
+      },
+      {
+        "en": "I can squeeze you in at 3 o'clock.",
+        "ko": "3시에 시간 내서 봐 드릴 수 있어요."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "feared",
+    "meaning": "(형) ~한 것으로 우려되는",
+    "note": "뉴스 공식 표현: be feared dead/trapped/missing(사망/매몰/실종된 것으로 우려되다), up to seven feared trapped(최대 7명 매몰 추정). 확인되지 않은 피해를 전할 때.",
+    "examples": [
+      {
+        "en": "Up to seven people are feared trapped beneath the rubble.",
+        "ko": "최대 7명이 잔해 아래 갇혀 있는 것으로 우려된다."
+      },
+      {
+        "en": "Two climbers are feared dead after the avalanche.",
+        "ko": "눈사태 이후 등반가 두 명이 숨진 것으로 우려된다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "state visit",
+    "meaning": "(명) 국빈 방문",
+    "note": "국가 원수·정상이 다른 나라를 공식 초청받아 방문하는 최고 수준의 외교 방문. pay/make a state visit to ~, a two-day state visit. official visit(공식 방문)보다 격이 높음.",
+    "examples": [
+      {
+        "en": "Nepal's prime minister arrived in India for a two-day state visit.",
+        "ko": "네팔 총리가 이틀간의 국빈 방문을 위해 인도에 도착했다."
+      },
+      {
+        "en": "The king will pay a state visit to Japan next spring.",
+        "ko": "국왕은 내년 봄 일본을 국빈 방문할 예정이다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "declassify",
+    "meaning": "(동) (기밀을) 해제하다, 공개하다",
+    "note": "정부 기밀 문서·자료의 비밀 등급을 풀어 공개할 때. declassify documents/files/footage. 반대 classify(기밀로 분류하다), classified(기밀의: classified information).",
+    "examples": [
+      {
+        "en": "The Pentagon declassified new UFO footage.",
+        "ko": "국방부가 새로운 UFO 영상을 기밀 해제했다."
+      },
+      {
+        "en": "The documents will be declassified after 25 years.",
+        "ko": "그 문서들은 25년 후 기밀 해제된다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "be scheduled to",
+    "meaning": "~할 예정이다",
+    "note": "일정이 정해진 일. be scheduled to + 동사 / be scheduled for + 시간. 뉴스·업무 공지 단골. 비슷한 be set to, be due to(앱의 due to 참고), be expected to(앱에 저장됨, 예상).",
+    "examples": [
+      {
+        "en": "The prime minister is scheduled to arrive on Sunday.",
+        "ko": "총리는 일요일에 도착할 예정이다."
+      },
+      {
+        "en": "The meeting is scheduled for 3 p.m.",
+        "ko": "회의는 오후 3시로 잡혀 있다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "be set to",
+    "meaning": "~할 예정이다, ~할 참이다",
+    "note": "곧 일어날 일. be set to + 동사. 뉴스 헤드라인 단골(Prices set to rise 가격 인상 예정). be scheduled to보다 '곧, 확정적으로'의 느낌. 비슷한 be about to(앱에 저장됨, 더 임박).",
+    "examples": [
+      {
+        "en": "The company is set to announce its earnings next week.",
+        "ko": "그 회사는 다음 주 실적을 발표할 예정이다."
+      },
+      {
+        "en": "Gas prices are set to rise again.",
+        "ko": "휘발유 가격이 또 오를 전망이다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "on the verge of",
+    "meaning": "막 ~하려는 참인, ~ 직전인",
+    "note": "무언가가 곧 일어나기 직전. on the verge of tears/collapse/a breakthrough(울기 직전/붕괴 직전/돌파 직전). 비슷한 on the brink of(주로 나쁜 일), about to.",
+    "examples": [
+      {
+        "en": "The company is on the verge of bankruptcy.",
+        "ko": "그 회사는 파산 직전이다."
+      },
+      {
+        "en": "She was on the verge of tears.",
+        "ko": "그녀는 울기 직전이었다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "as early as",
+    "meaning": "빠르면 ~에, 이르면 ~",
+    "note": "가능한 가장 이른 시점. as early as next week/tomorrow. 뉴스에서 '이르면 ~에'로 자주. 반대 at the latest(늦어도).",
+    "examples": [
+      {
+        "en": "The vote could happen as early as Tuesday.",
+        "ko": "표결은 이르면 화요일에 이뤄질 수 있다."
+      },
+      {
+        "en": "Kids start learning English as early as age five.",
+        "ko": "아이들은 빠르면 다섯 살부터 영어를 배우기 시작한다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "at the latest",
+    "meaning": "늦어도",
+    "note": "기한의 최대치. by Friday at the latest(늦어도 금요일까지). 업무 필수. 반대 at the earliest(빨라도), as early as.",
+    "examples": [
+      {
+        "en": "Please send it by Friday at the latest.",
+        "ko": "늦어도 금요일까지 보내 주세요."
+      },
+      {
+        "en": "We'll be home by 10 at the latest.",
+        "ko": "늦어도 10시까지는 집에 갈 거야."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "by far",
+    "meaning": "단연코, 훨씬",
+    "note": "최상급·비교급을 강조. by far the best/largest(단연 최고/최대). 비교급과는 far better처럼 by 없이. 비슷한 easily, much.",
+    "examples": [
+      {
+        "en": "This is by far the best pizza in town.",
+        "ko": "여기가 단연 동네 최고의 피자집이야."
+      },
+      {
+        "en": "It was by far the largest IPO ever.",
+        "ko": "그것은 단연 사상 최대 규모의 IPO였다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "in advance",
+    "meaning": "미리, 사전에",
+    "note": "어떤 일보다 앞서. book/pay in advance(미리 예약/결제하다), thank you in advance(미리 감사드립니다, 이메일 단골). 비슷한 beforehand, ahead of time.",
+    "examples": [
+      {
+        "en": "Please book your tickets in advance.",
+        "ko": "표는 미리 예매해 주세요."
+      },
+      {
+        "en": "Thanks in advance for your help.",
+        "ko": "도와주셔서 미리 감사드립니다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "on average",
+    "meaning": "평균적으로",
+    "note": "통계·일반적 경향을 말할 때. On average, ~ / ~ on average. 뉴스·업무 보고 단골. 비슷한 typically, as a rule.",
+    "examples": [
+      {
+        "en": "On average, people check their phones 90 times a day.",
+        "ko": "평균적으로 사람들은 하루 90번 휴대폰을 확인한다."
+      },
+      {
+        "en": "The trip takes about two hours on average.",
+        "ko": "그 여정은 평균 두 시간쯤 걸린다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "a total of",
+    "meaning": "총 ~, 모두 합쳐 ~",
+    "note": "숫자 합계를 강조. a total of 50 people(총 50명), in total(합계로, 문장 끝). a total of + 복수 명사는 복수 동사(A total of 50 people were hurt).",
+    "examples": [
+      {
+        "en": "A total of 1,000 jobs will be cut.",
+        "ko": "총 1천 개의 일자리가 감축된다."
+      },
+      {
+        "en": "We spent $300 in total.",
+        "ko": "우리는 모두 합쳐 300달러를 썼다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "for good",
+    "meaning": "영원히, 완전히",
+    "note": "다시는 돌아오지 않게. leave/quit for good(영영 떠나다/완전히 그만두다). 캐주얼~중립. 비슷한 forever, permanently. 'for good reason'(타당한 이유로)과 구별.",
+    "examples": [
+      {
+        "en": "He left the country for good.",
+        "ko": "그는 그 나라를 영영 떠났다."
+      },
+      {
+        "en": "I think I've quit coffee for good.",
+        "ko": "나 이번엔 커피 완전히 끊은 것 같아."
+      }
+    ],
+    "added": "2026-11-23"
   }
 ]
