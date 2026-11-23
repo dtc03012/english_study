@@ -9396,5 +9396,383 @@
       }
     ],
     "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "get away with",
+    "meaning": "(잘못을 하고도) 처벌받지 않다, 무사히 넘어가다",
+    "note": "나쁜 짓을 하고도 들키지 않거나 대가를 치르지 않을 때. get away with + 명사/동사ing. You won't get away with this!(이러고도 무사할 줄 알아?) 캐주얼~중립, 뉴스 제목에서도 자주. get away(도망치다, 휴가 가다)와 구별.",
+    "examples": [
+      {
+        "en": "How Kim Jong Un gets away with building nukes.",
+        "ko": "김정은은 어떻게 핵을 만들고도 무사히 넘어가는가."
+      },
+      {
+        "en": "He thinks he can get away with lying.",
+        "ko": "그는 거짓말하고도 무사할 거라고 생각한다."
+      },
+      {
+        "en": "You won't get away with this!",
+        "ko": "이러고도 무사할 줄 알아!"
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "nuke",
+    "meaning": "(명, 구어) 핵무기 / (동) 핵 공격하다; (전자레인지에) 데우다",
+    "note": "nuclear weapon의 구어·헤드라인용 줄임말. build nukes(핵무기를 만들다). 일상 구어로 nuke leftovers(남은 음식을 전자레인지에 돌리다)라는 뜻도.",
+    "examples": [
+      {
+        "en": "The regime keeps building nukes despite sanctions.",
+        "ko": "그 정권은 제재에도 핵무기를 계속 만들고 있다."
+      },
+      {
+        "en": "Just nuke the pizza for 30 seconds.",
+        "ko": "피자 전자레인지에 30초만 돌려."
+      },
+      {
+        "en": "Experts fear the country could use nukes.",
+        "ko": "전문가들은 그 나라가 핵무기를 쓸 수 있다고 우려한다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "ghost",
+    "meaning": "(동, 구어) (연락을) 갑자기 끊고 잠수 타다 / (명) 유령",
+    "note": "SNS·연애 시대 신조어: 아무 설명 없이 연락을 끊는 것. ghost someone, get ghosted(잠수 이별당하다). 기사 제목에선 비유로 '답을 안 하고 무시하다'(Ghosting Trump). 원래 '유령'.",
+    "examples": [
+      {
+        "en": "Kim has been ghosting Trump for months.",
+        "ko": "김정은은 몇 달째 트럼프의 연락을 무시하고 있다."
+      },
+      {
+        "en": "I went on three dates with him, and then he ghosted me.",
+        "ko": "그 사람이랑 세 번 데이트했는데 갑자기 잠수 탔어."
+      },
+      {
+        "en": "The recruiter ghosted me after the final interview.",
+        "ko": "최종 면접 후 채용 담당자가 연락을 끊었다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "arsenal",
+    "meaning": "(명) (무기의) 비축, 보유량; (비유) 무기고, 수단",
+    "note": "국가가 가진 무기 전체. nuclear arsenal(핵무기 보유고), weapons arsenal. 비유로 '갖춘 수단·도구들'(an arsenal of tools/arguments). 축구팀 Arsenal도 '무기고'에서 유래.",
+    "examples": [
+      {
+        "en": "North Korea's nuclear arsenal has grown stronger.",
+        "ko": "북한의 핵무기 보유고는 더 강해졌다."
+      },
+      {
+        "en": "The company has a whole arsenal of marketing tools.",
+        "ko": "그 회사는 온갖 마케팅 수단을 갖추고 있다."
+      },
+      {
+        "en": "The treaty limits each country's arsenal.",
+        "ko": "그 조약은 각국의 무기 보유량을 제한한다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "fall behind",
+    "meaning": "뒤처지다, (지불·일정이) 밀리다",
+    "note": "경쟁·일정·진도에서 뒤떨어질 때. fall behind (on/in ~), fall further behind(더 뒤처지다). fall behind on rent/payments(월세·대금이 밀리다). 반대 keep up, catch up. play catch-up(앱에 저장됨)과 연결.",
+    "examples": [
+      {
+        "en": "Washington falls further behind in its quest to dismantle the arsenal.",
+        "ko": "워싱턴은 그 무기를 해체하려는 노력에서 더 뒤처지고 있다."
+      },
+      {
+        "en": "I fell behind on my homework while I was sick.",
+        "ko": "아픈 동안 숙제가 밀렸다."
+      },
+      {
+        "en": "They fell behind on their rent payments.",
+        "ko": "그들은 월세가 밀렸다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "quest",
+    "meaning": "(명) (오랜) 탐색, 추구, 노력",
+    "note": "어려운 목표를 오래 추구하는 것. in its quest to + 동사 / quest for ~(~을 향한 탐구). 기사·문학적 표현. 비슷한 pursuit, search, effort. 게임의 '퀘스트'와 같은 단어.",
+    "examples": [
+      {
+        "en": "The U.S. continues its quest to dismantle the nuclear program.",
+        "ko": "미국은 그 핵 프로그램을 해체하려는 노력을 이어가고 있다."
+      },
+      {
+        "en": "Her quest for the perfect coffee took her around the world.",
+        "ko": "완벽한 커피를 찾는 그녀의 여정은 전 세계로 이어졌다."
+      },
+      {
+        "en": "The company is on a quest to cut costs.",
+        "ko": "그 회사는 비용 절감에 매달리고 있다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "dismantle",
+    "meaning": "(동) 해체하다, 분해하다; (제도·조직을) 폐지하다",
+    "note": "기계·구조물을 분해하거나, 제도·조직·프로그램을 무너뜨릴 때. dismantle a nuclear program/the system/a network. 명사 dismantling. 비슷한 take apart(구어), tear down.",
+    "examples": [
+      {
+        "en": "The goal is to dismantle North Korea's nuclear arsenal.",
+        "ko": "목표는 북한의 핵무기를 해체하는 것이다."
+      },
+      {
+        "en": "Police dismantled a drug network.",
+        "ko": "경찰은 마약 조직을 소탕했다."
+      },
+      {
+        "en": "We dismantled the bed to move it.",
+        "ko": "옮기려고 침대를 분해했다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "reach",
+    "meaning": "(동) 연락이 닿다; 도달하다; (합의에) 이르다 / (명) 영향력, 범위",
+    "note": "① 연락: reach someone (by phone)(~와 연락이 닿다), try reaching ~(연락을 시도하다), can't be reached(연락이 안 되다). ② 도달: reach a goal/agreement/settlement. ③ 명사 out of reach(손이 닿지 않는). 일상 필수.",
+    "examples": [
+      {
+        "en": "Trump tried reaching Kim through established phone lines.",
+        "ko": "트럼프는 기존 전화선으로 김정은과 연락을 시도했다."
+      },
+      {
+        "en": "I couldn't reach her all day.",
+        "ko": "하루 종일 그녀와 연락이 안 됐어."
+      },
+      {
+        "en": "The two sides finally reached an agreement.",
+        "ko": "양측은 마침내 합의에 이르렀다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "established",
+    "meaning": "(형) 기존의, 확립된, 자리 잡은",
+    "note": "이미 정해져 쓰이고 있는, 공식으로 인정된. established channels/procedures(기존 채널/절차), a well-established company(자리 잡은 회사), established fact. 동사 establish(설립하다, 확립하다).",
+    "examples": [
+      {
+        "en": "He tried reaching Kim through established communications channels.",
+        "ko": "그는 기존 소통 채널을 통해 김정은에게 연락하려 했다."
+      },
+      {
+        "en": "Please follow the established procedure.",
+        "ko": "정해진 절차를 따라 주세요."
+      },
+      {
+        "en": "She's an established writer with five books.",
+        "ko": "그녀는 책 다섯 권을 낸 자리 잡은 작가다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "call back",
+    "meaning": "(다시) 전화하다, 답신 전화를 하다",
+    "note": "전화를 못 받았거나 나중에 다시 걸 때. call someone back. I'll call you back.(다시 전화할게) 명사 callback(답신 전화; 2차 오디션). return someone's call도 같은 뜻.",
+    "examples": [
+      {
+        "en": "Nobody called back.",
+        "ko": "아무도 답신 전화를 하지 않았다."
+      },
+      {
+        "en": "Can I call you back in ten minutes?",
+        "ko": "10분 뒤에 다시 전화해도 돼?"
+      },
+      {
+        "en": "Please call me back when you get this message.",
+        "ko": "이 메시지 받으면 전화 좀 주세요."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "phrase",
+    "term": "get ~ into the hands of",
+    "meaning": "~을 …의 손에 전달하다",
+    "note": "무언가를 특정 사람에게 실제로 건네는 것. get the letter into the hands of Kim(편지를 김정은 손에 전하다). 비슷한 put ~ in someone's hands. 부정적으로 fall into the wrong hands(엉뚱한 사람 손에 들어가다).",
+    "examples": [
+      {
+        "en": "The problem was getting the letter into the hands of Kim.",
+        "ko": "문제는 그 편지를 김정은의 손에 전달하는 것이었다."
+      },
+      {
+        "en": "We need to get these supplies into the hands of the people who need them.",
+        "ko": "이 물자를 필요한 사람들 손에 전해야 한다."
+      },
+      {
+        "en": "The data must not fall into the wrong hands.",
+        "ko": "그 데이터가 엉뚱한 사람 손에 들어가선 안 된다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "term",
+    "meaning": "(명) 임기; 기간, 학기; 용어; (복수) 조건, 관계",
+    "note": "정치 뉴스: first/second term(첫 번째/두 번째 임기), serve a term. 학교: spring term(봄 학기). 언어: technical term(전문 용어). 복수 terms: 조건(the terms of the deal), 관계(be on good terms 사이가 좋다). in terms of(앱에 저장됨)와 연결.",
+    "examples": [
+      {
+        "en": "During his first term, the two leaders met three times.",
+        "ko": "첫 임기 동안 두 정상은 세 번 만났다."
+      },
+      {
+        "en": "We agreed to the terms of the contract.",
+        "ko": "우리는 계약 조건에 동의했다."
+      },
+      {
+        "en": "I'm on good terms with my ex.",
+        "ko": "나는 전 애인과 사이좋게 지내."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "hatch a plan",
+    "meaning": "계획을 꾸미다, 짜내다",
+    "note": "알을 부화시키듯 (주로 몰래·교묘하게) 계획을 만들어낼 때. hatch a plan/plot/scheme. 약간 음모·장난 뉘앙스. 비슷한 come up with(앱에 저장됨), devise(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "White House officials hatched a plan to deliver the letter.",
+        "ko": "백악관 당국자들은 그 편지를 전달할 계획을 짜냈다."
+      },
+      {
+        "en": "The kids hatched a plan to surprise their mom.",
+        "ko": "아이들은 엄마를 깜짝 놀래 줄 계획을 꾸몄다."
+      },
+      {
+        "en": "They hatched a scheme to avoid paying taxes.",
+        "ko": "그들은 세금을 피할 꼼수를 짜냈다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "mission",
+    "meaning": "(명) (외교) 대표부, 사절단; 임무, 사명",
+    "note": "외교: permanent mission to the UN(유엔 상주 대표부), diplomatic mission. 일반: 임무(a rescue mission), 사명(company mission/mission statement). 원래 '보내진 것'.",
+    "examples": [
+      {
+        "en": "They waited outside North Korea's permanent mission to the United Nations.",
+        "ko": "그들은 북한의 유엔 상주 대표부 밖에서 기다렸다."
+      },
+      {
+        "en": "The rescue mission lasted three days.",
+        "ko": "구조 임무는 사흘 동안 이어졌다."
+      },
+      {
+        "en": "Our mission is to make learning easy.",
+        "ko": "우리의 사명은 배움을 쉽게 만드는 것이다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "swoop in",
+    "meaning": "갑자기 덮치다, 불쑥 나타나 끼어들다",
+    "note": "새가 먹이를 낚아채듯 재빨리 다가오거나 개입할 때. swoop in to + 동사. 경찰 단속(police swooped in), 기업 인수(a rival swooped in to buy the company)에도 씀.",
+    "examples": [
+      {
+        "en": "When the diplomat walked past, the group swooped in.",
+        "ko": "외교관이 지나가자 그 일행이 재빨리 다가갔다."
+      },
+      {
+        "en": "A rival company swooped in and bought the startup.",
+        "ko": "경쟁사가 갑자기 끼어들어 그 스타트업을 인수했다."
+      },
+      {
+        "en": "Police swooped in and arrested the suspects.",
+        "ko": "경찰이 들이닥쳐 용의자들을 체포했다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "thrust",
+    "meaning": "(동) 밀어 넣다, 들이밀다, 떠밀다 / (명) 요지, 핵심; 추진력",
+    "note": "힘껏 갑자기 밀어 넣을 때(과거형도 thrust). thrust ~ into someone's hands(~의 손에 들이밀다), be thrust into the spotlight(갑자기 주목받게 되다). 명사 the main thrust of ~(~의 요지).",
+    "examples": [
+      {
+        "en": "The group thrust a letter into his hands.",
+        "ko": "그 일행은 그의 손에 편지를 들이밀었다."
+      },
+      {
+        "en": "She was suddenly thrust into the spotlight.",
+        "ko": "그녀는 갑자기 세간의 주목을 받게 됐다."
+      },
+      {
+        "en": "The main thrust of the report is clear.",
+        "ko": "그 보고서의 요지는 명확하다."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "toss",
+    "meaning": "(동) (가볍게) 던지다, 내던지다; (동전을) 던지다",
+    "note": "무심하게 툭 던질 때. toss the letter in front of ~(~ 앞에 편지를 내던지다), toss ~ in the trash(쓰레기통에 버리다), toss a coin(동전 던지기), toss and turn(잠 못 이루고 뒤척이다).",
+    "examples": [
+      {
+        "en": "The diplomat tossed the unopened letter in front of a U.S. representative.",
+        "ko": "그 외교관은 뜯지도 않은 편지를 미국 대표 앞에 내던졌다."
+      },
+      {
+        "en": "Just toss it in the trash.",
+        "ko": "그냥 쓰레기통에 버려."
+      },
+      {
+        "en": "I tossed and turned all night.",
+        "ko": "밤새 뒤척였어."
+      }
+    ],
+    "added": "2026-11-23"
+  },
+  {
+    "type": "word",
+    "term": "denuclearization",
+    "meaning": "(명) 비핵화",
+    "note": "핵무기를 없애는 것. denuclearization of the Korean Peninsula(한반도 비핵화), complete denuclearization. 동사 denuclearize. de-(제거) + nuclear + -ization.",
+    "examples": [
+      {
+        "en": "During Trump's first term, denuclearization was the main topic.",
+        "ko": "트럼프 첫 임기 동안 비핵화가 핵심 의제였다."
+      },
+      {
+        "en": "Talks on the denuclearization of the Korean Peninsula have stalled.",
+        "ko": "한반도 비핵화 협상은 교착 상태다."
+      },
+      {
+        "en": "The country refuses to denuclearize.",
+        "ko": "그 나라는 비핵화를 거부하고 있다."
+      }
+    ],
+    "added": "2026-11-23"
   }
 ]
