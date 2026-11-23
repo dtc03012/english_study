@@ -9774,5 +9774,515 @@
       }
     ],
     "added": "2026-11-23"
+  },
+  {
+    "type": "idiom",
+    "term": "push back (on)",
+    "meaning": "반발하다, 이의를 제기하다; (일정을) 미루다",
+    "note": "① 결정·요구에 반대하며 맞설 때: push back on the move/plan(그 조치에 반발하다). 업무·정치 단골. 명사 pushback(반발). ② 일정 연기: push back the meeting to Friday. postpone(앱에 저장됨)과 같은 뜻.",
+    "examples": [
+      {
+        "en": "Congress is pushing back on the board's decision.",
+        "ko": "의회가 이사회의 결정에 반발하고 있다."
+      },
+      {
+        "en": "Can we push back the meeting to 4 p.m.?",
+        "ko": "회의를 오후 4시로 미룰 수 있을까요?"
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "on hold",
+    "meaning": "보류된, 일시 중단된; (전화) 대기 중인",
+    "note": "① 계획·일이 잠시 멈춤: put ~ on hold(보류하다), be on hold. ② 전화 대기: I was on hold for 30 minutes.(30분 동안 대기했어) 중립, 일상·업무·뉴스 모두.",
+    "examples": [
+      {
+        "en": "A court order put the detonation on hold.",
+        "ko": "법원 명령으로 폭파 작업이 보류됐다."
+      },
+      {
+        "en": "I was on hold with customer service for an hour.",
+        "ko": "고객센터 연결 대기만 한 시간 했어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "break down",
+    "meaning": "결렬되다, 무너지다; 고장 나다; 울음을 터뜨리다; 세분하다",
+    "note": "문맥별: ① 협상 결렬: talks broke down. ② 기계 고장: My car broke down. ③ 감정 붕괴: She broke down in tears. ④ 분석: break down the numbers(수치를 세분하다). 명사 breakdown(결렬; 고장; 신경 쇠약; 세부 내역).",
+    "examples": [
+      {
+        "en": "Climate negotiations broke down for the first time in over a decade.",
+        "ko": "기후 협상이 10여 년 만에 처음으로 결렬됐다."
+      },
+      {
+        "en": "My car broke down on the highway.",
+        "ko": "고속도로에서 차가 고장 났어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "go too far",
+    "meaning": "도를 넘다, 지나치다",
+    "note": "말·행동이 허용 범위를 넘을 때. This time you've gone too far.(이번엔 너 선 넘었어) 뉴스에선 판결·비판에 자주(The judge ruled that the messages went too far). 비슷한 cross the line, overstep.",
+    "examples": [
+      {
+        "en": "A judge ruled that the messages to staff went too far.",
+        "ko": "판사는 직원들에게 보낸 메시지가 도를 넘었다고 판결했다."
+      },
+      {
+        "en": "That joke went too far.",
+        "ko": "그 농담은 선을 넘었어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "in the same boat",
+    "meaning": "같은 처지인, 같은 배를 탄",
+    "note": "같은 어려움을 함께 겪고 있을 때. We're all in the same boat.(우리 다 같은 처지야) 캐주얼~중립.",
+    "examples": [
+      {
+        "en": "Don't worry, we're all in the same boat.",
+        "ko": "걱정 마, 우리 다 같은 처지야."
+      },
+      {
+        "en": "Many small businesses are in the same boat after the price hike.",
+        "ko": "가격 인상 후 많은 소상공인이 같은 처지에 놓였다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "keep a low profile",
+    "meaning": "눈에 띄지 않게 지내다, 몸을 낮추다",
+    "note": "관심을 끌지 않으려고 조용히 지낼 때. 스캔들 후 유명인·정치인 기사에 자주. 반대 a high profile(세간의 주목). under the radar(앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "After the scandal, he kept a low profile for months.",
+        "ko": "스캔들 이후 그는 몇 달 동안 조용히 지냈다."
+      },
+      {
+        "en": "I'm keeping a low profile at work until the reorganization is over.",
+        "ko": "조직 개편이 끝날 때까지 회사에서 몸 사리고 있어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "pull strings",
+    "meaning": "연줄을 이용하다, 뒤에서 손을 쓰다",
+    "note": "인맥·영향력을 이용해 남몰래 일을 처리할 때. 인형극의 줄을 당기는 모습. 약간 부정적. pull some strings for someone(~를 위해 힘 좀 써주다).",
+    "examples": [
+      {
+        "en": "He pulled some strings to get his son a job.",
+        "ko": "그는 연줄을 이용해 아들에게 일자리를 구해 줬다."
+      },
+      {
+        "en": "Can you pull a few strings and get us tickets?",
+        "ko": "힘 좀 써서 우리 표 좀 구해 줄 수 있어?"
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "out of touch",
+    "meaning": "(현실·유행을) 잘 모르는, 동떨어진; 연락이 끊긴",
+    "note": "① 현실·대중과 동떨어진: out of touch with ordinary people(서민과 동떨어진). 정치 비판 단골. ② 연락이 끊긴: We've been out of touch for years. 반대 in touch.",
+    "examples": [
+      {
+        "en": "Critics say the government is out of touch with ordinary people.",
+        "ko": "비판자들은 정부가 서민의 삶과 동떨어져 있다고 말한다."
+      },
+      {
+        "en": "I've been out of touch with my old classmates.",
+        "ko": "예전 동창들과 연락이 끊겼어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "the writing is on the wall",
+    "meaning": "불길한 징조가 보이다, 끝이 뻔히 보이다",
+    "note": "나쁜 결과(실패·해고·몰락)가 곧 닥칠 조짐이 분명할 때. 성경 이야기에서 유래. 중립.",
+    "examples": [
+      {
+        "en": "When the layoffs started, the writing was on the wall.",
+        "ko": "정리해고가 시작되자 결말이 뻔히 보였다."
+      },
+      {
+        "en": "For the old store, the writing has been on the wall for years.",
+        "ko": "그 오래된 가게는 몇 년 전부터 망할 조짐이 보였다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "get a word in edgewise",
+    "meaning": "(남이 말을 독차지해서) 한마디 끼어들다",
+    "note": "주로 부정문 can't get a word in edgewise = 말할 틈이 없다. 수다스러운 사람을 묘사할 때. 캐주얼. 영국식 edgeways.",
+    "examples": [
+      {
+        "en": "She talked so much I couldn't get a word in edgewise.",
+        "ko": "그녀가 말을 너무 많이 해서 한마디도 끼어들 수가 없었어."
+      },
+      {
+        "en": "Let me get a word in edgewise, please!",
+        "ko": "저도 한마디만 하게 해 주세요!"
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "gridlock",
+    "meaning": "(명) (정치적) 교착 상태; 교통 체증",
+    "note": "① 정치: political gridlock(정치적 교착, 법안 처리 마비). ② 교통: 사방이 꽉 막힌 체증. stall(앱에 저장됨), deadlock과 비슷.",
+    "examples": [
+      {
+        "en": "Protesters marched over the cost of living and political gridlock.",
+        "ko": "시위대는 생활비 부담과 정치적 교착 상태에 항의하며 행진했다."
+      },
+      {
+        "en": "Downtown was in total gridlock after the game.",
+        "ko": "경기 후 시내는 완전히 꽉 막혔다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "cost of living",
+    "meaning": "(명) 생활비, 물가",
+    "note": "일상생활에 드는 비용. the rising cost of living(오르는 생활비), cost-of-living crisis(생활비 위기, 영국 뉴스 단골), cost-of-living adjustment(물가 연동 임금 인상).",
+    "examples": [
+      {
+        "en": "Tens of thousands marched in Paris over the cost of living.",
+        "ko": "수만 명이 생활비 부담에 항의하며 파리에서 행진했다."
+      },
+      {
+        "en": "The cost of living in Seoul keeps going up.",
+        "ko": "서울의 생활비는 계속 오르고 있다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "detonation",
+    "meaning": "(명) 폭발, 기폭",
+    "note": "폭발물을 터뜨리는 것. a controlled detonation(통제된 폭파 처리). 동사 detonate(폭파하다, 터뜨리다). 비슷한 explosion(더 일반적), blast.",
+    "examples": [
+      {
+        "en": "The Army planned a detonation of toxic material in Iowa.",
+        "ko": "육군은 아이오와에서 유독 물질을 폭파 처리할 계획이었다."
+      },
+      {
+        "en": "Police carried out a controlled detonation of the suspicious package.",
+        "ko": "경찰은 수상한 소포를 통제된 방식으로 폭파 처리했다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "munitions",
+    "meaning": "(명, 복수) 군수품, 탄약",
+    "note": "탄약·폭탄 등 군사용 물자. munitions plant/factory(군수 공장), supply munitions to ~(~에 탄약을 공급하다). 비슷한 ammunition(탄약, 구어 ammo), weapons.",
+    "examples": [
+      {
+        "en": "The old munitions contained toxic lead.",
+        "ko": "오래된 탄약에는 유독성 납이 들어 있었다."
+      },
+      {
+        "en": "The country is struggling to produce enough munitions.",
+        "ko": "그 나라는 충분한 탄약을 생산하느라 애쓰고 있다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "denounce",
+    "meaning": "(동) (공개적으로) 비난하다, 규탄하다",
+    "note": "공개적·공식적으로 강하게 비판할 때. denounce the attack/violence/a decision. condemn(규탄하다, 앱에 저장됨)과 비슷하지만 denounce는 '잘못이라고 공개 선언'의 뉘앙스. 명사 denunciation.",
+    "examples": [
+      {
+        "en": "Democratic officials denounced the airport arrests.",
+        "ko": "민주당 당국자들은 공항 체포를 공개 비난했다."
+      },
+      {
+        "en": "The group denounced violence of any kind.",
+        "ko": "그 단체는 어떤 형태의 폭력도 규탄했다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "unconstitutional",
+    "meaning": "(형) 위헌의",
+    "note": "헌법에 위배되는. rule ~ unconstitutional(~을 위헌으로 판결하다), unconstitutional law/ban. 반대 constitutional(합헌의). 명사 constitution(헌법).",
+    "examples": [
+      {
+        "en": "An appeals court found the funding bill unconstitutional.",
+        "ko": "항소법원은 그 예산 법안을 위헌으로 판단했다."
+      },
+      {
+        "en": "Critics argue the ban is unconstitutional.",
+        "ko": "비판자들은 그 금지 조치가 위헌이라고 주장한다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "shuttle",
+    "meaning": "(동) 왕복 운송하다, 실어 나르다 / (명) 셔틀(왕복 교통편)",
+    "note": "정해진 구간을 오가며 사람·물자를 나를 때. shuttle oil past ~(~를 지나 석유를 실어 나르다), shuttle diplomacy(왕복 외교, 중재자가 양측을 오가며 협상). 명사 airport shuttle(공항 셔틀).",
+    "examples": [
+      {
+        "en": "The U.A.E. is shuttling oil past Iran in a Hormuz operation.",
+        "ko": "아랍에미리트는 호르무즈 작전으로 이란을 우회해 석유를 실어 나르고 있다."
+      },
+      {
+        "en": "A free shuttle runs between the hotel and the airport.",
+        "ko": "호텔과 공항 사이에 무료 셔틀이 다닌다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "ruling",
+    "meaning": "(명) 판결, 결정 / (형) 지배하는, 집권한",
+    "note": "법원의 결정. a court ruling, rule that ~(~라고 판결하다), appeal a ruling(판결에 항소하다, 앱의 appeal 참고). 형용사 the ruling party(여당, 집권당).",
+    "examples": [
+      {
+        "en": "A federal appeals court ruling found the bill unconstitutional.",
+        "ko": "연방 항소법원 판결은 그 법안을 위헌으로 봤다."
+      },
+      {
+        "en": "The ruling party lost its majority.",
+        "ko": "집권당이 과반을 잃었다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "court order",
+    "meaning": "(명) 법원 명령",
+    "note": "법원이 내린 강제력 있는 명령. obtain/issue a court order, under a court order(법원 명령에 따라), violate a court order. injunction(금지 명령)과 비슷.",
+    "examples": [
+      {
+        "en": "A court order put the initial detonation on hold.",
+        "ko": "법원 명령으로 첫 폭파가 보류됐다."
+      },
+      {
+        "en": "The company was forced to hand over the data under a court order.",
+        "ko": "그 회사는 법원 명령에 따라 데이터를 넘겨야 했다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "word",
+    "term": "march",
+    "meaning": "(동) 행진하다, 시위 행진하다 / (명) 행진, 시위",
+    "note": "시위 뉴스에서 marched in Paris(파리에서 행진했다), a protest march, march on ~(~로 행진해 가다). 비유로 the march of technology(기술의 진보). protest(시위), rally(집회, 앱에 저장됨)와 함께.",
+    "examples": [
+      {
+        "en": "Tens of thousands marched through central Paris.",
+        "ko": "수만 명이 파리 중심부를 행진했다."
+      },
+      {
+        "en": "Workers marched on city hall to demand higher wages.",
+        "ko": "노동자들이 임금 인상을 요구하며 시청으로 행진했다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "for the first time in ~",
+    "meaning": "~ 만에 처음으로",
+    "note": "오랜 기간 뒤에 처음 일어난 일. for the first time in a decade/years/over a decade(10여 년 만에 처음). in over ~ = ~ 넘는 기간 만에. 뉴스 단골.",
+    "examples": [
+      {
+        "en": "Talks broke down for the first time in over a decade.",
+        "ko": "협상이 10여 년 만에 처음으로 결렬됐다."
+      },
+      {
+        "en": "I saw my cousin for the first time in five years.",
+        "ko": "5년 만에 처음으로 사촌을 만났어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "along with",
+    "meaning": "~와 함께, ~에 더하여",
+    "note": "A along with B = B와 함께 A. 주어 자리에선 동사를 A에 맞춤(The CEO, along with two managers, was fired). 비슷한 together with, as well as(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "Similar protests took place in Spain, along with Portugal and Germany.",
+        "ko": "비슷한 시위가 스페인에서, 그리고 포르투갈과 독일에서도 벌어졌다."
+      },
+      {
+        "en": "Please send the form along with a copy of your ID.",
+        "ko": "신분증 사본과 함께 양식을 보내 주세요."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "as a whole",
+    "meaning": "전체적으로, 전체로서",
+    "note": "부분이 아니라 전체를 볼 때. the country/team/market as a whole. 비슷한 overall, in general. on the whole(대체로)과 구별.",
+    "examples": [
+      {
+        "en": "The economy as a whole is still growing.",
+        "ko": "경제 전체로 보면 여전히 성장하고 있다."
+      },
+      {
+        "en": "The team as a whole did a great job.",
+        "ko": "팀 전체적으로 아주 잘했어."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "in a row",
+    "meaning": "연속으로, 줄지어",
+    "note": "같은 일이 이어질 때. three days in a row(3일 연속). straight, back-to-back(앱에 저장됨)과 같은 뜻. 원래 '한 줄로'(sit in a row).",
+    "examples": [
+      {
+        "en": "It rained five days in a row.",
+        "ko": "5일 연속 비가 왔다."
+      },
+      {
+        "en": "The team has lost three games in a row.",
+        "ko": "그 팀은 3연패 중이다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "compared to",
+    "meaning": "~와 비교하면, ~에 비해",
+    "note": "비교 기준을 밝힐 때. compared to/with ~. 뉴스 수치 비교 단골(Sales rose 5% compared to last year). 비슷한 than, relative to.",
+    "examples": [
+      {
+        "en": "Prices are much higher compared to last year.",
+        "ko": "작년에 비해 가격이 훨씬 높다."
+      },
+      {
+        "en": "Compared to Seoul, this city is very quiet.",
+        "ko": "서울에 비하면 이 도시는 아주 조용하다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "on one's own",
+    "meaning": "혼자서, 혼자 힘으로",
+    "note": "① 혼자: live on my own(혼자 살다). ② 도움 없이: I did it on my own.(혼자 힘으로 했어) 비슷한 by oneself, alone, independently.",
+    "examples": [
+      {
+        "en": "She moved out and started living on her own.",
+        "ko": "그녀는 독립해서 혼자 살기 시작했다."
+      },
+      {
+        "en": "Did you fix it on your own?",
+        "ko": "그거 혼자 고친 거야?"
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "every now and then",
+    "meaning": "가끔, 이따금",
+    "note": "자주는 아니지만 때때로. 비슷한 from time to time, once in a while, occasionally. once in a blue moon(앱에 저장됨)보다 빈도가 높음.",
+    "examples": [
+      {
+        "en": "I still call my old boss every now and then.",
+        "ko": "나는 아직도 가끔 예전 상사에게 전화해."
+      },
+      {
+        "en": "Every now and then, it's good to take a break.",
+        "ko": "가끔은 쉬어 주는 게 좋아."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "in spite of",
+    "meaning": "~에도 불구하고",
+    "note": "예상과 반대되는 결과. in spite of + 명사/동사ing. despite와 같은 뜻(despite에는 of를 붙이지 않음). regardless of(앱에 저장됨)는 '상관없이'에 초점.",
+    "examples": [
+      {
+        "en": "In spite of the rain, the march went ahead.",
+        "ko": "비에도 불구하고 행진은 예정대로 진행됐다."
+      },
+      {
+        "en": "He finished the race in spite of his injury.",
+        "ko": "그는 부상에도 불구하고 경주를 완주했다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "at a time",
+    "meaning": "한 번에, 동시에",
+    "note": "한 번에 얼마씩인지 말할 때. one at a time(한 번에 하나씩), two at a time, for weeks at a time(한 번에 몇 주씩). 비슷한 at once(동시에, 즉시).",
+    "examples": [
+      {
+        "en": "Please come in one at a time.",
+        "ko": "한 분씩 들어오세요."
+      },
+      {
+        "en": "He disappears for weeks at a time.",
+        "ko": "그는 한 번 사라지면 몇 주씩 연락이 없다."
+      }
+    ],
+    "added": "2026-11-24"
+  },
+  {
+    "type": "phrase",
+    "term": "ahead of",
+    "meaning": "~에 앞서, ~ 전에; ~보다 앞선",
+    "note": "① 시간: ahead of the meeting/election(회의/선거를 앞두고). 뉴스 단골. ② 위치·순위: ahead of competitors(경쟁사보다 앞선). ahead of the curve(앱에 저장됨), ahead of time(미리).",
+    "examples": [
+      {
+        "en": "Retailers are cutting prices ahead of the holidays.",
+        "ko": "소매업체들이 연휴를 앞두고 가격을 내리고 있다."
+      },
+      {
+        "en": "The company is far ahead of its rivals in AI.",
+        "ko": "그 회사는 AI에서 경쟁사들보다 훨씬 앞서 있다."
+      }
+    ],
+    "added": "2026-11-24"
   }
 ]
