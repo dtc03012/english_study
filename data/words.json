@@ -10284,5 +10284,515 @@
       }
     ],
     "added": "2026-11-24"
+  },
+  {
+    "type": "idiom",
+    "term": "break with",
+    "meaning": "~와 결별하다, ~에 반기를 들다; (관행을) 깨다",
+    "note": "같은 편이던 사람·전통과 의견을 달리하고 갈라설 때. break with Trump(트럼프에 반기를 들다), break with tradition(전통을 깨다). 정치 뉴스 단골. 명사 a break with the past(과거와의 단절).",
+    "examples": [
+      {
+        "en": "Some Republicans broke with Trump over the move.",
+        "ko": "일부 공화당원은 그 조치를 두고 트럼프에 반기를 들었다."
+      },
+      {
+        "en": "The couple broke with tradition and skipped the big wedding.",
+        "ko": "그 커플은 전통을 깨고 큰 결혼식을 생략했다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "have second thoughts",
+    "meaning": "(결정을) 다시 생각하다, 마음이 흔들리다",
+    "note": "결정 후 확신이 줄어 망설일 때. have second thoughts about ~. 중립. 비슷한 get cold feet(앱에 저장됨, 막판에 겁먹음), reconsider.",
+    "examples": [
+      {
+        "en": "I'm having second thoughts about the move to New York.",
+        "ko": "뉴욕으로 이사 가는 거 다시 생각해 보고 있어."
+      },
+      {
+        "en": "The board appeared to have second thoughts about its decision.",
+        "ko": "이사회는 결정을 두고 마음이 흔들린 듯했다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "a change of heart",
+    "meaning": "마음이 바뀜, 심경의 변화",
+    "note": "생각·태도가 바뀌는 것. have a change of heart. 중립. 결정을 뒤집을 때 자주.",
+    "examples": [
+      {
+        "en": "The board had a change of heart and reinstated the CEO.",
+        "ko": "이사회는 마음을 바꿔 CEO를 복귀시켰다."
+      },
+      {
+        "en": "He was against the plan, but he's had a change of heart.",
+        "ko": "그는 그 계획에 반대했지만 마음을 바꿨다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "do a U-turn",
+    "meaning": "(입장·정책을) 180도 바꾸다, 유턴하다",
+    "note": "원래 차량 유턴. 비유로 정책·입장을 정반대로 뒤집을 때(the government did a U-turn on the tax plan). 영국 뉴스에선 U-turn 단독 명사로도 흔함. 비슷한 flip-flop(오락가락하다, 비판적), reverse course.",
+    "examples": [
+      {
+        "en": "Days after ruling it out, the board did a U-turn.",
+        "ko": "며칠 전 가능성을 배제했던 이사회가 입장을 180도 바꿨다."
+      },
+      {
+        "en": "The government did a U-turn on the tax increase.",
+        "ko": "정부는 증세 계획을 완전히 뒤집었다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "go back on one's word",
+    "meaning": "약속을 어기다, 말을 바꾸다",
+    "note": "했던 약속·말을 지키지 않을 때. 부정적. He never goes back on his word.(그는 절대 약속을 어기지 않아) 비슷한 break a promise. keep one's word(약속을 지키다)의 반대.",
+    "examples": [
+      {
+        "en": "I promised to help, and I won't go back on my word.",
+        "ko": "돕겠다고 약속했으니 말 바꾸지 않을 거야."
+      },
+      {
+        "en": "Critics accused the company of going back on its word.",
+        "ko": "비판자들은 그 회사가 약속을 어겼다고 비난했다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "eat one's words",
+    "meaning": "했던 말을 취소하다, (틀린 말을 해서) 체면을 구기다",
+    "note": "자신 있게 한 말이 틀린 것으로 드러나 인정해야 할 때. make someone eat their words(~가 한 말을 후회하게 만들다). 캐주얼~중립.",
+    "examples": [
+      {
+        "en": "He said we'd fail, but we made him eat his words.",
+        "ko": "그는 우리가 실패할 거라 했지만 우리가 그 말을 거둬들이게 만들었다."
+      },
+      {
+        "en": "I had to eat my words when she won.",
+        "ko": "그녀가 이겨서 나는 내 말을 취소해야 했다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "back down",
+    "meaning": "물러서다, 주장을 굽히다",
+    "note": "압박·반대에 밀려 요구·입장을 포기할 때. back down from/on ~. 정치·협상 뉴스 단골. 반대 stand one's ground(입장을 고수하다).",
+    "examples": [
+      {
+        "en": "The company refused to back down despite the criticism.",
+        "ko": "그 회사는 비판에도 물러서지 않았다."
+      },
+      {
+        "en": "The union backed down on its demand for a 10% raise.",
+        "ko": "노조는 10% 임금 인상 요구를 철회했다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "stand one's ground",
+    "meaning": "입장을 고수하다, 물러서지 않다",
+    "note": "공격·압박에도 자기 의견·자리를 지킬 때. 중립, 칭찬 뉘앙스. back down(물러서다)의 반대. 비슷한 hold firm, stick to one's guns.",
+    "examples": [
+      {
+        "en": "She stood her ground and refused to sign.",
+        "ko": "그녀는 입장을 고수하며 서명을 거부했다."
+      },
+      {
+        "en": "The senator stood his ground during the hearing.",
+        "ko": "그 상원의원은 청문회 내내 물러서지 않았다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "throw someone under the bus",
+    "meaning": "(자기 살려고) ~를 희생양으로 삼다, 배신하다",
+    "note": "곤란할 때 남에게 책임을 떠넘기며 버리는 것. 캐주얼, 강한 비판 뉘앙스. pass the buck(앱에 저장됨, 책임 떠넘기기)보다 '배신'에 초점.",
+    "examples": [
+      {
+        "en": "He threw his own team under the bus to save his job.",
+        "ko": "그는 자기 자리를 지키려고 팀원들을 희생양으로 삼았다."
+      },
+      {
+        "en": "I can't believe she threw me under the bus in the meeting.",
+        "ko": "그녀가 회의에서 날 배신하다니 믿기지가 않아."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "turn the tables",
+    "meaning": "전세를 뒤집다, 입장을 역전시키다",
+    "note": "불리하던 쪽이 유리하게 상황을 뒤바꿀 때. turn the tables on someone(~에게 역공하다). 중립, 스포츠·협상·정치에서 자주.",
+    "examples": [
+      {
+        "en": "The team turned the tables in the second half and won.",
+        "ko": "그 팀은 후반전에 전세를 뒤집어 이겼다."
+      },
+      {
+        "en": "Democrats turned the tables in the midterms.",
+        "ko": "민주당은 중간선거에서 판세를 뒤집었다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "secure",
+    "meaning": "(동) (노력해서) 확보하다, 얻어내다 / (형) 안전한, 확실한",
+    "note": "뉴스에서 '어렵게 얻어내다': secure seats/a deal/funding/a win(의석/거래/자금/승리를 확보하다). get보다 격식·노력의 느낌. 형용사 a secure password(안전한 비밀번호), job security(고용 안정).",
+    "examples": [
+      {
+        "en": "Democrats secured 259 House seats.",
+        "ko": "민주당은 하원 259석을 확보했다."
+      },
+      {
+        "en": "The startup secured $10 million in funding.",
+        "ko": "그 스타트업은 1천만 달러의 투자를 유치했다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "persist",
+    "meaning": "(동) 계속되다, 지속되다; 끈질기게 계속하다",
+    "note": "① 나쁜 상황·의심이 사라지지 않고 이어질 때: doubts/concerns persist(의심/우려가 가시지 않다). ② 사람이 굽히지 않고 계속하다: persist in ~ing. 형용사 persistent(끈질긴), 명사 persistence.",
+    "examples": [
+      {
+        "en": "Doubts persist over Huang's return.",
+        "ko": "황의 복귀를 둘러싼 의구심이 가시지 않고 있다."
+      },
+      {
+        "en": "If the pain persists, see a doctor.",
+        "ko": "통증이 계속되면 병원에 가세요."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "hush money",
+    "meaning": "(명) 입막음 돈",
+    "note": "불리한 사실을 말하지 못하게 주는 돈. pay hush money(입막음 돈을 주다), a hush money case/conviction. hush = 쉿, 조용히 시키다.",
+    "examples": [
+      {
+        "en": "An appeals court gave Trump a path to erasing his hush money conviction.",
+        "ko": "항소법원은 트럼프가 입막음 돈 사건 유죄 판결을 지울 길을 열어 줬다."
+      },
+      {
+        "en": "He was accused of paying hush money to a former employee.",
+        "ko": "그는 전 직원에게 입막음 돈을 준 혐의를 받았다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "erase",
+    "meaning": "(동) 지우다, 없애다",
+    "note": "흔적·기록·손실을 완전히 없앨 때. erase a conviction/record(유죄 판결/기록을 말소하다), erase losses/gains(손실을 만회하다/상승분을 다 반납하다). 명사 eraser(지우개). 비슷한 wipe out, delete.",
+    "examples": [
+      {
+        "en": "Stocks erased their early gains by the close.",
+        "ko": "주가는 장 마감 무렵 장 초반 상승분을 모두 반납했다."
+      },
+      {
+        "en": "You can't erase the past.",
+        "ko": "과거는 지울 수 없어."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "consumer confidence",
+    "meaning": "(명) 소비자 신뢰(지수)",
+    "note": "소비자들이 경제를 얼마나 낙관하는지 보여주는 지표. consumer confidence rose/fell, the consumer confidence index. 경기 뉴스 단골. 비슷한 consumer sentiment.",
+    "examples": [
+      {
+        "en": "U.S. consumer confidence rose to 103.3 as gas prices fell.",
+        "ko": "휘발유 가격이 내리면서 미국 소비자 신뢰지수가 103.3으로 올랐다."
+      },
+      {
+        "en": "Weak consumer confidence could hurt holiday sales.",
+        "ko": "소비자 신뢰가 약하면 연말 매출이 타격을 받을 수 있다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "warship",
+    "meaning": "(명) 군함, 전함",
+    "note": "전투용 배. 비슷한 navy vessel, destroyer(구축함), aircraft carrier(항공모함). war + ship.",
+    "examples": [
+      {
+        "en": "A Russian warship was reportedly hit by Ukrainian drones.",
+        "ko": "러시아 군함이 우크라이나 드론에 맞은 것으로 전해졌다."
+      },
+      {
+        "en": "The navy sent two warships to the region.",
+        "ko": "해군은 그 지역에 군함 두 척을 보냈다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "project",
+    "meaning": "(동) 예상하다, 추정하다 / (명) 프로젝트, 사업",
+    "note": "동사 [프러젝트]: 수치를 예측할 때 project + 숫자(AAA projects 2.5 million travelers). 명사 projection(예상치). 명사 [프라젝트]: 프로젝트. 강세가 달라 발음 구별.",
+    "examples": [
+      {
+        "en": "AAA projects about 2.5 million holiday travelers in Michigan.",
+        "ko": "AAA는 미시간의 연휴 여행객을 약 250만 명으로 예상한다."
+      },
+      {
+        "en": "The company projects sales to double next year.",
+        "ko": "그 회사는 내년 매출이 두 배가 될 것으로 예상한다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "forecast",
+    "meaning": "(명/동) 예보(하다), 예측(하다)",
+    "note": "날씨·경제를 미리 내다보는 것. weather forecast, be forecast to ~(~할 것으로 예보되다), economic forecast. 과거형 forecast(또는 forecasted). call for(앱에 저장됨, 날씨 예보)와 함께.",
+    "examples": [
+      {
+        "en": "Storms are forecast to threaten holiday travel.",
+        "ko": "폭풍이 연휴 이동에 지장을 줄 것으로 예보됐다."
+      },
+      {
+        "en": "Economists forecast slower growth next year.",
+        "ko": "경제학자들은 내년 성장 둔화를 예측한다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "coastal",
+    "meaning": "(형) 해안의, 연안의",
+    "note": "바닷가에 있는. coastal communities/areas/towns(해안 지역 사회/지역/마을), coastal flooding(해안 침수). 명사 coast(해안).",
+    "examples": [
+      {
+        "en": "Storms are expected to hit coastal communities.",
+        "ko": "폭풍이 해안 지역을 강타할 것으로 예상된다."
+      },
+      {
+        "en": "Coastal flooding is a growing risk.",
+        "ko": "해안 침수 위험이 커지고 있다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "word",
+    "term": "path",
+    "meaning": "(명) 길, 경로; (비유) 방법, 길",
+    "note": "비유로 무언가를 이루는 길: a path to ~(~로 가는 길: a path to victory/citizenship), clear the path(길을 터주다), career path(진로). 비슷한 way, route.",
+    "examples": [
+      {
+        "en": "The ruling gave him a path to erasing the conviction.",
+        "ko": "그 판결은 그에게 유죄 판결을 지울 길을 열어 줬다."
+      },
+      {
+        "en": "Hard work is the only path to success.",
+        "ko": "노력만이 성공으로 가는 유일한 길이다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "days earlier",
+    "meaning": "며칠 전에, 불과 며칠 앞서",
+    "note": "앞 사건과 시간 대비를 강조하는 기사 표현. after saying days earlier it wouldn't(며칠 전엔 안 하겠다고 하더니). weeks/months earlier, just days earlier도 같은 틀. 과거 기준이라 ago 대신 earlier.",
+    "examples": [
+      {
+        "en": "The board reinstated Huang after saying days earlier it wouldn't.",
+        "ko": "이사회는 며칠 전엔 그러지 않겠다고 하더니 황을 복귀시켰다."
+      },
+      {
+        "en": "Just weeks earlier, he had promised not to run.",
+        "ko": "불과 몇 주 전 그는 출마하지 않겠다고 약속했었다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "take control of",
+    "meaning": "~을 장악하다, ~의 주도권을 잡다",
+    "note": "권력·조직·상황을 손에 넣을 때. take control of Congress/the company/the situation. 반대 lose control of. 비슷한 take over.",
+    "examples": [
+      {
+        "en": "Democrats will take control of Congress in January.",
+        "ko": "민주당은 1월에 의회를 장악한다."
+      },
+      {
+        "en": "You need to take control of your finances.",
+        "ko": "네 재정 상황을 스스로 관리해야 해."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "contrary to",
+    "meaning": "~와 반대로, ~에 반해",
+    "note": "예상·주장과 반대되는 사실. contrary to popular belief(통념과 달리), contrary to expectations/reports. on the contrary(오히려 그 반대로)와 구별.",
+    "examples": [
+      {
+        "en": "Contrary to popular belief, bats aren't blind.",
+        "ko": "통념과 달리 박쥐는 눈이 멀지 않았다."
+      },
+      {
+        "en": "Contrary to expectations, sales went up.",
+        "ko": "예상과 반대로 매출이 늘었다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "in the coming weeks",
+    "meaning": "앞으로 몇 주 안에, 향후 몇 주간",
+    "note": "가까운 미래. in the coming days/weeks/months. 뉴스·업무 공지 단골. 비슷한 over the next few weeks, soon.",
+    "examples": [
+      {
+        "en": "More details will be released in the coming weeks.",
+        "ko": "향후 몇 주 안에 더 자세한 내용이 공개될 것이다."
+      },
+      {
+        "en": "We'll make a decision in the coming days.",
+        "ko": "며칠 안에 결정하겠습니다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "at the same time",
+    "meaning": "동시에; 그와 동시에, 한편으로는",
+    "note": "① 같은 시간에: arrive at the same time. ② 대조(한편으로는): It's exciting. At the same time, it's risky.(신나긴 하지만 한편으로는 위험해). 비슷한 meanwhile, on the other hand(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "They both started talking at the same time.",
+        "ko": "둘이 동시에 말하기 시작했다."
+      },
+      {
+        "en": "It's a great opportunity. At the same time, it's a big risk.",
+        "ko": "좋은 기회야. 한편으로는 큰 위험이기도 하고."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "on top of that",
+    "meaning": "게다가, 그 위에",
+    "note": "나쁜 일·좋은 일을 하나 더 얹을 때. 대화에서 매우 흔함. 비슷한 what's more, plus, not to mention(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "I missed the bus, and on top of that, it started raining.",
+        "ko": "버스를 놓쳤는데 게다가 비까지 오기 시작했어."
+      },
+      {
+        "en": "The job pays well. On top of that, it's remote.",
+        "ko": "그 일은 보수도 좋고, 게다가 재택이야."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "it remains to be seen",
+    "meaning": "~은 두고 봐야 한다, 아직 알 수 없다",
+    "note": "결과가 아직 불확실할 때. It remains to be seen whether/how ~. 뉴스·분석 단골. the jury is still out(앱에 저장됨)과 비슷.",
+    "examples": [
+      {
+        "en": "It remains to be seen whether Huang can win back investors.",
+        "ko": "황이 투자자들의 신뢰를 되찾을 수 있을지는 두고 봐야 한다."
+      },
+      {
+        "en": "It remains to be seen how the market will react.",
+        "ko": "시장이 어떻게 반응할지는 아직 알 수 없다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "there's a good chance (that)",
+    "meaning": "~할 가능성이 꽤 높다",
+    "note": "확률이 높다고 말할 때. There's a good chance it'll rain.(비 올 가능성 꽤 높아) 반대 There's little chance ~. be likely to(앱에 저장됨)와 비슷하지만 더 구어적.",
+    "examples": [
+      {
+        "en": "There's a good chance the flight will be delayed.",
+        "ko": "비행기가 지연될 가능성이 꽤 높아."
+      },
+      {
+        "en": "There's a good chance she already knows.",
+        "ko": "그녀가 이미 알고 있을 가능성이 높아."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "for now",
+    "meaning": "당분간은, 지금으로선",
+    "note": "지금은 그렇지만 바뀔 수 있음. That's all for now.(지금은 여기까지야) for the time being(앱에 저장됨)보다 구어적. Bye for now!(이만 안녕!)",
+    "examples": [
+      {
+        "en": "That's all for now. Let's talk again tomorrow.",
+        "ko": "지금은 여기까지. 내일 다시 얘기하자."
+      },
+      {
+        "en": "For now, the plan is on hold.",
+        "ko": "당분간 그 계획은 보류다."
+      }
+    ],
+    "added": "2026-11-25"
+  },
+  {
+    "type": "phrase",
+    "term": "as it stands",
+    "meaning": "현재 상태로는, 지금 상황대로라면",
+    "note": "지금 그대로라면 어떻게 될지 말할 때. As it stands, ~ / the plan as it stands(현재 안). 업무·뉴스에서 자주. 비슷한 as things stand, at this point(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "As it stands, the deal will close next month.",
+        "ko": "지금 상황대로라면 거래는 다음 달 마무리된다."
+      },
+      {
+        "en": "The plan, as it stands, is too expensive.",
+        "ko": "현재 안대로라면 너무 비싸."
+      }
+    ],
+    "added": "2026-11-25"
   }
 ]
