@@ -10794,5 +10794,515 @@
       }
     ],
     "added": "2026-11-25"
+  },
+  {
+    "type": "idiom",
+    "term": "clear the way",
+    "meaning": "길을 터주다, (장애물을 없애) 가능하게 하다",
+    "note": "결정·판결이 다음 단계를 가능하게 할 때. clear the way for ~(~의 길을 열다). 뉴스 단골(court ruling clears the way for ~). 비슷한 pave the way, give the green light(앱의 get the green light).",
+    "examples": [
+      {
+        "en": "An appeals court cleared the way for the Army's controlled detonation.",
+        "ko": "항소법원이 육군의 통제 폭파 작업에 길을 터 주었다."
+      },
+      {
+        "en": "The vote clears the way for the new stadium.",
+        "ko": "그 표결로 새 경기장 건설의 길이 열렸다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "give someone a heads-up",
+    "meaning": "미리 알려주다, 귀띔해 주다",
+    "note": "곧 일어날 일을 사전에 알려줄 때. Thanks for the heads-up.(미리 알려줘서 고마워) 업무·일상 매우 흔함. 캐주얼~중립.",
+    "examples": [
+      {
+        "en": "Just a heads-up: the meeting moved to 3 p.m.",
+        "ko": "미리 알려드려요. 회의가 오후 3시로 바뀌었어요."
+      },
+      {
+        "en": "Can you give me a heads-up before you visit?",
+        "ko": "오기 전에 미리 좀 알려줄래?"
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "talk shop",
+    "meaning": "(일과 무관한 자리에서) 일 얘기를 하다",
+    "note": "회식·파티에서 업무 얘기를 할 때. 보통 부정적으로 No talking shop tonight!(오늘 밤엔 일 얘기 금지!) 캐주얼.",
+    "examples": [
+      {
+        "en": "Let's not talk shop at dinner.",
+        "ko": "저녁 먹을 땐 일 얘기 하지 말자."
+      },
+      {
+        "en": "The two engineers spent the whole party talking shop.",
+        "ko": "두 엔지니어는 파티 내내 일 얘기만 했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "hit the books",
+    "meaning": "열심히 공부하다",
+    "note": "시험을 앞두고 본격적으로 공부할 때. 캐주얼. hit the road/sack(앱에 저장됨)과 같은 'hit the ~' 패턴.",
+    "examples": [
+      {
+        "en": "I have to hit the books this weekend. Finals are next week.",
+        "ko": "이번 주말엔 공부해야 해. 다음 주가 기말이야."
+      },
+      {
+        "en": "She hit the books and passed the exam.",
+        "ko": "그녀는 열심히 공부해서 시험에 붙었다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "beat the odds",
+    "meaning": "역경을 이겨내다, 예상을 뒤엎고 성공하다",
+    "note": "가능성이 낮았는데도 해낼 때. against all odds(온갖 역경을 딛고)와 비슷. 중립, 칭찬·감동 기사 단골.",
+    "examples": [
+      {
+        "en": "The tiny startup beat the odds and survived the downturn.",
+        "ko": "그 작은 스타트업은 역경을 딛고 불황을 버텨냈다."
+      },
+      {
+        "en": "Doctors didn't expect him to walk again, but he beat the odds.",
+        "ko": "의사들은 그가 다시 걷지 못할 거라 했지만 그는 예상을 뒤엎었다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "in the nick of time",
+    "meaning": "아슬아슬하게 제때, 간신히 늦지 않게",
+    "note": "마지막 순간에 겨우 시간을 맞췄을 때. 중립. by the skin of one's teeth(앱에 저장됨)와 비슷하지만 '시간에 맞춤'에 초점.",
+    "examples": [
+      {
+        "en": "We got to the airport in the nick of time.",
+        "ko": "우리는 아슬아슬하게 공항에 제때 도착했다."
+      },
+      {
+        "en": "The firefighters arrived in the nick of time.",
+        "ko": "소방관들이 간발의 차로 제때 도착했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "a hard pill to swallow",
+    "meaning": "받아들이기 힘든 사실, 쓴 약",
+    "note": "인정하기 싫지만 받아들여야 하는 현실. a bitter pill to swallow도 같음. 중립.",
+    "examples": [
+      {
+        "en": "Losing the deal was a hard pill to swallow.",
+        "ko": "그 계약을 놓친 건 받아들이기 힘든 일이었다."
+      },
+      {
+        "en": "For investors, the 8% drop was a bitter pill to swallow.",
+        "ko": "투자자들에게 8% 하락은 쓴 약이었다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "fly off the shelves",
+    "meaning": "(상품이) 불티나게 팔리다",
+    "note": "날개 돋친 듯 빨리 팔릴 때. 소매·마케팅 뉴스 단골. 비슷한 sell like hotcakes, sell out.",
+    "examples": [
+      {
+        "en": "The new phone is flying off the shelves.",
+        "ko": "신형 폰이 불티나게 팔리고 있다."
+      },
+      {
+        "en": "Winter coats flew off the shelves during the cold snap.",
+        "ko": "한파 동안 겨울 코트가 날개 돋친 듯 팔렸다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "get off the ground",
+    "meaning": "(사업·계획이) 시작되다, 궤도에 오르다",
+    "note": "비행기가 이륙하듯 프로젝트가 본격 출발할 때. 주로 부정형: never got off the ground(시작도 못 하고 무산됐다). 중립, 비즈니스.",
+    "examples": [
+      {
+        "en": "The project never got off the ground due to a lack of funding.",
+        "ko": "그 프로젝트는 자금 부족으로 시작도 못 했다."
+      },
+      {
+        "en": "We need investors to get this idea off the ground.",
+        "ko": "이 아이디어를 실행에 옮기려면 투자자가 필요해."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "idiom",
+    "term": "on cloud nine",
+    "meaning": "너무 행복한, 날아갈 듯 기쁜",
+    "note": "아주 기쁘고 들뜬 상태. 캐주얼. 비슷한 over the moon, thrilled.",
+    "examples": [
+      {
+        "en": "She's been on cloud nine since she got engaged.",
+        "ko": "그녀는 약혼한 뒤로 너무 행복해한다."
+      },
+      {
+        "en": "I was on cloud nine when I got the job offer.",
+        "ko": "합격 연락받았을 때 날아갈 듯 기뻤어."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "refinery",
+    "meaning": "(명) 정유소, 정제 공장",
+    "note": "원유를 휘발유·경유 등으로 가공하는 시설. oil refinery, sugar refinery. 동사 refine(정제하다, 다듬다). 에너지·중동 뉴스 단골.",
+    "examples": [
+      {
+        "en": "The Houthis claimed an attack on a Saudi oil refinery.",
+        "ko": "후티 반군은 사우디 정유소를 공격했다고 주장했다."
+      },
+      {
+        "en": "Satellite images showed smoke over the refinery.",
+        "ko": "위성 사진에 정유소 위로 연기가 보였다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "pare",
+    "meaning": "(동) (조금씩) 줄이다, 깎다",
+    "note": "증시 뉴스에서 pare losses/gains(낙폭/상승폭을 줄이다)가 단골. pare down(줄이다: pare down costs). 원래 '껍질을 벗기다'. 비슷한 trim, reduce.",
+    "examples": [
+      {
+        "en": "Stocks fell sharply before paring losses.",
+        "ko": "주가는 급락했다가 낙폭을 줄였다."
+      },
+      {
+        "en": "The company pared down its product line.",
+        "ko": "그 회사는 제품군을 줄였다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "tariff",
+    "meaning": "(명) 관세",
+    "note": "수입품에 매기는 세금. impose/raise/lift tariffs(관세를 부과/인상/철회하다), tariff proposals, a 25% tariff on ~. 무역 뉴스 필수. 비슷한 import duty.",
+    "examples": [
+      {
+        "en": "Stocks dropped sharply on new tariff proposals.",
+        "ko": "새 관세안 소식에 증시가 급락했다."
+      },
+      {
+        "en": "The U.S. imposed a 25% tariff on imported steel.",
+        "ko": "미국은 수입 철강에 25% 관세를 부과했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "nor'easter",
+    "meaning": "(명) 노이스터 (미국 북동부를 덮치는 강한 겨울 폭풍)",
+    "note": "북동풍(northeaster)을 동반한 대서양 연안 폭풍. 미국 동부 날씨 뉴스 단골 용어. atmospheric river(앱에 저장됨)처럼 지역 기상 용어.",
+    "examples": [
+      {
+        "en": "Macy's postponed its parade amid concerns over an approaching nor'easter.",
+        "ko": "메이시스는 다가오는 노이스터 우려로 퍼레이드를 연기했다."
+      },
+      {
+        "en": "The nor'easter dumped a foot of snow on Boston.",
+        "ko": "노이스터가 보스턴에 30센티미터의 눈을 퍼부었다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "iconic",
+    "meaning": "(형) 상징적인, 대표적인, 아이콘이 된",
+    "note": "널리 알려져 그 자체가 상징이 된 것. an iconic brand/building/photo/parade. 명사 icon(우상, 상징). 광고·기사에서 자주 과하게도 씀.",
+    "examples": [
+      {
+        "en": "The iconic parade was postponed for the first time ever.",
+        "ko": "그 상징적인 퍼레이드가 사상 처음으로 연기됐다."
+      },
+      {
+        "en": "The Eiffel Tower is one of the most iconic buildings in the world.",
+        "ko": "에펠탑은 세계에서 가장 상징적인 건물 중 하나다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "installment",
+    "meaning": "(명) (연재·시리즈의) 회, 편; 할부(금)",
+    "note": "① 시리즈의 한 회: the 100th installment of the parade(100번째 퍼레이드), the latest installment of the movie. ② 할부: pay in installments(할부로 내다), monthly installments. 영국식 instalment.",
+    "examples": [
+      {
+        "en": "This was meant to be the 100th installment of the parade.",
+        "ko": "이번이 퍼레이드의 100번째 행사가 될 예정이었다."
+      },
+      {
+        "en": "I'm paying for the laptop in monthly installments.",
+        "ko": "노트북을 월 할부로 내고 있어."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "evacuate",
+    "meaning": "(동) 대피하다, 대피시키다",
+    "note": "위험 지역에서 사람들을 빼낼 때. evacuate residents/the building, be forced to evacuate(대피해야 했다). 명사 evacuation(대피: evacuation order 대피령), evacuee(대피자).",
+    "examples": [
+      {
+        "en": "Fighting forced Ebola workers to evacuate.",
+        "ko": "교전으로 에볼라 대응 인력이 대피해야 했다."
+      },
+      {
+        "en": "Residents were told to evacuate before the storm.",
+        "ko": "주민들은 폭풍 전에 대피하라는 지시를 받았다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "halt",
+    "meaning": "(동/명) 중단하다, 멈추다; 중단",
+    "note": "공사·운영·거래를 멈출 때. halt permits/production/trading, come to a halt(멈추다), grind to a halt(서서히 멈춰 서다). stop보다 공식·뉴스체. suspend(앱에 저장됨)와 비슷.",
+    "examples": [
+      {
+        "en": "The governor halted permits for the tunnel project.",
+        "ko": "주지사는 그 터널 사업의 인허가를 중단시켰다."
+      },
+      {
+        "en": "Traffic came to a halt after the crash.",
+        "ko": "사고 후 교통이 멈춰 섰다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "legislation",
+    "meaning": "(명) 법안, 법률; 입법",
+    "note": "의회가 만드는 법(셀 수 없는 명사). sign/pass/introduce legislation(법안에 서명하다/통과시키다/발의하다), firearms legislation(총기 법). bill(개별 법안, 셀 수 있음)과 비교. 동사 legislate.",
+    "examples": [
+      {
+        "en": "The governor signed new firearms legislation.",
+        "ko": "주지사는 새 총기 법안에 서명했다."
+      },
+      {
+        "en": "Lawmakers introduced legislation to ban the practice.",
+        "ko": "의원들은 그 관행을 금지하는 법안을 발의했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "word",
+    "term": "corruption",
+    "meaning": "(명) 부패, 비리",
+    "note": "권력·지위를 이용한 부정. corruption trial/charges/scandal(부패 재판/혐의/스캔들), fight corruption. 형용사 corrupt(부패한). IT에선 file corruption(파일 손상).",
+    "examples": [
+      {
+        "en": "Netanyahu said his corruption trial must end.",
+        "ko": "네타냐후는 자신의 부패 재판이 끝나야 한다고 말했다."
+      },
+      {
+        "en": "The new government promised to fight corruption.",
+        "ko": "새 정부는 부패 척결을 약속했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "amid",
+    "meaning": "(~하는) 가운데, ~ 속에서",
+    "note": "배경 상황을 말하는 뉴스 필수 전치사. amid concerns/protests/rising prices. amidst는 더 문어적. 비슷한 during, in the middle of.",
+    "examples": [
+      {
+        "en": "Macy's postponed the parade amid concerns over the storm.",
+        "ko": "메이시스는 폭풍 우려 속에 퍼레이드를 연기했다."
+      },
+      {
+        "en": "Stocks fell amid fears of new tariffs.",
+        "ko": "새 관세 우려 속에 주가가 떨어졌다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "citing",
+    "meaning": "~을 인용해, ~을 이유로 들며",
+    "note": "① 출처: citing sources(소식통을 인용해), citing a report. ② 이유: resigned citing health reasons(건강상 이유를 들어 사임했다). 동사 cite(인용하다, 언급하다). per, according to(앱에 저장됨)와 같은 출처 표현.",
+    "examples": [
+      {
+        "en": "The New York Post reported the news, citing sources.",
+        "ko": "뉴욕포스트는 소식통을 인용해 그 소식을 보도했다."
+      },
+      {
+        "en": "He stepped down, citing personal reasons.",
+        "ko": "그는 개인적인 이유를 들어 물러났다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "go ahead with",
+    "meaning": "(계획대로) ~을 진행하다, 강행하다",
+    "note": "반대·우려에도 계획을 실행할 때. go ahead with the plan/detonation/event. 단독 Go ahead.(그렇게 해, 먼저 해) 명사 the go-ahead(허가).",
+    "examples": [
+      {
+        "en": "The Army is going ahead with the detonation despite health risks.",
+        "ko": "육군은 건강 위험에도 폭파 작업을 강행하고 있다."
+      },
+      {
+        "en": "We decided to go ahead with the launch.",
+        "ko": "우리는 출시를 예정대로 진행하기로 했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "on short notice",
+    "meaning": "갑작스럽게, 촉박하게",
+    "note": "미리 알릴 시간 없이 급하게. at short notice(영국식). Thanks for coming on such short notice.(이렇게 급하게 와 줘서 고마워) 업무 단골.",
+    "examples": [
+      {
+        "en": "Thanks for meeting me on such short notice.",
+        "ko": "이렇게 갑작스럽게 만나 주셔서 감사해요."
+      },
+      {
+        "en": "The parade was postponed on short notice.",
+        "ko": "퍼레이드는 촉박하게 연기됐다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "no later than",
+    "meaning": "늦어도 ~까지",
+    "note": "마감 시한을 명확히 할 때. no later than Friday/5 p.m. 공지·업무 이메일 단골. at the latest(앱에 저장됨)와 같은 뜻, 더 격식.",
+    "examples": [
+      {
+        "en": "Please submit your report no later than Friday.",
+        "ko": "늦어도 금요일까지 보고서를 제출해 주세요."
+      },
+      {
+        "en": "Applications must arrive no later than June 1.",
+        "ko": "지원서는 늦어도 6월 1일까지 도착해야 합니다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "whatever it takes",
+    "meaning": "무슨 수를 써서라도, 뭐든 하겠다",
+    "note": "목표를 위해 필요한 건 다 하겠다는 의지. do whatever it takes (to ~). 연설·스포츠·비즈니스 단골.",
+    "examples": [
+      {
+        "en": "We'll do whatever it takes to finish on time.",
+        "ko": "제때 끝내기 위해 무엇이든 하겠습니다."
+      },
+      {
+        "en": "The central bank pledged to do whatever it takes.",
+        "ko": "중앙은행은 무슨 수를 써서라도 대응하겠다고 약속했다."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "the way I see it",
+    "meaning": "내가 보기엔, 내 생각엔",
+    "note": "개인 의견을 꺼낼 때. 캐주얼. 비슷한 in my opinion, if you ask me, as far as I'm concerned(앱의 as far as ~ is concerned).",
+    "examples": [
+      {
+        "en": "The way I see it, we have two options.",
+        "ko": "내가 보기엔 우리에겐 선택지가 두 개야."
+      },
+      {
+        "en": "The way I see it, the price is too high.",
+        "ko": "내 생각엔 가격이 너무 비싸."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "on the bright side",
+    "meaning": "좋게 보면, 긍정적인 면은",
+    "note": "나쁜 상황에서 좋은 점을 찾을 때. look on the bright side(긍정적으로 생각하다). at least(앱에 저장됨, 그래도)와 비슷.",
+    "examples": [
+      {
+        "en": "The trip was canceled, but on the bright side, we saved money.",
+        "ko": "여행은 취소됐지만 좋게 보면 돈은 아꼈어."
+      },
+      {
+        "en": "Look on the bright side — no one got hurt.",
+        "ko": "좋게 생각해, 다친 사람은 없잖아."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "in a hurry",
+    "meaning": "서둘러, 급하게",
+    "note": "시간에 쫓길 때. be in a hurry(급하다), leave in a hurry. 비슷한 in a rush(앱의 a rush to 참고). no hurry(천천히 해).",
+    "examples": [
+      {
+        "en": "Sorry, I'm in a hurry. Can we talk later?",
+        "ko": "미안, 나 지금 급해. 나중에 얘기해도 될까?"
+      },
+      {
+        "en": "There's no hurry. Take your time.",
+        "ko": "급할 거 없어. 천천히 해."
+      }
+    ],
+    "added": "2026-11-26"
+  },
+  {
+    "type": "phrase",
+    "term": "be up against",
+    "meaning": "~에 맞서다, (어려움에) 직면하다",
+    "note": "강한 상대·어려움과 마주할 때. be up against a deadline/tough competition. 비슷한 face, deal with.",
+    "examples": [
+      {
+        "en": "We're up against a tight deadline.",
+        "ko": "우리는 빠듯한 마감과 싸우고 있다."
+      },
+      {
+        "en": "Small shops are up against huge online retailers.",
+        "ko": "작은 가게들은 거대 온라인 업체들과 맞서고 있다."
+      }
+    ],
+    "added": "2026-11-26"
   }
 ]
