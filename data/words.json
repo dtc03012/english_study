@@ -11814,5 +11814,515 @@
       }
     ],
     "added": "2026-11-27"
+  },
+  {
+    "type": "idiom",
+    "term": "fall through",
+    "meaning": "(계획·거래가) 무산되다, 틀어지다",
+    "note": "성사될 것 같던 일이 마지막에 실패할 때. The deal fell through.(거래가 무산됐다) 중립. 비슷한 collapse, go south(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "Our plans for the trip fell through at the last minute.",
+        "ko": "여행 계획이 막판에 무산됐어."
+      },
+      {
+        "en": "The loan for Ukraine fell through after leaders failed to agree.",
+        "ko": "정상들이 합의하지 못하면서 우크라이나 대출안이 무산됐다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "a wake-up call",
+    "meaning": "경종, 정신이 번쩍 드는 계기",
+    "note": "문제를 깨닫게 해주는 충격적인 사건. This should be a wake-up call for ~(~에게 경종이 돼야 한다). 뉴스·사설 단골. 중립.",
+    "examples": [
+      {
+        "en": "The outbreak is a wake-up call for public health officials.",
+        "ko": "이번 집단 발병은 보건 당국에 경종을 울린다."
+      },
+      {
+        "en": "Failing that exam was a wake-up call for me.",
+        "ko": "그 시험에 떨어진 게 나한텐 정신이 번쩍 드는 계기였어."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "down to the wire",
+    "meaning": "마지막 순간까지, 막판까지",
+    "note": "결과가 끝까지 알 수 없을 만큼 아슬아슬할 때. go down to the wire(막판까지 가다). 경마 결승선 철사에서 유래. 스포츠·선거·협상 뉴스 단골.",
+    "examples": [
+      {
+        "en": "The election went down to the wire.",
+        "ko": "그 선거는 막판까지 승부를 알 수 없었다."
+      },
+      {
+        "en": "Budget talks are going down to the wire.",
+        "ko": "예산 협상이 마지막 순간까지 이어지고 있다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "on the hook",
+    "meaning": "(책임·빚을) 떠안은, 책임져야 하는",
+    "note": "돈·책임을 감당해야 하는 처지. be on the hook for $1 million(100만 달러를 책임져야 한다), let someone off the hook(~를 봐주다, 책임을 면해 주다). 중립.",
+    "examples": [
+      {
+        "en": "Taxpayers could be on the hook for billions.",
+        "ko": "납세자들이 수십억 달러를 떠안을 수 있다."
+      },
+      {
+        "en": "I'll let you off the hook this time.",
+        "ko": "이번엔 봐줄게."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "in full swing",
+    "meaning": "한창인, 절정에 이른",
+    "note": "행사·활동·시즌이 활발하게 진행 중일 때. The holiday season is in full swing.(연휴 시즌이 한창이다) 중립.",
+    "examples": [
+      {
+        "en": "Holiday shopping is in full swing.",
+        "ko": "연말 쇼핑이 한창이다."
+      },
+      {
+        "en": "By 10 p.m., the party was in full swing.",
+        "ko": "밤 10시쯤 파티가 절정에 이르렀다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "set the record straight",
+    "meaning": "오해를 바로잡다, 사실을 분명히 하다",
+    "note": "잘못 알려진 내용을 정정할 때. Let me set the record straight.(사실관계를 바로잡을게요) 인터뷰·해명 단골. 중립.",
+    "examples": [
+      {
+        "en": "I want to set the record straight about what happened.",
+        "ko": "무슨 일이 있었는지 사실을 바로잡고 싶어요."
+      },
+      {
+        "en": "The company issued a statement to set the record straight.",
+        "ko": "회사는 오해를 바로잡기 위해 성명을 냈다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "run out of steam",
+    "meaning": "힘이 빠지다, 기세가 꺾이다",
+    "note": "에너지·동력이 떨어져 진행이 느려질 때. 증기기관 비유. The rally ran out of steam.(상승세가 힘을 잃었다) 중립, 일상·시장 뉴스.",
+    "examples": [
+      {
+        "en": "The stock rally ran out of steam by the afternoon.",
+        "ko": "주가 상승세는 오후 들어 힘을 잃었다."
+      },
+      {
+        "en": "I usually run out of steam around 3 p.m.",
+        "ko": "나는 보통 오후 3시쯤 기운이 빠져."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "foot the bill",
+    "meaning": "비용을 부담하다, 계산하다",
+    "note": "남이 비용을 대신 내거나 큰 비용을 감당할 때. Who's going to foot the bill?(누가 비용을 댈 건데?) 중립, 정책·일상 모두.",
+    "examples": [
+      {
+        "en": "Who will foot the bill for the repairs?",
+        "ko": "수리비는 누가 부담하나요?"
+      },
+      {
+        "en": "My company footed the bill for the trip.",
+        "ko": "회사가 여행 비용을 대줬다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "turn a blind eye",
+    "meaning": "못 본 척하다, 눈감아 주다",
+    "note": "잘못을 알면서 모른 척할 때. turn a blind eye to ~. look the other way(앱에 저장됨)와 같은 뜻. 비판적 뉘앙스.",
+    "examples": [
+      {
+        "en": "Officials turned a blind eye to the violations.",
+        "ko": "당국자들은 위반 행위를 못 본 척했다."
+      },
+      {
+        "en": "We can't turn a blind eye to bullying.",
+        "ko": "괴롭힘을 눈감아 줄 수는 없어."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "idiom",
+    "term": "ring hollow",
+    "meaning": "공허하게 들리다, 진정성이 없어 보이다",
+    "note": "말·약속·사과가 믿음이 안 갈 때. His apology rang hollow.(그의 사과는 공허하게 들렸다) 기사·논평에서 자주. 중립~격식.",
+    "examples": [
+      {
+        "en": "His promises rang hollow after years of delays.",
+        "ko": "수년간의 지연 끝에 그의 약속은 공허하게 들렸다."
+      },
+      {
+        "en": "The apology rang hollow to the victims.",
+        "ko": "그 사과는 피해자들에게 진정성 없게 들렸다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "corridor",
+    "meaning": "(명) 회랑, 통로; (교통·해상) 루트",
+    "note": "건물의 복도, 또는 국가·지역 사이 이동 통로. a shipping/humanitarian corridor(해상 운송/인도주의 통로), a US-backed corridor. 비유: the corridors of power(권력의 중심부).",
+    "examples": [
+      {
+        "en": "Tankers were using a US-backed corridor near the Strait of Hormuz.",
+        "ko": "유조선들은 호르무즈 해협 인근의 미국 지원 항로를 이용하고 있었다."
+      },
+      {
+        "en": "The UN called for a humanitarian corridor.",
+        "ko": "유엔은 인도주의 통로 개설을 촉구했다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "verify",
+    "meaning": "(동) 확인하다, 검증하다",
+    "note": "사실 여부를 확인할 때. independently verified(독자적으로 확인된), could not be verified(확인할 수 없었다), verify your identity/email. 명사 verification. 뉴스에서 미확인 주장을 전할 때 필수.",
+    "examples": [
+      {
+        "en": "The IRGC statement has not been independently verified.",
+        "ko": "혁명수비대의 성명은 독자적으로 확인되지 않았다."
+      },
+      {
+        "en": "Please verify your email address.",
+        "ko": "이메일 주소를 인증해 주세요."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "loan",
+    "meaning": "(명/동) 대출(하다), 빌려주다",
+    "note": "돈을 빌려주는 것. take out a loan(대출을 받다), a $49 billion loan for Ukraine, student loans. 동사로 loan someone money(=lend). pay off a loan(앱의 pay off).",
+    "examples": [
+      {
+        "en": "EU leaders failed to agree on a $49 billion loan for Ukraine.",
+        "ko": "EU 정상들은 우크라이나에 대한 490억 달러 대출에 합의하지 못했다."
+      },
+      {
+        "en": "I took out a loan to buy a car.",
+        "ko": "차를 사려고 대출을 받았다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "harassment",
+    "meaning": "(명) 괴롭힘, 희롱",
+    "note": "지속적으로 괴롭히거나 위협하는 것. sexual harassment(성희롱), workplace harassment(직장 내 괴롭힘), a harassment case/complaint. 동사 harass.",
+    "examples": [
+      {
+        "en": "Police arrested a lawmaker in a harassment case.",
+        "ko": "경찰은 괴롭힘 사건으로 한 의원을 체포했다."
+      },
+      {
+        "en": "The company has a strict policy against harassment.",
+        "ko": "그 회사는 괴롭힘에 대해 엄격한 방침이 있다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "contempt",
+    "meaning": "(명) 경멸; (법) 모독, 불복",
+    "note": "① 법률: contempt of court(법정 모독), a contempt notice/charge(법원 명령 불이행에 대한 소환·혐의). ② 일반: 경멸(hold someone in contempt). 형용사 contemptuous(경멸하는).",
+    "examples": [
+      {
+        "en": "The Supreme Court issued a contempt notice to top officials.",
+        "ko": "대법원은 고위 당국자들에게 법정 모독 통지를 보냈다."
+      },
+      {
+        "en": "He looked at me with contempt.",
+        "ko": "그는 나를 경멸하는 눈으로 쳐다봤다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "outbreak",
+    "meaning": "(명) (질병·전쟁의) 발생, 발병, 발발",
+    "note": "갑자기 퍼지거나 시작되는 것. an outbreak of measles/flu(홍역/독감 집단 발병), the outbreak of war(전쟁 발발), declare an outbreak. 동사구 break out(발생하다).",
+    "examples": [
+      {
+        "en": "Health officials declared a whooping cough outbreak.",
+        "ko": "보건 당국은 백일해 집단 발병을 선포했다."
+      },
+      {
+        "en": "The outbreak of war forced millions to flee.",
+        "ko": "전쟁 발발로 수백만 명이 피란했다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "bar",
+    "meaning": "(동) 금지하다, 막다 / (명) 막대; 술집; 변호사 직군",
+    "note": "be barred from ~ing = ~하는 것이 금지되다(be banned from). 헤드라인 단골(Central bank barred from printing money). 명사 the bar(변호사 업계: pass the bar 변호사 시험에 합격하다), raise the bar(앱에 저장됨).",
+    "examples": [
+      {
+        "en": "The central bank is barred from printing money to fund the government.",
+        "ko": "중앙은행은 정부 재정을 위해 돈을 찍어내는 것이 금지됐다."
+      },
+      {
+        "en": "Fans were barred from entering the stadium.",
+        "ko": "팬들은 경기장 입장을 금지당했다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "flooding",
+    "meaning": "(명) 홍수, 침수",
+    "note": "물이 넘쳐 땅·건물이 잠기는 것. flash flooding(돌발 홍수), coastal flooding, roads were flooded. 동사 flood(침수시키다; 쇄도하다: be flooded with calls).",
+    "examples": [
+      {
+        "en": "The storm left roads flooded and 900,000 people without power.",
+        "ko": "폭풍으로 도로가 침수되고 90만 명이 정전을 겪었다."
+      },
+      {
+        "en": "The office was flooded with complaints.",
+        "ko": "사무실에 항의가 쇄도했다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "postponement",
+    "meaning": "(명) 연기, 미룸",
+    "note": "postpone(앱에 저장됨)의 명사형. announce a postponement, after the postponement of ~(~이 연기된 뒤). 비슷한 delay.",
+    "examples": [
+      {
+        "en": "Performers raced to stay in town after the parade's postponement.",
+        "ko": "퍼레이드가 연기된 뒤 공연자들은 숙소를 구하느라 분주했다."
+      },
+      {
+        "en": "The postponement of the vote angered many members.",
+        "ko": "표결 연기에 많은 의원이 분노했다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "word",
+    "term": "technician",
+    "meaning": "(명) 기술자, 기사",
+    "note": "장비·기계를 다루는 전문 인력. a lab/medical/repair technician. 비슷한 engineer(설계·개발 쪽), mechanic(자동차 정비사).",
+    "examples": [
+      {
+        "en": "A drone strike killed two Italian technicians in Kuwait.",
+        "ko": "쿠웨이트에서 드론 공격으로 이탈리아인 기술자 두 명이 숨졌다."
+      },
+      {
+        "en": "A technician will come to fix the internet tomorrow.",
+        "ko": "내일 기사님이 인터넷 고치러 오실 거야."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "race to",
+    "meaning": "서둘러 ~하려 애쓰다, ~하려고 경쟁하다",
+    "note": "급하게 무언가를 하려고 분주할 때. race to + 동사(race to stay/fix/finish). scramble to(앱의 scrambling)와 비슷. 명사 a race to the bottom(바닥을 향한 경쟁, 출혈 경쟁).",
+    "examples": [
+      {
+        "en": "Performers raced to find hotel rooms after the parade was postponed.",
+        "ko": "퍼레이드가 연기되자 공연자들은 호텔 방을 구하느라 분주했다."
+      },
+      {
+        "en": "Engineers are racing to fix the bug before launch.",
+        "ko": "엔지니어들은 출시 전에 버그를 고치려고 서두르고 있다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "without power",
+    "meaning": "정전된, 전기가 끊긴",
+    "note": "정전 뉴스 공식 표현. leave ~ without power(~를 정전시키다), customers without power. outage(앱에 저장됨)와 함께.",
+    "examples": [
+      {
+        "en": "More than 900,000 people were left without power.",
+        "ko": "90만 명 넘게 정전 피해를 입었다."
+      },
+      {
+        "en": "We were without power for two days after the storm.",
+        "ko": "폭풍 후 우리는 이틀 동안 정전이었다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "take responsibility for",
+    "meaning": "~에 대해 책임을 지다, ~을 인정하다",
+    "note": "잘못이나 일을 자기 책임으로 받아들일 때. take responsibility for the mistake/attack. claim responsibility(테러 배후를 자처하다, 앱의 claim)와 구별. 반대 deny responsibility.",
+    "examples": [
+      {
+        "en": "Iran's foreign minister denied responsibility for the attack.",
+        "ko": "이란 외무장관은 그 공격에 대한 책임을 부인했다."
+      },
+      {
+        "en": "Leaders should take responsibility for their decisions.",
+        "ko": "지도자는 자기 결정에 책임을 져야 한다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "agree on / to / with",
+    "meaning": "(합의 대상)에 합의하다 / (제안)에 동의하다 / (사람·의견)에 동의하다",
+    "note": "전치사로 뜻 구별: agree on a budget(예산에 합의하다), agree to a plan/terms(제안·조건을 받아들이다), agree with someone/an opinion(~의 의견에 동의하다). 뉴스: failed to agree on ~.",
+    "examples": [
+      {
+        "en": "EU leaders failed to agree on the budget.",
+        "ko": "EU 정상들은 예산에 합의하지 못했다."
+      },
+      {
+        "en": "I agree with you, but my boss won't agree to the plan.",
+        "ko": "난 네 말에 동의하는데 상사가 그 계획을 받아들이지 않을 거야."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "it's been ~ since",
+    "meaning": "~한 지 (기간)이 됐다",
+    "note": "마지막으로 무언가를 한 뒤 지난 시간. It's been two years since I saw her.(그녀를 본 지 2년 됐어) 대화 필수. It's been a while.(오랜만이야)",
+    "examples": [
+      {
+        "en": "It's been ages since we last talked.",
+        "ko": "우리 마지막으로 얘기한 지 엄청 오래됐다."
+      },
+      {
+        "en": "It's been a week since the storm, and some homes still have no power.",
+        "ko": "폭풍이 지난 지 일주일인데 아직도 정전인 집들이 있다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "what's more",
+    "meaning": "게다가, 더욱이",
+    "note": "앞 내용에 더 중요한 점을 덧붙일 때. on top of that(앱에 저장됨)보다 조금 글말 느낌. 비슷한 moreover(격식), plus(구어).",
+    "examples": [
+      {
+        "en": "The hotel is cheap. What's more, it's right by the beach.",
+        "ko": "그 호텔은 싸. 게다가 바로 해변 옆이야."
+      },
+      {
+        "en": "The plan is risky. What's more, it's expensive.",
+        "ko": "그 계획은 위험해. 더욱이 비싸기도 하고."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "in that case",
+    "meaning": "그렇다면, 그런 경우라면",
+    "note": "상대 말을 듣고 결론을 낼 때. 대화 단골. 비슷한 then, if that's so. in case(만약을 대비해, 앱에 저장됨)와 구별.",
+    "examples": [
+      {
+        "en": "It's going to rain? In that case, let's stay home.",
+        "ko": "비 온다고? 그럼 집에 있자."
+      },
+      {
+        "en": "You're busy? In that case, we can meet tomorrow.",
+        "ko": "바빠? 그렇다면 내일 만나도 돼."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "as if",
+    "meaning": "마치 ~인 것처럼",
+    "note": "사실이 아닌 것을 비유할 때. as if + 문장(가정법이면 were/had p.p.). 단독 As if!(퍽이나, 말도 안 돼, 구어). 비슷한 as though.",
+    "examples": [
+      {
+        "en": "He talks as if he knows everything.",
+        "ko": "그는 모든 걸 다 아는 것처럼 말한다."
+      },
+      {
+        "en": "She looked at me as if I were crazy.",
+        "ko": "그녀는 내가 미친 사람인 것처럼 쳐다봤다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "not until",
+    "meaning": "~이 되어서야 비로소",
+    "note": "어떤 시점이 지나서야 일이 일어날 때. I didn't realize it until later.(나중에서야 깨달았다) 강조형 It wasn't until ~ that ~(~하고 나서야 ~했다).",
+    "examples": [
+      {
+        "en": "The store doesn't open until 10.",
+        "ko": "그 가게는 10시나 돼야 문을 연다."
+      },
+      {
+        "en": "It wasn't until I got home that I noticed the mistake.",
+        "ko": "집에 와서야 실수를 알아챘다."
+      }
+    ],
+    "added": "2026-11-28"
+  },
+  {
+    "type": "phrase",
+    "term": "the moment (that)",
+    "meaning": "~하는 순간, ~하자마자",
+    "note": "as soon as(앱에 저장됨)와 같은 뜻, 더 생생한 느낌. the moment + 문장. 비슷한 the minute, the second.",
+    "examples": [
+      {
+        "en": "The moment I saw her, I knew something was wrong.",
+        "ko": "그녀를 본 순간 뭔가 잘못됐다는 걸 알았다."
+      },
+      {
+        "en": "Call me the moment you land.",
+        "ko": "착륙하자마자 전화해."
+      }
+    ],
+    "added": "2026-11-28"
   }
 ]
